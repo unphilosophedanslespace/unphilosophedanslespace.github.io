@@ -34,9 +34,9 @@ title = "Articles"
 #  show_more_text = "Voir plus d'articles..."
 #  show_more_url = "posts"
 
-[[entries]]
-title = "Flux rss"
-url = "index.xml"
+#[[entries]]
+#title = "Flux rss"
+#url = "index.xml"
 
 #[[entries]]
 #title = "another list"

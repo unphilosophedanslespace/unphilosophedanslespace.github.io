@@ -3,7 +3,7 @@ title: "Pourquoi philosopher sur l'espace ?"
 date: 2024-01-17T14:23:18+01:00
 draft: false 
 ---
-Je n'entends tout d'abord pas raisonner sur l'espace des mathématiciens, mais bien sur celui des astrophysiciens. Je ne suis pas le premier à le faire, mais c'est une discipline si maigre qu'elle demande un peu d'explication !
+Je n'entends tout d'abord pas raisonner sur l'espace des mathématiciens, mais bien sur celui des astrophysiciens. Je ne suis pas le [premier](https://fr.wikipedia.org/wiki/jacques_Merleau-Ponty) à le faire, mais c'est une discipline si maigre qu'elle demande un peu d'explication !
 
 Historiquement, la philosophie et l'astronomie ont été longtemps liées. Tout d'abord chez les grecs: on y trouve le commun mot d'ordre qu'en astronomie, il "sauver les apparences". Cela veut dire que l'astronomie n'est pas une question d'ontologie à proprement parler, mais plutôt une question de description mathématique et géométrique du ciel. C'est dans cette veine grecque que la plupart des astronomes opèrent avant l'apparition de la lunette à la fin du XVIème siècle. Cela signifie que l'astronomie a été complétée dans les siècles suivants jusqu'à aujourd'hui par des instruments et des expériences reproductibles, mais qu'elle a également conservé une tendance à la modélisation mathématique.
 

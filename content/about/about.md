@@ -7,4 +7,4 @@ Je suis diplômé d'un master en philosophie et histoire des sciences et d'une l
 
 De temps à autres, je prends des photos.
 
-![Photographie éthérée d'un jardin, avec des buissons et un arbre compressés par la perspective](/img/apropos.jpg "Photographie personelle, CC-BY-NC-ND")
+![Photographie éthérée d'un jardin, avec des buissons et un arbre compressés par la perspective](/img/apropos.jpg "Photographie personelle, Adox CMS 20, CC-BY-NC-ND")

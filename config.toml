@@ -37,3 +37,13 @@ theme = "nostyleplease"
     appearance = "auto"
     back_home_text = ".."
     date_format = "2006-01-02"
+  [params.author]
+	email = 'ouhou@gmail.com'
+	name = 'john doe'
+
+[outputs]
+home = ['html', 'rss']
+
+[services]
+	[services.rss]
+		limit = 42

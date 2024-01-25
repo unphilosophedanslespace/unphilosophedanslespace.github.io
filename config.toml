@@ -1,7 +1,6 @@
 title = "Un philosophe dans l'espace"
 theme = "nostyleplease"
 
-
 [module]
   [module.hugoVersion]
     extended=true

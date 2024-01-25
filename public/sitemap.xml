@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/philo-th-astro/</loc>
-    <lastmod>2024-01-18T15:44:18+01:00</lastmod>
+    <loc>/posts/bachelard-duhem/</loc>
+    <lastmod>2024-01-25T00:24:39+01:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
+    <lastmod>2024-01-25T00:24:39+01:00</lastmod>
+  </url><url>
+    <loc>/posts/philo-th-astro/</loc>
     <lastmod>2024-01-18T15:44:18+01:00</lastmod>
   </url><url>
     <loc>/posts/voir-telescope/</loc>

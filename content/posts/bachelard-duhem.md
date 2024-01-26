@@ -1,5 +1,5 @@
 ---
-title: "En quoi un instrument i-t-il une forme précise de réalité ?"
+title: "En quoi un instrument instigue-t-il une forme précise de réalité ?"
 date: 2024-01-25T00:24:39+01:00
 draft: false
 ---

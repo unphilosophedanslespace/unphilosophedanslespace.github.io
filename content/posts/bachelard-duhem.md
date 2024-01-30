@@ -1,5 +1,5 @@
 ---
-title: "En quoi un instrument instigue-t-il une forme précise de réalité ?"
+title: "En quoi un instrument implique-t-il une forme précise de réalité ?"
 date: 2024-01-25T00:24:39+01:00
 draft: false
 ---
@@ -24,4 +24,4 @@ Interpréter une mesure ne se fait pas naïvement, mais s'opère dans l'espace d
 
 En lui-même, un instrument crée un type de connaissance particulier dans lequel est contenu un ensemble de phénomènes inaccessibles sans son média. Il mène alors à l'idée de contrôle de l'instrument et à l'idée de différenciation entre l'artefact et le phénomène réel. Lorsqu'il est inclus dans un système épistémique caractérisé par la logique mathématique et un empirisme fort, il crée une dialectique spéciale qui ouvre un espace régit par deux domaines: la logique des mathématiques et les limites de réalité de l'expérience. Dans cet espace, il y a nécessairement une forme d'arbitraire: les choix logiques sont libres pour chaque acteur, et contraints par les modèles et équations empruntées; le contrôle de l'expérience est nécessairement faillible et aucune donnée (astronomique) n'est purement non-artefact ou non-modifiée.
 
-La réalité instiguée par un instrument ne tient qu'à la crédibilité qu'on peut lui conférer, laquelle est limitée par les artefacts présents et la représentabilité du phénomène par une théorie. Cette représentabilité existe à plusieurs niveaux, elle s'étend du choix du symbole et des dimensions de la mesure jusqu'à celui d'équations particulières et générales. La vérité de l'équation repose en même temps sur sa capacité à représenter le phénomène. Toute incapacité permet alors de douter de la réalité du phénomène ou de la justesse de la loi proposée.
+La réalité impliquée par un instrument ne tient qu'à la crédibilité qu'on peut lui conférer, laquelle est limitée par les artefacts présents et la représentabilité du phénomène par une théorie. Cette représentabilité existe à plusieurs niveaux, elle s'étend du choix du symbole et des dimensions de la mesure jusqu'à celui d'équations particulières et générales. La vérité de l'équation repose en même temps sur sa capacité à représenter le phénomène. Toute incapacité permet alors de douter de la réalité du phénomène ou de la justesse de la loi proposée.

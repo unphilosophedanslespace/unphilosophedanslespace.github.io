@@ -3,6 +3,9 @@ title: "Lecture: 'Stellar structure and compact objects before 1940...' de Luisa
 date: 2024-01-25T15:40:30+01:00
 draft: false
 ---
+
+![fdxlcbhjkgfdhj](/img/Fugue.JPG)
+
 **Titre**: "Stellar structure and compact objects before 1940: Towards relativistic astrophysics"
 
 **Auteure**: Luisa Bonolis

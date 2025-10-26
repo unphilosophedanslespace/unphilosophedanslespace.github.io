@@ -1,0 +1,29 @@
+---
+const pageTitle= "Pensées";
+import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import '../styles/global.css';
+---
+<html lang="fr">
+	<head>
+		<meta charset="utf-8"/>
+		<meta name="viewport" content="width-device-with"/>
+		<title>{pageTitle}</title>
+	</head>
+	<body>
+<Header />
+
+	  <h1>{pageTitle}</h1>
+	  <p>Attention ça fait mal.</p>
+
+	  <ul>
+		  <li><a href="/posts/stellar-structure-bonolis">Lecture: 'Stellar structure and complact objects before 1940...' de Luisa Bonolis</a></li>
+		  <li><a href="/posts/bachelard-duhem">En quoi un instrument implique-t-il une forme précise de réalité ?</a></li>
+		  <li><a href="/posts/philo-thastro/">Peut-on philosopher sur la théorie astrophysique ?</a></li>
+		  <li><a href="/posts/voir-telescope/">Peut-on philosopher sur un télescope ?</a></li>
+		  <li><a href="/posts/pourquoi/">Pourquoi philosopher sur l'espace ?</a></li>
+	  </ul>
+	  <Footer />
+	</body>
+</html>

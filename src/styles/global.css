@@ -1,0 +1,41 @@
+@font-face {
+        font-family: "Jacquard 12";
+        src:
+                local("Jacquarda 12")
+                url("Jacquard12-Regular.woff") format("woff");
+        }
+@font-face {
+	font-family: "Jacquard 24";
+	src:
+		local("Jacquard 24")
+		url("Jacquard24-Regular.woff") format("woff");
+	}
+@font-face {
+	font-family: "Playwrite FR Trad", cursive;
+	src:
+		local("Playwrite FR Trad")
+		url("PlaywriteFRTRAD-VariableFont_wght.woff") format ("woff");
+	}
+
+html {
+  background-color: #00000;
+}
+
+body {
+  width: 100%;
+  padding: 1rem;
+  line-height: 2;
+}
+footer {
+	font-size: xx-small;
+	display: flex;
+	gap: 1rem;
+	margin-top: 2rem;
+}
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+	margin: 1rem 0;
+}

@@ -1,0 +1,48 @@
+---
+const pageTitle="A propos d'un gros cerveau";
+
+const identity = {
+  firstName: "Benjamin",
+  country: "France",
+  occupation: "un énorme cerveau, du type vraiment impressionnant, le genre de masse de matière grise qu'on ne voit que rarement, il faut me croire",
+  hobbies: ["la photographie", "l'écriture","astronomie"],
+};
+
+const skills = ["Lire","Connaître l'alphabet de A à Z","Compter de 1 à 10"];
+
+const happy = true;
+const finished = false;
+const goal = 2;
+
+import Navigation from '../components/Navigation.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import '../styles/global.css';
+---
+
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{pageTitle}</title>
+  </head>
+
+<body>
+<Header />
+
+  <h1>{pageTitle}</h1>
+  
+  <p>Quelques faits à propos de moi:</p>
+  <ul>
+    <li>Je m'appelle {identity.firstName}.</li>
+    <li>Je vis en {identity.country} et j'ai {identity.occupation}.</li>
+    {identity.hobbies.length >= 2 &&
+    <li>Deux de mes violons d'Ingres sont: {identity.hobbies[0]} et {identity.hobbies[1]}</li>
+    }
+  </ul>
+<p> Mes talents: </p>
+<ul>
+	{skills.map((skill) => <li>{skill}</li>)}
+</ul>
+<Footer />
+</body>

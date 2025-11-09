@@ -81,11 +81,11 @@ Citations:
 
 #### *Métaphysique*, G, 1 et 2
 
-"to on hè on", science de l'être en tant qu'être: "hè" ici prend un sens restrictif, c'est l'être en tant qu'il est tout court. Trouver les causes premièresde l'être en tant qu'être ne se distingue par dans l'entreprise pour pour Aristote, d'une exploration de toutes les catégories d'être et de leur mode de génération. 
+"to on hè on", science de l'être en tant qu'être: "hè" ici prend un sens restrictif, c'est l'être en tant qu'il est tout court. Trouver les causes premières de l'être en tant qu'être ne se distingue pas dans l'entreprise pour Aristote, d'une exploration de toutes les catégories d'être et de leur mode de génération. 
 
-Cependant une science plus première subsume toutes les autres: le proposition "une homme est" est identique à "homme est" (le particulier est identique à son principe général). 
+Cependant une science plus première subsume toutes les autres: la proposition "une homme est" est identique à "homme est" (le particulier est identique à son principe général). 
 
-Il y a un double mouvement de l'Être à l'être (du général au particulier) et de l'être à l'Être (du particulier au général) afin de trouver le principe de l'Être en tant qu'être (ce qui fait l'être de tout être, le principe de tous les principes généraux).
+Il y a un double mouvement de l'Être à l'être (du général au particulier) et de l'être à l'Être (du particulier au général) afin de trouver le principe de l'Être en tant qu'être (ce qui fait l'Être de tout être, le principe de tous les principes généraux).
 
 Seul le philosophe, qui s'étonne et cherche les causes premières, peut s'adonner à cette recherche: le dialecticien ne cherche que la critique et le sophiste ne produit que l'apparence de la philosophie, aucunement le contenu. Seul un véritable étonnement philosophique est à même d'entamer la recherche des causes premières, qui est la plus libre de toutes.
 
@@ -93,11 +93,11 @@ Citations:
 
 #### *Métaphysique*, E, 1
 
-La science de l'être en tant qu'être est la science du plus général, donc: de l'ummobile et du séparé (séparé de la génération, des accidents, des catégories, de toute région matérielle de l'être). Parmi les sciences spéculatives, les mathématiques ne sont pas séparées (elle s'appliquent à des objets matériels malgré des objets immobiles) et la physique (connaissance de la nature: de la génération des objets naturels) très de mobiles non-séparés. La science de l'Être en tant qu'être, si elle est possible, doit être plus générale que ces sciences spéculatives: alors seulement elle peut se présenter en tant que théoologie (le plus général étant aussi le plus divin).
+La science de l'être en tant qu'être est la science du plus général, donc: de l'immobile et du séparé (séparé de la génération, des accidents, des catégories, de toute région matérielle de l'être). Parmi les sciences spéculatives, les mathématiques ne sont pas séparées (elle s'appliquent à des objets matériels malgré des objets immobiles) et la physique (connaissance de la nature: de la génération des objets naturels) traite de mobiles non-séparés. La science de l'Être en tant qu'être, si elle est possible, doit être plus générale que ces sciences spéculatives: alors elle peut se présenter en tant que théoologie (le plus général étant aussi le plus divin).
 
-La question du champ d'objet propre à cette science est résolue logiquement par Aristote en excluant les principes généraux des sciences les plus générales (mathématique et physique) qui auraient pu y prétendre. Elle n'est donc nis cience du mobile ni de l'attaché à des objets matériels: science de l'extrinsèque à toute nature et toute matérialité. 
+La question du champ d'objet propre à cette science est résolue logiquement par Aristote en excluant les principes généraux des sciences les plus générales (mathématique et physique) qui auraient pu y prétendre. Elle n'est donc ni science du mobile ni de l'attaché à des objets matériels: science de l'extrinsèque à toute nature et toute matérialité. 
 
-Elle cherche à connaître le principe des objets immobiles et séparés, de tout objet dont elle serait la cause dans un sens non-naturel, non-pratique et non-poétique: celles-ci ont des causes immanentes (l'action de la pratique a pour cause le choix qui se trouve dans le sujet de l'action, la poétique a pour cause l'artiste, les objets de la nature ont le propre cause de croissance).
+Elle cherche à connaître le principe des objets immobiles et séparés, de tout objet dont elle serait la cause dans un sens non-naturel, non-pratique et non-poétique: car les causes correspondantes sont immanentes (l'action de la pratique a pour cause le choix qui se trouve dans le sujet de l'action, la poétique a pour cause l'artiste, les objets de la nature ont leur propre cause de croissance).
 
 Citations: 
 
@@ -105,10 +105,10 @@ Citations:
 
 Métaphysique: *ma ba'd al-tabîa*, "ce qui vient après la nature".
 
-Avicenne reprend à son compte la conception aristotélicienne de la philosphie première et l'unifie clairement: c'est la science suprêmement noble, suprêmement vraie et des causes premières de tout. Il fait évoluer cette définition: elle est aussi **science de l'existant causé en tant qu'il est existant causé**: l'existence de l'être en tant qu'être ne se sutifiant pas par un principe.
+Avicenne reprend à son compte la conception aristotélicienne de la philosphie première et l'unifie clairement: c'est la science suprêmement noble, suprêmement vraie et des causes premières de tout. Il fait évoluer cette définition: elle est aussi **science de l'existant causé en tant qu'il est existant causé**: l'existence de l'être en tant qu'être ne se justifiant pas par un principe.
 
-Cette science se précise comme une théologie: le contenu de l'existence de Dieu comme cause de tout (ses pseudo-accidents qui ne sont pas des divisions mais des universels absolu: la substance, la quantité, la qualité; l'un et le multiple, la puissance et l'acte, l'universel et le particulier, le possible et le nécessaire (des contraires transcendantaux), mais l'existence de Dieu est la première cause: elle est non-causée et en tant que cause, n'est pas un sujet de métaphysique (bien que le contenu de l'existence de Dieu soit un sujet légitime de recherche).
+Cette science se précise comme une théologie: le contenu de l'existence de Dieu comme cause de tout. Comme l'Être aristotélicien, la cause première possède des accidents qui ne sont pas des divisions, mais font partie de l'universel absolu: la substance, la quantité, la qualité; l'un et le multiple, la puissance et l'acte, l'universel et le particulier, le possible et le nécessaire (des contraires transcendantaux). Mais l'existence de Dieu est la première cause: elle est non-causée et en tant que cause, n'est pas un sujet de métaphysique (bien que le *contenu* de l'existence de Dieu soit un sujet légitime de recherche).
 
-Généralement, elle est science de tout ce qui est sans matière , donc s'étend des prmeières causes à toutes les distinctions immatérielles du réel, dont les principes abstraits des sciences (physique, mathématiques).
+Généralement, elle est science de tout ce qui est sans matière, donc s'étend des premières causes à toutes les distinctions immatérielles du réel, dont les principes abstraits des sciences (physique, mathématiques).
 
 Citations:

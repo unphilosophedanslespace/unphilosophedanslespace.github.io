@@ -1,0 +1,23 @@
+---
+title: "Philosophie de la construction du télescope d'amateur"
+pubDate: 2025-11-09
+description: 'oui'
+author: 'Benjamin'
+tags: ["astro", "philo"]
+---
+
+# Penser à construire
+
+La construction du télescope d'amateur se présente de prime abord sous plusieurs facettes à celui qui l'entreprend. Elle se présente comme un un art à acquérir et de fait, comme un espace absolument virtuel de configurations potentielles et d'hypothèses sur le fonctionnement d'un télescope, un environnement hypothétique qui motive son propre enrichissement. Elle se présente comme la possibilité effective de créer un instrument qui étend les capacités de la vision humaine, donc comme la réalisation d'une capacité technique. Enfin elle se présente comme l'ouverture d'une connaissance nouvelle.
+
+## L'espace absolument virtuel des possibles
+
+Je ne saurais exactement me rappeler comment j'ai pensé à la possibilité de construire un télescope d'amateur. J'ai toujours eu un intérêt pour l'astronomie et pour la philosophie, d'autre part j'apprécie la photographie et je m'intéresse à l'optique. Mais je ne sais pas exactement comment j'en suis venu à ce sujet. Le fait est que même en cherchant des informations sur l'astronomie et les télescopes, le sujet n'est pas nécessairement facile à trouver: bien qu'ouverte et vivante en ligne, la communauté des constructeurs de télescope d'amateur est fermée du fait, d'un côté, qu'elle est très majoritairement anglophone (le <a href="https://www.cloudynights.com/forums/">forum de référence</a> étant anglophone) et d'un autre côté, qu'elle possède son propre vocabulaire et ses propres techniques. Se renseigner sur la construction du télescope d'amateur ne peut pas venir de nulle part (il faut savoir que c'est une chose !) et n'est pas facile (c'est toute une culture à acquérir).
+
+Mais je sais que si un livre a changé la donne et m'en a donné l'envie sûre, c'est celui de <a href="http://www.astrosurf.com/luxorion/texereau-jean-hommage.htm">Jean Texereau</a>. La raison en est que ce livre a quelque chose de philosophique: il est si clair, si dissert dans ses explications, qu'il est impossible de n'en pas apprendre quelque chose - bien que plusieurs relectures soient nécessaires pour se faire au vocabulaire et pour comprendre comment toutes les parties du télescope se mettent ensemble.
+
+Cependant il est impossible de négliger l'influence toute aussi importante d'<a href="https://archive.org/details/in.ernet.dli.2015.37314/mode/2up">Amateur Telescope Making</a> (3 tomes). En fait, il n'y a rien d'original à mon approche: ces livres sont les deux sources majeures de la littérature sur la construction du télescope. Ils sont au fondement de la tradition amateure contemporaine.
+
+Mais du fait qu'ils ont été composés dans le but de donner la capacité à un individu de construire un télescope de fond en comble, ces livres réalisent quelque chose de rare: ils donnent des idées. Ils n'ont aucunement pour but de créer un dogme du télescope parfait ou une définition de la seule et meilleure technique: ils ont ce ton particulier, qui est de donner autant d'options qu'il peut exister et d'inviter à la divergence. L'envergure "amateure" est justement synonyme, dans ces ouvrages, et d'ailleurs pour toute la communauté, d'inventivité. Donner la capacité à faire soi-même est systématiquement exprimé comme une incitation à penser par soi-même, donc à mettre à l'épreuve des idées personnelles sur la technique astronomique. C'est un champ qui met l'innovation individuelle à l'honneur et je crois que c'est une qualité rare.
+
+

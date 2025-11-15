@@ -173,7 +173,7 @@ Descartes reprend les thèmes majeurs la métaphysique (Dieu, l'âme) et en donn
 
 Avoir des idées, notamment une idée pure (sans imagination) de Dieu est possible car:
 
-1) être en mesure de s'exprimer à propos de Dieu, même n'en qualifier que l'ignorance de ses attributs, c'est déjà avoir une connaissance de Dieu, qui est la même que tout un chacun possède (c'est déjà pouvoir concevoir qu'il ait ces attributs, même pour les nier),
+1) être en mesure de s'exprimer à propos de Dieu, même pour n'en qualifier que l'ignorance de ses attributs, c'est déjà avoir une connaissance de Dieu, qui est la même que tout un chacun possède (c'est déjà pouvoir concevoir qu'il ait ces attributs, même pour les nier),
 2) il ne s'ensuit pas logiquement qu'il existe, car il faut déjà admettre que son idée dépasse toute mesure de l'humainement compréhensible (infini...): concevable mais surhumain (incompréhensible) donc être réel extérieur,
 3) l'âme, du fait que l'on conçoit, est la plus concevable donc parfaitement connaissable (équivalence de l'âme et du cogito: l'âme n'est autre chose que ce qui accompagne une pensée chaque fois qu'elle pense).
 L'idée de Dieu tirée de l'âme (et non pas tirée de l'iamgination) est absolument véritable et certaine (elle est connaissable et surhumaine).

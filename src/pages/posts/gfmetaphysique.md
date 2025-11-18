@@ -11,17 +11,21 @@ tags: ["philo","métaphysique","fiche de notes"]
 
 ### Kant, *La critique de la raison pure*, Préface de la première édition, trad. révisée Barni, GF, 1987, p. 29-32.
 
-Kant envisage la métaphysique de deux manières: comme une science à laquelle l'on est devenu indifférent (car, étant sans expérience, elle ne décide rien) et en même temps comme un besoin inné. Il se pose alors pour but de résoudre cette indifférence par le tribunal de la *Critique de la raison pure*, c'est-à-dire de juger de ce que cette science sans expérience peut proposer de vrai - et en même temps de déterminer ses illusions. En rétablissant l'authenticité épistémologique de la métaphysique, la métaphysique peut se défaire de l'indifférence qu'elle cause par son apparence de combat sans fin.
+Kant envisage la métaphysique de deux manières: comme une science à laquelle l'on est devenu indifférent (car, étant sans expérience, elle ne décide rien, ce qui ne correspond pas à un esprit scientifique de plus en plus empiriste) et en même temps comme un besoin inné. Il se pose alors pour but de résoudre cette indifférence par le tribunal de la *Critique de la raison pure*, c'est-à-dire de juger de ce que cette science sans expérience peut proposer de vrai - et en même temps de déterminer ses illusions. En rétablissant l'authenticité épistémologique de la métaphysique, la métaphysique peut se défaire de l'indifférence qu'elle cause par son apparence de combat sans fin.
 
 Ce faisant, Kant utilise la métaphysique (la connaissance de soi) pour réévaluer l'entreprise métaphysique (la science sans expérience qui est comme un champ de bataille sans fin) et lui attribuer une nouvelle direction (l'épistémologie).
 
-Citations:
+<u>Citations</u>:
 
 "Mais aujourd'hui, il est de mode de lui témoigner un mépris absolu, et la dame, repoussée et abandonnée de tous, s'écrie avec Hécube: *Modo maxima rerum, /Tot generis natisque potens,.../Nunc trabor exul, inops*" (Ovide, Métamorphoses, XIII, 508-510; "Il y a peu la plus grande de toutes, puissante par tant de gendres et de fils... voici maintenant que je suis exilée, depouillée").
 
 "Il est bien vain, en effet, de vouloir affecter de l'*indifférence* pour des recherches dont l'objet ne saurait être *indifférent* à la nature humaine."
 
-"
+"instituer un tribunal qui, en assurant ses légitimes prétentions, repousse aussi toutes celles de ses exigences qui sont sans fondement, non par une décision arbitraire, mais au nom de ses lois éternelles et immuables. Ce tribunal, c'est la *Critique de la raison pure* elle-même.
+
+Je n'entends point par là une critique des livres et des systèmes, mais celle du pouvoir de la raison en général, [considérée] par rapport à toutes les connaissances auxquelles elle peut s'élever *indépendamment de toutes expériences* ; par conséquent la solution de la question de la possibilité ou de l'impossibilité d'une métaphysique en général, et la détermination de ses sources, de son étendue et de ses limites, tout cela en suivant des principes."
+
+"Toute la question ici soulevée est de savoir jusqu'où je puis espérer d'arriver avec la raison, alors que toute matière et tout concours de l'expérience m'est enlevé."
 
 ### Hegel, *Encyclopédie des sciences philosophiques*, Addition au §28, traduction Bourgeois, Vrin, p. 484-486
 
@@ -29,19 +33,29 @@ Si la métaphysique est appliquée toujours comme une activité de l'entendement
 
 Lorsque le sujet se prend pour objet, il pense de manière infinie: aucune limite unilatérale du type vrai et non-vrai, simple et composé... aucune catégorie de l'entendement ne peut lui être appliqué. La métaphysique rationnelle est infinie car **son objet est total** et que la totalité est une dialectique sans fin. Si le moi est l'objet de la métaphysique, alors elle ne peut être finie.
 
-Si l'on repense à Kant: l'intérêt véritable de la métaphysique ne se trouve pas dans sa réévaluation après la critique (une utilité épistémologique qui permet de mesurer le connaissable par inspection des limites de l'esprit) mais plutôt dans sa visée authentique qui permet, en saisissant l'esprit en action, de distinguer plusieurs ontologies du monde du sujet et notamment le fait que la métaphysique du fini et la métaphysique de la réflexion sont incompatibles car l'une subsume l'autre.
+Si l'on repense à Kant: l'intérêt véritable de la métaphysique ne se trouve pas dans sa réévaluation après la critique (une utilité épistémologique qui permet de mesurer le connaissable par inspection des limites de l'esprit) mais plutôt dans sa visée authentique qui permet, en saisissant l'esprit en action, de distinguer plusieurs ontologies du monde du sujet et notamment le fait que la métaphysique du fini et la métaphysique de la réflexion sont deux faces du même esprit car l'une subsume l'autre. La métaphysique rationnelle permet de surpasser les distinctions de la métaphysique d'entendement.
 
 Cette distinction puissante permet de disserter sur le monde métaphysique auquel un sujet peut prétendre toucher, tout en remettant en question les défis classiques posés à la métaphysique par rapport à son apparente impossiblité: peut-être a-t-elle été mal comprise dans sa visée (le moi confondu avec l'entendement) ou dans son application (téléologie de la finitude qui ne correspond pas à un objet fini, ou inversement). Synthétiquement, la vraie métaphysique est atteinte chez Hegel lorsque le sujet saisit que le vrai est une totalité dans laquelle les concepts de l'entendement se suppriment mutuellement. Faire de la métaphysique passe obligatoirement par une critique de l'histoire de la métaphysique, qui est cependant aussi une révolution ontologique puisque la reconceptualisation de la métaphysique introduit une nouvelle dichotomotie et une nouvelle dialectique dans le sujet pensant, lorsque celui-ci comprend que l'évaluation métaphysique du vrai ne peut pas être unilatérale.
 
-**La métaphysique spéculative, qui est identifiée au vrai, contient en une totalité les oppositions finies de l'entendement.**
+***La métaphysique spéculative, qui est identifiée au vrai, contient en une totalité les oppositions finies de l'entendement.***
 
-Citations:
+<u>Citations:</u>
+
+"Or, en fait, la pensée est, suivant son essence, en elle-même infinie. "Fini" signifie, exprimé formellement, ce qui a une fin, ce qui est mais cesse là où il est en connexion avec son Autre et, par conséquent, est borné par celui-ci. [...] Mais la pensée est auprès d'elle-même, se rapporte à elle-même et a elle-même pour ob-jet. En ayant une pensée pour ob-jet, je suis auprès de moi-même. Le moi, la pensée, est par suite infini parce qu'il se rapporte dans la pensée à un ob-jet qui est lui-même."
+
+"De même, les choses finies se comportent comme *cause* et *effet*, comme *force* et *extériorisation* et, en étant saisies suivant ces déterminations, elles sont connues suivant leur finité. Mais des ob-jets rationnels ne peuvent être déterminés au moyen de tels prédicats finis, et le zèle déployé pour ce faire était le défaut de l'ancienne métaphysique."
+
+"Le vrai, le spéculatif, est par contre ce qui ne comporte en soi aucune détermination unilatérale de ce genre et n'est pas épuisé par elle, mais, en tant que totalité, contient réunies en lui ces déterminations qui pour le dogmatisme valent en leur séparation comme quelque chose de ferme et de vrai."
+
+"Le combat de la raison consiste à surmonter ce que l'entendement a fixé."
 
 ### Comte, "Discours sur l'esprit positif" in *Philosophie des sciences*, Tel-Gallimard, 1996, p. 128-136
 
 La métaphysique est l'état bâtard entre la théologie et la positivité. Elle abstrait la divinité théologique et multiplie les arguties, mais reste imprécise et oscille entre deux tendances: l'une prospective (esprit positif) et l'autre rétrospective (esprit théologique). La "champ de bataille" est repris en idée et la métaphysique n'est qu'un état d'esprit de passage entre l'enfance et la maturité de l'esprit selon Comte. Malgré son imprécision et son indécision, elle a du moins pour mérite d'exercer l'esprit aux abstractions et de le détacher progressivement du fétichisme, notamment par l'idée d'une "Nature" unie qu'elle tire abstraitement du Dieu monothéiste. D'autre part elle diversifie les concepts, bien que n'opérant pas d'observations, elle ne puisse jamais en donner une détermination véritablement cruciale, d'où son apparence de champ de bataille. C'est l'observation qui mènera à la positivité en décidant crucialement les arguments (prouvant par l'expérience).
 
-Citations:
+<u>Citations:</u>
+
+"Comme la théologie, en effet, la métaphysique tente surtout d'expliquer la nature intime des êtres, l'origine et la destination de toutes choses, le mode essentiel de production de tous les phénomènes; mais au lieu d'y employer les agents surnaturels proprement dits, elles les remplace de plus en plus par des *entités* ou abstractions personnifiées, dont l'usage, vraiment caractéristique, a souvent permis de la désigner sous le nom d'*ontologie*. 
 
 ### Engels, *Anti-Dühring*, trad. É. Bottigelli, Éditions Sociales, 1963, p. 52-55
 
@@ -150,9 +164,9 @@ Kant éclaircit le sens de la métaphysique en tant que recherche des premiers p
 
 La critique fait partie de la métaphysique. Sa nouvelle division se présente ainsi: elle distingue clairement la hiérarchie de la connaissance *a priori* et exclut explicitement la physique et les mathématiques (les mathématiques ne sont que des concepts construits par intuition, au contraire de la métaphysique (concept *a priori*)).
 
-Citations:
-
 ![Diagramme](../../carte_kant.png "Diagramme du système de la métaphysique selon l'extrait cité de Kant")
+
+Citations:
 
 ### Kant, *Les progrès de la métaphysique en allemagne depuis le temps de Leibniz et de Wolff*, trad. L. Guillermit, Vrin, 1968, p. 78i - 80
 
@@ -220,14 +234,80 @@ Ce suprasensible est vide et comme Kant le remarque, ne peut être rempli que de
 
 Surpasser la métaphysique: reconnaître que le suprasensible est a pour origine l'entendement, trouver la vérité de la métaphysique dans la conscience rationnelle des universels produits par l'entendement, en percevant cette production critiquement pour ce qu'elle est, ce que Kant n'a pas su faire.
 
+Citations:
+
 ### Schopenhauer, *Le monde comme volonté et comme représentation*, ch. XVII, "Le besoin métaphysique de l'humanité", trad. A. Burdeau, PUF, 1966, p. 878-882
 
 En revendiquant Kant: la métaphysique est désirable, mais son contenu est impossible à saisir. A tout le moins la chose en soi se prénsete dans tous les phénomènes, il faut en trouver la confirmation interne par déchiffrement, comme l'alphabet d'une langue inconnue: mais on ne peut atteindre son contenu réel. Elle est cohérente (déchiffrable comme un alphabet) mais inatteignable (quel est le signifiant du signe ?).
 
 Parangon hégélien de la conscience ne reconnaissant pas son esprit d'entendement universel.
 
+Citations:
+
 ### Nietzsche, *Le Crépuscule des idoles*, trad. H. Albert, GF-Flammarion, 1985, p. 93-96
 
 La position du suprasensible est une erreur qui consiste à diminuer l'immédiat par une espèce de rancoeur: il faut au contraire célébrer la tragédie du réel comme un événement positif. Il faut célébrer la vie et dépasser les antinomies métaphysiques (apparence/vérité, unité/multiplicité, bien/mal). Il faut embrasser un nouveau monde qui célèbre la vie en faisant fi de la métaphysique, un monde au-delà: métémétaphysique, hypermétaphysique, transmétaphysique... (Nietzsche ne donne pas ces néologismes).
 
+Citations:
+
 ## IV. Que peut encore la métaphysique ?
+
+### <a href="https://fr.wikipedia.org/wiki/Charles_Sanders_Peirce">Peirce</a>, *Collected Papers*, vol. VI, "Scientific Metaphysics", Ch. Hartshorne et P. Weiss éd., Cambridge (Massachussetts), Harvard University Press, 1931-1935, p. 1-5 (trad. de l'extrait É. During)
+
+En conservant l'esprit de théologien, qui consiste à raffermir ses premières croyances et à faire de ce raffermissement une affaire de foi, la métaphysique empêche le progrès:
+1) la psychologie (elle est dans un état déplorable de ce fait),
+2) des sciences spéciales de l'esprit,
+3) de la physique,
+aussi s'empêche-t-elle d'atteindre son propre but.
+
+En évitant de croire et en opérant par induction et hypothèse (par méthode scientifique), avec le sincère désir de parvenir à la vérité et donc de douter de ses assises et de ses premières croyances, la métaphysique serait parachevable.
+
+La métaphysique de fait n'est pas une entreprise irréaliste, elle est seulement mal entreprise d'un point de vue pragmatique: elle n'a pas la bonne méthode, il faut remplacer l'esprit théologique par l'esprit scientifique. 
+
+La métaphysique est la plus simple des sciences (la plus abstraite) et elle est si générale, qu'elle est aussi la plus observable des sciences: elle ne concerne qu'un type d'expérience dont tout un chacun est saturé. En ce sens, elle est plus observable que l'astronomie, qui dépense pourtnat des milliers de dollar pour ses buts.
+
+Citations:
+
+### Bergson, "Introduction à la métaphysique" in *La Pensée et le mouvant"*, PUF, 4è éd. 1993, p. 219-227
+
+Henri Bergson propose de réformer la métaphysique en outrepassant son caractère fixe et antinomique, poussé à son extrême par Kant (science fixe par les relations, métaphysique fixe par les choses). Il faut faire usage de l'intuition intellectuelle et rentrer dans le mouvement, dans la multiplicité où se présente la contradiction: c'est vraiment philosopher que de rendre compte du mouvement de la pensée.
+
+Par l'impulsion de l'intuition, la multiplication de l'expérience, toute la métaphysique se trace. Il est possible d'accéder à une expérience intégrale, qui pour autant n'est jamais fixe.
+
+Citations:
+
+### <a href="https://fr.wikipedia.org/wiki/William_James">James</a>, *Le Pragmatisme*, trad. E. Le Brun, Flammarion, 1968, p. 47-49 et 51-53
+
+Le *distinguo* de l'homme tourant autour de l'écurecil caché par un tronc: tourne-t-il vraiment autour de l'écureil, si celui-ci tourne autour du tronc en même temps ? Répondant scolastiquement pour résoudre le dilemme par deux réponses possibles mais exclusives: selon le référentiel absolu des points cardinaux, il tourne auotur de l'écureil; mais relativement à l'écureil, celui-ci fait toujours face au protagoniste, donc il ne lui tourne pas autour. Ces deux réponses sont vraies et fausses.
+
+La méthode pragmatique est alors introduite: il faut décider des controverses métaphysiques en fonction des conséquences pratiques (conséquences en termes de théorie, de croyance et d'action) que les hypothèses confrontées permettent de définir. Une hypothèse sans but pratique doit être disqualifiée pour résoudre une controverse métaphysique. Par exemple: le choix du matérialisme ou du théisme est équivoque, si l'on ne considère pas ce que l'on peut espérer demain (il est par exemple équivoque pour savoir si l'on tourne autour de l'écureil). Les conséquences d'un choix métaphysique doivent être explorées pratiquement: d'ailleurs elles motivent des programmes de recherche, et pourraient ainsi mener la métaphysique à travailler main dans la main avec la science.
+
+Il faut remarquer là un impressionnant retournement de la tradition de la métaphysique, qui s'opère à partir du XIXème siècle à tout le moins: la métaphysique n'est plus la "reine de toutes les sciences" mais bien plutôt son amie potentielle, voire une ennemie à retourner. Elle est désuète et comme morte, il faut la raviver et pour se faire, il faut la transformer et la remonter aux normes de la science. La science est supérieure à la métaphysique d'un point de vue méthodologique.
+
+Citations:
+
+### Merleau-Ponty, "La métaphysique dans l'homme", in *Sens et non-sens*, rééd. Gallimard, 1996, p. 102 et 113-119
+
+La métaphysique n'est pas un système de concepts visant à minimiser les paradoxes. C'est au contraire:
+1) La conscience d'être un moi et que tout être ne peut être connu que comme être-pour-moi,
+2) La reconnaissance de la contingence de l'ontologie: toute universalité étant présentée au moi par une imitation d'une structure représentée par autrui (ce que révèlent les sciences humaines),
+3) Un outil fondamental à la science: il n'y aurait pas de sciences sans l'exploration active des paradoxes auquel le sujet fait face quotidiennement.
+La métaphysique est un étonnement épistémologique à un premier degré, et à un second degré, la claire conscience que tout est contingent, menant à un troisième degré au désir d'investiguer les paradoxes que les contingences font émerger et de les résoudre.
+Mais: systématiser (en concepts fixes) c'est supprimer la métaphysique. 
+En un sens quasi bergsonien, la métaphysique se fait dans le mouvement des idées, elle ne cesse pas et ne se fixe pas, elle se trouve dans le fait même de la vie quotidienne, elle naît de tout bon étonnement philosophique.
+
+Citations:
+
+### <a href="https://fr.wikipedia.org/wiki/Peter_Frederick_Strawson">Strawson</a>, *Les Individus*, trad. A. Shalom et P. Drong, Seuil, 1973, p. 9-11
+
+La métaphysique descriptive est distinguée de la métaphysique de révision: la première vise à dégager les concepts les plus larges et généraux, anhistoriques, par lesquels nous pensons, la seconde à proposer des révisions du système métaphysique par lequel on pense. 
+
+La métaphysique est plus générale que l'ontologie, la logique ou l'épistémologie par son objet.
+
+Elle n'a pas ou peu de données nouvelles: elle doit être reprises pour être réexprimée dans le langage contemporain (notamment elle est reprise de Kant). Il y a de vieilles vérités qui doivent être retraduites.
+
+C'est un type spécial d'investigation. Par exemple, faire varier les expériences possibles de l'expérience permet de trouver un invariant irréductible de toute expérience possible. En ce sens, l'analyse de langage ordinaire ne suffirait pas, bien que ce soit la méthode la plus solide de la philosophie. Alors il y a aussi métaphysique car la méthode elle-même repose sur des données hypothétiques, purement virtuelles: ananthropologiques.
+
+La métaphysique définit les présupposés de toute analyse philosophique.
+
+Citations:

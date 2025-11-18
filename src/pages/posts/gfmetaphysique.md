@@ -55,31 +55,61 @@ La métaphysique est l'état bâtard entre la théologie et la positivité. Elle
 
 <u>Citations:</u>
 
-"Comme la théologie, en effet, la métaphysique tente surtout d'expliquer la nature intime des êtres, l'origine et la destination de toutes choses, le mode essentiel de production de tous les phénomènes; mais au lieu d'y employer les agents surnaturels proprement dits, elles les remplace de plus en plus par des *entités* ou abstractions personnifiées, dont l'usage, vraiment caractéristique, a souvent permis de la désigner sous le nom d'*ontologie*. 
+"Comme la théologie, en effet, la métaphysique tente surtout d'expliquer la nature intime des êtres, l'origine et la destination de toutes choses, le mode essentiel de production de tous les phénomènes; mais au lieu d'y employer les agents surnaturels proprement dits, elles les remplace de plus en plus par des *entités* ou abstractions personnifiées, dont l'usage, vraiment caractéristique, a souvent permis de la désigner sous le nom d'*ontologie*. Il n'est que trop facile aujourd'hui d'observer aisément une telle manière de philosopher, qui, encore prépondérente envers les phénomènes les plus compliqués, offre journellement, même dans les thé"ories les plus simples et les moins arriérées, tant de traces appréciables de sa longue domination. L'efficacité historique de ces entitées résulte directement de leur caractère équivoque: car, en chacun de ces êtres métaphysiques inhérent au corps correspondant sans se confondre avec lui, l'esprit peu, à volonté, selon qu'il est plus près de l'état théologique ou de l'état positif, voir ou une vértiable émanation de la puissance surnaturelle, ou une simple dénomination abstraite du phénomène considéré. Ce n'est plus alors la pure imagination qui domine, et ce n'est pas encore la véritable observation ; mais le raisonnement y acquiert beaucoup d'extension, et se prépare confusément à l'exercice vraiment scientifique."
+
+"il n'est spontanément susceptible que d'une simple activité *critique* ou dissolvante, même mentale, et à plus forte raison sociale, sans pouvoir jamais rien organiser qui lui soit propre." 
+
+"On peut finalement envisager l'état métaphysique comme une sorte de maladie chronique inhérente à notre évolution mentale, individuelle ou collective, entre l'enfance et la virilité."
 
 ### Engels, *Anti-Dühring*, trad. É. Bottigelli, Éditions Sociales, 1963, p. 52-55
 
-Engels reprend la dialectique hégélienne comme un matérialisme historique et l'utilise pour critiquer la science: celle-ci est confuse car elle encore trop métaphysique.
+Engels reprend la dialectique hégélienne comme un matérialisme historique et l'utilise pour critiquer la science: celle-ci est confuse car elle est encore trop métaphysique.
 
-Il donne pour origine à la métaphysique en science les travaux de Bacon et Locke, qui l'ont rendu étroire et dogmatique: elle n'a pas de visée d'ensemble d'un ou de plusieurs systèmes de changement intriqués par des relations de cause et d'effet. Elle ne saisit pas la métaphysique rationnelle du monde (et Hegel par le moyen de sa téléologie de l'Esprit, retourne la métaphysique rationnelle vers une forme d'essentialisme de l'entendement en faisant abstraction d'un devenir historique et en asseyant une fois pour toute une superstructure dialectique, ce que résout le matérialisme historique en situant la dialectique dans une dynamique locale).
+Il donne pour origine à la métaphysique en science les travaux de Bacon et Locke, qui l'ont rendu étroite et dogmatique: elle n'a pas de visée d'ensemble d'un ou de plusieurs systèmes de changement intriqués par des relations de cause et d'effet. Elle ne saisit pas la métaphysique rationnelle du monde (et Hegel par le moyen de sa téléologie de l'Esprit, retourne la métaphysique rationnelle vers une forme d'essentialisme de l'entendement en faisant abstraction d'un devenir historique et en asseyant une fois pour toute une superstructure dialectique, ce que résout le matérialisme historique en situant la dialectique dans une dynamique locale).
 
 Seulement quelques penseurs, en science de la nature, dont Darwin, ont le mérite d'adopter une approche dialectique qui subsume les faits historiques sans participer à une métaphysique d'entendement (unilatérale). Mais l'approche métaphysique reste dominante selon Engels, il faut donc travailler à son encontre (situation de la science dans la deuxième moitié du XIXème siècle).
 
-Citations:
+<u>Citations:</u>
+
+"Pour le métaphysicien, les choses et leurs reflets dans la pensées, les concepts, sont des objets d'étude isolés, à considérer l'un après l'autre et l'un sans l'autre, fixes, rigides, donnés une fois pour toutes. Il ne pense que par antithèses sans moyen terme: il dit oui, oui, non, non ; ce qui va au-delà ne vaut rien. Pour lui, ou bien une chose existe ou bien elle n'existe pas ; une chose ne peut pas non plus être à la fois elle-même et une autre."
+
+"devant les objets singuliers, elle oublie leur enchaînement ; devant leur être, leur devenir et leur périr ; devant leur repos, leur mouvement ; les arbres empêchent de voir la forêt."
+
+"ce qui était effet maintenant ou ici, devient cause ailleurs ou ensuite, et *vice versa*. Tous ces processes, toutes ces méthodes de pensée n'entrent pas dans le cadre de la pensée métaphysique"
+
+"dialectiquement et non métaphysiquement, que la nature ne se meut pas dans l'éternelle monotonie d'un cycle sans cesse répété, mais parcourt une histoire effective. Avant tout autre, il faut citer ici Darwin, qui a porté le coup le plus puissant à la métaphysique de la nature en démontrant que tout la nature organique actuelle, les plantes, les animaux, et par conséquent, l'homme aussi, est le produit d'un processus d'évolution qui s'est poursuivi pendant des millions d'années."
 
 ### Nietzsche, *Le Crépuscule des Idoles*, trad. Albert, GF-Flammarion, 1985, p. 91-93
 
-Substantialiser et révérer des substances: les croire supérieures au devenir. C'est l'erreur métaphysique de croire à des erreurs rationelles face à ce qui devient. Cette raison momifiante est présente jusque dans la grammaire qui dissèque l'action, ou le devenir, ou le mouvement: sujet, verbe, complément. Ces trois conceptions, font conceptualiser rationellement des développement de l'apparence, du sujet du mouvement, etc, qui n'ont jamais lieu d'être. L'être n'est pas distinct du devenir. La métaphysique, qui distingue l'apparent des choses, est une erreur de conception qui s'est même immiscée dans le langage.
+Substantialiser et révérer des substances: les croire supérieures au devenir. C'est l'erreur métaphysique de croire à des erreurs rationelles face à ce qui devient. Cette raison momifiante est présente jusque dans la grammaire qui dissèque l'action, ou le devenir, ou le mouvement: sujet, verbe, complément. Ces tripartition idéelle du langage fait conceptualiser rationellement des développement divisés de l'apparence, du sujet du mouvement, etc, qui n'auraient jamais eu lieu d'être. L'être n'est pas distinct du devenir. La métaphysique, qui distingue l'apparent des choses, est une erreur de conception qui s'est même immiscée dans le langage.
 
-Citations:
+<u>Citations:</u>
+
+"Toutes les valeurs supérieures sont de premier ordre, toutes les conceptions supérieures, l'être, l'absolu, le bien, le vrai, le parfait - tout cela ne peut pas être "devenu", il *faut* donc que ce soit *causa sui*. Tout cela cependant ne peut pas non plus être inégal entre soi, ne peut pas être en contradiction avec soi.... C'est iansi qu'ils arrivent à leur conception stupéfiante de "Dieu"... La chose dernière, la plus mince, la plus vide est mise en première place, comme cause en soi, comme *ens realissimum*... Qu'il ait fallu que l'humanité prenne au sérieux les élucubrations de ces cerveaux malades ! - Et elle a dû payer cher pour cela !..."
+
+"Le langage appartient, par son origine, à l'époque des formes les plus rudimentaires de la psychologie: nous entrons dans un grossier fétichisme si nous prenons conscience des conditions premières de la métaphysique du langage, c'est-à-dire de la *raison*. Alors nous voyons partout des actions et des choses agissantes: nous croyons à la volonté en tant que cause en général : nous croyons au "moi", au moi en tant qu'être, au moi en tant que substance, et nous projetons la croyance en la substance du moi sur toutes les choses - par là nous *créons* la notion de "chose"... Partout l'être est imaginé comme cause, *substitué* à la cause ; de la conception du "moi" suit seulement comme dérivation, la notion de l'"être"..."
+
+"La "raison" dans le langage: ah ! quelle vieille femme trompeuse ! Je crains bien que nous ne nous débarrassions jamais de Dieu, puisque nous croyons encore à la grammaire..."
 
 ### Mach, *La Connaissance de l'Erreur*, trad. Dufour, Flammarion, 1908, p. 22-26
 
-La métaphysique trouve sa source dans deux erreurs: dans la croyance que les deux parts de la limite U (umgerzeng) (le psychique et le physique) n'opéreraient pas selon la même logique, alors que de fait on n'y trouve que des relations dont la connaissance pleine des circonstance de perception permet de déterminer scientifiquement; dans l'habitude par imagination de suppléer la représentation des perceptions par des choses usuelles, connues par culture, qui de fait crée des apparences trompeuses, en supprimant la relation des apparences par une chose unique.
+La métaphysique trouve sa source dans deux erreurs: dans la croyance que les deux parts de la limite spatiale U (*Umgrenzung*, limite) (le psychique et le physique) n'opéreraient pas selon la même logique, alors que de fait on n'y trouve que des relations que la connaissance pleine des circonstance de perception permet de déterminer scientifiquement (il n'y a pas un monde des objets (psychique) et un monde des relations (physique) comme chez Kant); dans l'habitude par imagination de suppléer la représentation des perceptions par des choses usuelles, connues par culture, qui de fait crée des apparences trompeuses, en supprimant la relation des apparences par une chose unique (un objet habituel).
 
-Mach donne à l'expérience humaine le caractère épistémologique d'une expérience scientifique afin de produire une norme antimétaphysique pour évaluer les faux problèmes. Le métaphysique surgit quand la relation des apparences et leurs circonstance de production ne sont pas connues, donc lorsque l'expérience humaine n'est pas proprement déterminée.i
+Mach donne à l'expérience humaine le caractère épistémologique d'une expérience scientifique afin de produire une norme antimétaphysique pour évaluer les faux problèmes. Le métaphysique surgit quand la relation des apparences et leurs circonstance de production ne sont pas connues, donc lorsque l'expérience humaine n'est pas proprement déterminée.
 
-Citations:
+<u>Citations:</u>
+
+Une métaphysique imaginative de la perception: "Notre imagination complète ce que nous fournit l'expérience de la façon qui nous est *la plus habituelle*, et fausse quelque fois, par cela même, nos perceptions. Ainsi, ce qui conduit à opposer l'apparence et la réalité, le *phénomène* et la *chose*, c'est la confusion des perceptions produites par les circonstances les plus différentes avec des perceptions produites par des circonstances *parfaitement déterminées*."
+
+"Considérons les éléments rouges, vert, chaud, froid, etc. : quel que soit leur nom, ils sont immédiatement donnés. Ils dépendent d'éléments extérieurs à U (éléments *physiques*) et d'éléments intérieurs à U (éléments *psychiques*) ; mais, dans les deux cas, ils sont toujours *les mêmes*, ce sont toujours des données immédiates. [...] Nous avons devant nous à la fois les éléments du monde réel et les éléments du moi. La seule chose qui puisse nous intéresser, en dehors de cela, c'est la *dépendance fonctionnelle* (au sens mathématique) de ces éléments *entre eux*. On peut appeler cette dépendance des éléments une *chose*, mais ce n'est pas une chose *inconnaissable*. Toute observation nouvelle, toute proposition scientifique nous fait avancer dans la connaissance de cette chose.""
+
+"mettre sous la forme la plus simple et la plus transparente les deux problèmes de la chose insondable, et du moi également impénétrable, et de les faire par là même reconnaître comme de *pseudo-problèmes*. Si nous excluons ce dont la recherche n'a aucun sens, nous n'en verrons apparaître que plus nettement ce que nous pouvons réellement atteindre par les *sciences particulières: toutes les relations et les différents modes de relations des éléments entre eux.*"
+
+"Chose et moi sont des fictions provisoires de même espèce."
+
+"Nos considérations [...] conduisent seulement le savant à écarter les pseudo-problèmes qui el troublent, et elles laissent le reste à la recherche positive."
+
+Quid de la phénoménotechnique de Bachelard ? Répète-t-elle le pseudo-problème de la chose kantienne ?
 
 ### Ayer, *Langage, vérité et logique*, trad. Ohana, Flammarion, 1956, p. 36-37 et 48-52
 
@@ -89,7 +119,19 @@ La métaphysique constitue le groupe des propositions insensées. Le langage lui
 
 Ayer, qui côtoye le <a href="https://fr.wikipedia.org/wiki/Cercle_de_Vienne">Cercle de Vienne</a> et introduit sa pensée au monde anglo-saxon, montre la claire influence de Mach.
 
-Citations:
+Les questions métaphysiques sont des questions mal posées. Une véritable métaphysique est un discours sur la logique de la vérité destiné à épurer la vérité des erreurs métaphysiques.
+
+<u>Citations:</u>
+
+"Comme Hume, je divise toutes les propositions authentiques en deux classes: celles qui, dans sa terminologie, concernent les "relations d'idées" et celles qui concernent les "matières de fait". La première classe comprend les propositions *a priori* de la logique et des mathématiques pures, que je ne considère comme nécessaires et certaines que parce qu'elles sont analytiques. [...] la raison pour laquelle ces propositions ne peuvent être démenties par l'expérience est qu'elles ne font aucune assertion au sujet du monde empirique, mais indiquent simplement notre détermination d'user de symboles d'une certaine manière. Par contre, les propositions empriqiues concernant les matières de fait, je soutiens qu'elles des hypothèses qui peuvent être probables, mais jamais certaines. Et en exposant la méthode de leur validation, je prétends aussi élucider la nature de la vérité."
+
+"Car j'exige d'une hypothèse empirique, non qu'elle soit vérifiable, en effet, d'une manière concluante mais que quelque expérience sensorielle puisse être invoquée pour la détermination de sa vérité ou de sa fausseté.
+
+Si une proposition présumée ne satisfait pas à ce principe, et n'est pas une tautologie, alors je soutiens qu'elle est métaphysique, et qu'étant métaphysique, n'est n'i vraie ni fausse, mais littéralement dépourvue de sens."
+
+"Nous pouvons en conséquence définir un énoncé métaphysique comme un énoncé qui vise à exprimer une proposition authentique, mais n'exprime en fait ni une tautologie, ni une hypothèse empirique. Et comme les tautologies et les hypothèses empiriques forment la classe entière des propositions sensées, nous sommes en droit de conclure que toutes les assertions métaphysiques sont des non-sens."
+
+"L'analyse logique montre que ce qui fait de ces "apparences" les "apparences" de la même chose, ce n'est pas leur relation à une entité autre qu'elles-mêmes, mais leurs relations réciproques. Cela échappe au métaphysicien parce qu'il est égaré par un caractère grammatical superficiel de son langage."
 
 ## II. Ontologie ou métaphysique ?
 

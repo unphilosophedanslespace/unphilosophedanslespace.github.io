@@ -37,7 +37,7 @@ Si l'on repense à Kant: l'intérêt véritable de la métaphysique ne se trouve
 
 Cette distinction puissante permet de disserter sur le monde métaphysique auquel un sujet peut prétendre toucher, tout en remettant en question les défis classiques posés à la métaphysique par rapport à son apparente impossiblité: peut-être a-t-elle été mal comprise dans sa visée (le moi confondu avec l'entendement) ou dans son application (téléologie de la finitude qui ne correspond pas à un objet fini, ou inversement). Synthétiquement, la vraie métaphysique est atteinte chez Hegel lorsque le sujet saisit que le vrai est une totalité dans laquelle les concepts de l'entendement se suppriment mutuellement. Faire de la métaphysique passe obligatoirement par une critique de l'histoire de la métaphysique, qui est cependant aussi une révolution ontologique puisque la reconceptualisation de la métaphysique introduit une nouvelle dichotomotie et une nouvelle dialectique dans le sujet pensant, lorsque celui-ci comprend que l'évaluation métaphysique du vrai ne peut pas être unilatérale.
 
-***La métaphysique spéculative, qui est identifiée au vrai, contient en une totalité les oppositions finies de l'entendement.***
+*La métaphysique spéculative, qui est identifiée au vrai, contient en une totalité les oppositions finies de l'entendement.*
 
 <u>Citations:</u>
 

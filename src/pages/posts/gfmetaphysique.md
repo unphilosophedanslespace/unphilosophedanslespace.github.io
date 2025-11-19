@@ -222,7 +222,9 @@ Généralement, elle est science de tout ce qui est sans matière, donc s'étend
 
 <u>Citations:</u>
 
-"Tu entendais parfois dire que la sagesse est la science la plus noble du plus noble des objets connaissables ; d'autres fois que la sagesse c'est la connaissance qui est la plus vraie et la plus précise des connaissances. Enfin, quelques fois, qu'elle est la science des causes premières du tout. [...] ces trois propriétés qui décrivent la sagesse sont des propriétés d'une même discipline, celle-là même que nous étudions." 
+"Tu entendais parfois dire que la sagesse est la science la plus noble du plus noble des objets connaissables ; d'autres fois que la sagesse c'est la connaissance qui est la plus vraie et la plus précise des connaissances. Enfin, quelques fois, qu'elle est la science des causes premières du tout. [...] ces trois propriétés qui décrivent la sagesse sont des propriétés d'une même discipline, celle-là même que nous étudions."
+
+"Or l'existence de Dieu - qu'il soit exalté - ne peut pas être admise dans cette science, mais elle y est recherchée"
 
 ### Thomas d'Aquin, *Expositio super Librum Boerthii de Trinitate*, V. 5, éd. B. Decker, Leyde, 1959
 

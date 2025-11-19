@@ -138,27 +138,51 @@ Si une proposition présumée ne satisfait pas à ce principe, et n'est pas une 
 ### Aristote
 #### *Métaphysique*, A, 1
 
-La métaphysique est la science des causes premières: c'est la science la plus libre. Il faut toujours prendre, au sens grec et notamment au sens athénien, la liberté comme étant celle du citoyen et donc se définissant négativement par rapport à la liberté de l'esclave. Être libre c'est être libre de son corps, et avoir le temps libre de cultiver une pensée critique afin de participer aux affaires de la cité (voir [Platon démo]). Cette science prend source dans l'étonnement philosophique (qui consiste à vouloir résoudre un problème): c'est connaître et savoir pour connaître et savoir.
+La métaphysique est la science des causes premières: c'est la science la plus libre. Il faut toujours prendre, au sens grec et notamment au sens athénien, la liberté comme étant celle du citoyen et donc se définissant négativement par rapport à la liberté de l'esclave. Être libre c'est être libre de son corps, et avoir le temps libre de cultiver une pensée critique afin de participer aux affaires de la cité ([voir](../polpla)). Cette science prend source dans l'étonnement philosophique (qui consiste à vouloir résoudre un problème): c'est connaître et savoir pour connaître et savoir.
 
-Citations:
+<u>Citations:</u>
 
 "Connaître et savoir pour connaître et savoir: tel est le caractère principal de la science du suprême connaissable, car celui qui veut connaître pour connaître choisira de préférence la science parfaite, c'est-à-dire la science du connaissable par excellence."
 
 "le connaissable par excellence, ce sont les principes et les causes: c'est par eux et à partir d'eux que les autres choses sont connues"
 
+"La science la plus élevée, et qui est supérieure à toute science subordonnée, est celle qui connaît en vue de quelle fin il faut faire chaque chose. Et cette fin est le bien de chaque être, et, d'une manière générale, c'est le souverain Bien dans l'ensemble de la nature."
 
+"il résulte que c'est à la même science que s'applique le nom de philosophie: cce doit être, en effet, la science théorétique des premiers principes et des premières causes, car le bien, c'est-à-dire la fin, est l'une de ces causes."
+
+"Mais, de même que nous appelons homme libre celui qui est à lui-même sa fin et n'est pas la fin d'autrui, ainsi cette science est aussi la seule de toutes les sciences qui soit libre, car seule elle est sa propre fin."
+
+"De tant de manières, en effet, la nature de l'homme est esclave que, suivant Simonide, "Dieu seul peut jouir de ce privilège" "
+
+"Dieu paraît bien être une cause de toutes choses et un principe, et une telle science, Dieu seul, ou du moins Dieu principalement, peut la posséder. Toutes les autres sciences sont donc plus nécessaires qu'elles, mais aucune ne l'emporte en l'excellence." 
 
 #### *Métaphysique*, G, 1 et 2
 
 "to on hè on", science de l'être en tant qu'être: "hè" ici prend un sens restrictif, c'est l'être en tant qu'il est tout court. Trouver les causes premières de l'être en tant qu'être ne se distingue pas dans l'entreprise pour Aristote, d'une exploration de toutes les catégories d'être et de leur mode de génération. 
 
-Cependant une science plus première subsume toutes les autres: la proposition "une homme est" est identique à "homme est" (le particulier est identique à son principe général). 
+Cependant une science plus première subsume toutes les autres: la proposition "*un* homme est" est identique à "*homme* est" (le particulier est identique à son principe général). 
 
 Il y a un double mouvement de l'Être à l'être (du général au particulier) et de l'être à l'Être (du particulier au général) afin de trouver le principe de l'Être en tant qu'être (ce qui fait l'Être de tout être, le principe de tous les principes généraux).
 
 Seul le philosophe, qui s'étonne et cherche les causes premières, peut s'adonner à cette recherche: le dialecticien ne cherche que la critique et le sophiste ne produit que l'apparence de la philosophie, aucunement le contenu. Seul un véritable étonnement philosophique est à même d'entamer la recherche des causes premières, qui est la plus libre de toutes.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par Élie During:
+
+"La solution consiste à rappeler que l'objet propre d'une science est ce qui est *premier* dans son ordre, et que, précisément, les sens multiples de l'être peuvent se dire par référence à une unité (*pros hèn*), à un seul sens primordial de l'être, la substance (*ousia*). Par le truchement de cette signification fondamentale, on fera *comme si* l'être était un genre, tout en s'interdisant d'en faire un super-genre, c'est-à-dire de l'hypostasier comme une réalité séparée, transcendante, universelle." 
+
+"Tel est le double mouvement qui inaugure le jeu métaphysique: on ouvre la philosophie à la dialectique des contraires pour lui donner l'articulation d'une science, mais on maintient l'être en tant qu'être dans le sillage de la substance, pour en préserver l'unité."
+
+Du texte: 
+
+"C'est pourquoi une science génériquement une traitera de toutes les espèces de l'Être en tant qu'être, et ses divisions spécifiques, des différentes espèces de l'Être."
+
+"l'Être et l'Un sont identiques [...] on n'exprime pas quelque chose de différent, à raison du redoublement des mots "un homme est", au lieu de "homme est". "
+
+"Si ce n'est pas l'office du philosophe, qui est-ce qui examinera si "Socrate" est identique à "Socrate assis", si une seule chose a un seul contraire, ce qu'est le contraire, en combien de sens il est, pris ?"
+
+"Tous les êtres sont, en effet, ou des contraires, ou des composés de contraires, et les principes des contraires sont l'Un et le Multiple. Or ces dernières notions rentrent dans une même science, qu'elles soient, ou, comme il est probablement plus vrai de le soutenir, qu'elles ne soient pas dites selon un terme unique. Cependant, même si l'Un se prend en de multiples acceptions, les autres acceptions se rapportent cependant toutes à un terme premier, et il en est de même pour les contraires de l'Un. C'est ce qui arrive, même si l'Être ou l'Un n'est pas universel, et identique dans tous les individus, ou s'il n'est pas séparé des individus, ainsi que probablement, en fait, il ne l'est pas, même si l'unité signifie cependant tantôt une simple relation à l'égard d'un terme unique, tantôt une unité de consécution."
 
 #### *Métaphysique*, E, 1
 
@@ -168,7 +192,23 @@ La question du champ d'objet propre à cette science est résolue logiquement pa
 
 Elle cherche à connaître le principe des objets immobiles et séparés, de tout objet dont elle serait la cause dans un sens non-naturel, non-pratique et non-poétique: car les causes correspondantes sont immanentes (l'action de la pratique a pour cause le choix qui se trouve dans le sujet de l'action, la poétique a pour cause l'artiste, les objets de la nature ont leur propre cause de croissance).
 
-Citations: 
+<u>Citations:</u>
+
+De l'introduction par Élie During:
+
+"La philosophie première est donc seule à traiter sans restriction des réalités séparées et immobiles, c'est-à-dire susbtantielles et impérissablse."
+
+"Mais l'être en tant qu'être concerne en droit les anges comme les règles du tennis de table, les orbes célestes comme les choux."
+
+Du texte:
+
+"Des choses définies et des essences, les une sont comme le camus, les autres, comme le concave, et la différence consiste en ce que le camus est engagé dans la matière, car le camus, c'est le nez concave, tandis que la concavité est indépendante de la matière sensible. Or, si tous les objets naturels sont du même type que le camus, par exemple le nez, l'oeil, le visage, la chair, l'os, et, en général, l'animal, et aussi la feuille, la racine, l'écorce, et, en général, la plante (car aucun de ces objets ne peut être définir sans le mouvement, mais ils ont toujours une matière), on voit alors comment il faut, dans les êtres physiques, rechercher et définir l'essence"
+
+"la science première a pour objet des êtres à la fois séparés et immobiles"
+
+"Maintenant, toutes les premières causes sont nécessairement éternelles, mais surtout les causes immobiles et séparées, car ce sont les causes des choses visibles parmi les choses divines. Il y a donc trois sciences théorétiques: la mathématique, la physique, et la théologie. [...] Les sciences théorétiques sont les plus hautes des sciences, et la théologie est la plus haute des sciences théorétiques."
+
+"Nous répondrons que s'il n'y avait pas d'autre substance que celles qui sont constituées par la nature, la physique serait la science première. Mais s'il existe une substance immobile, la science de cette substance doit être antérieure et doit être la philosophie première ; elle est aussi, de cette façon, universelle parce qu'elle est première. Il lui appartiendra de considérer l'Être en tant qu'être, c'est-à-dire à la fois son essence et les attributs qui lui appartiennent en tant qu'être."
 
 ### Avicenne, *La Métaphysique du Shifâ'*, l. I, 1-2, trad. Anawati, Vrin, 1978, p. 86-87, 93-95.
 
@@ -180,7 +220,9 @@ Cette science se précise comme une théologie: le contenu de l'existence de Die
 
 Généralement, elle est science de tout ce qui est sans matière, donc s'étend des premières causes à toutes les distinctions immatérielles du réel, dont les principes abstraits des sciences (physique, mathématiques).
 
-Citations:
+<u>Citations:</u>
+
+"Tu entendais parfois dire que la sagesse est la science la plus noble du plus noble des objets connaissables ; d'autres fois que la sagesse c'est la connaissance qui est la plus vraie et la plus précise des connaissances. Enfin, quelques fois, qu'elle est la science des causes premières du tout. [...] ces trois propriétés qui décrivent la sagesse sont des propriétés d'une même discipline, celle-là même que nous étudions." 
 
 ### Thomas d'Aquin, *Expositio super Librum Boerthii de Trinitate*, V. 5, éd. B. Decker, Leyde, 1959
 

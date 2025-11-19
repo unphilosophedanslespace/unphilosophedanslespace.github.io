@@ -142,6 +142,12 @@ La métaphysique est la science des causes premières: c'est la science la plus 
 
 Citations:
 
+"Connaître et savoir pour connaître et savoir: tel est le caractère principal de la science du suprême connaissable, car celui qui veut connaître pour connaître choisira de préférence la science parfaite, c'est-à-dire la science du connaissable par excellence."
+
+"le connaissable par excellence, ce sont les principes et les causes: c'est par eux et à partir d'eux que les autres choses sont connues"
+
+
+
 #### *Métaphysique*, G, 1 et 2
 
 "to on hè on", science de l'être en tant qu'être: "hè" ici prend un sens restrictif, c'est l'être en tant qu'il est tout court. Trouver les causes premières de l'être en tant qu'être ne se distingue pas dans l'entreprise pour Aristote, d'une exploration de toutes les catégories d'être et de leur mode de génération. 

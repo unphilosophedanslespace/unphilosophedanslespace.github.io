@@ -17,7 +17,7 @@ Ce faisant, Kant utilise la métaphysique (la connaissance de soi) pour rééval
 
 <u>Citations</u>:
 
-"Mais aujourd'hui, il est de mode de lui témoigner un mépris absolu, et la dame, repoussée et abandonnée de tous, s'écrie avec Hécube: *Modo maxima rerum, /Tot generis natisque potens,.../Nunc trabor exul, inops*" (Ovide, Métamorphoses, XIII, 508-510; "Il y a peu la plus grande de toutes, puissante par tant de gendres et de fils... voici maintenant que je suis exilée, depouillée").
+"Mais aujourd'hui, il est de mode de lui témoigner un mépris absolu, et la dame, repoussée et abandonnée de tous, s'écrie avec Hécube: *Modo maxima rerum, /Tot generis natisque potens,.../Nunc trabor exul, inops*" (Ovide, Métamorphoses, XIII, 508-510; "Il y a peu la plus grande de toutes, puissante par tant de gendres et de fils... voici maintenant que je suis exilée, depouillée")."
 
 "Il est bien vain, en effet, de vouloir affecter de l'*indifférence* pour des recherches dont l'objet ne saurait être *indifférent* à la nature humaine."
 
@@ -85,7 +85,7 @@ Substantialiser et révérer des substances: les croire supérieures au devenir.
 
 <u>Citations:</u>
 
-"Toutes les valeurs supérieures sont de premier ordre, toutes les conceptions supérieures, l'être, l'absolu, le bien, le vrai, le parfait - tout cela ne peut pas être "devenu", il *faut* donc que ce soit *causa sui*. Tout cela cependant ne peut pas non plus être inégal entre soi, ne peut pas être en contradiction avec soi.... C'est iansi qu'ils arrivent à leur conception stupéfiante de "Dieu"... La chose dernière, la plus mince, la plus vide est mise en première place, comme cause en soi, comme *ens realissimum*... Qu'il ait fallu que l'humanité prenne au sérieux les élucubrations de ces cerveaux malades ! - Et elle a dû payer cher pour cela !..."
+"Toutes les valeurs supérieures sont de premier ordre, toutes les conceptions supérieures, l'être, l'absolu, le bien, le vrai, le parfait - tout cela ne peut pas être "devenu", il *faut* donc que ce soit *causa sui*. Tout cela cependant ne peut pas non plus être inégal entre soi, ne peut pas être en contradiction avec soi.... C'est ainsi qu'ils arrivent à leur conception stupéfiante de "Dieu"... La chose dernière, la plus mince, la plus vide est mise en première place, comme cause en soi, comme *ens realissimum*... Qu'il ait fallu que l'humanité prenne au sérieux les élucubrations de ces cerveaux malades ! - Et elle a dû payer cher pour cela !..."
 
 "Le langage appartient, par son origine, à l'époque des formes les plus rudimentaires de la psychologie: nous entrons dans un grossier fétichisme si nous prenons conscience des conditions premières de la métaphysique du langage, c'est-à-dire de la *raison*. Alors nous voyons partout des actions et des choses agissantes: nous croyons à la volonté en tant que cause en général : nous croyons au "moi", au moi en tant qu'être, au moi en tant que substance, et nous projetons la croyance en la substance du moi sur toutes les choses - par là nous *créons* la notion de "chose"... Partout l'être est imaginé comme cause, *substitué* à la cause ; de la conception du "moi" suit seulement comme dérivation, la notion de l'"être"..."
 
@@ -224,7 +224,15 @@ Généralement, elle est science de tout ce qui est sans matière, donc s'étend
 
 "Tu entendais parfois dire que la sagesse est la science la plus noble du plus noble des objets connaissables ; d'autres fois que la sagesse c'est la connaissance qui est la plus vraie et la plus précise des connaissances. Enfin, quelques fois, qu'elle est la science des causes premières du tout. [...] ces trois propriétés qui décrivent la sagesse sont des propriétés d'une même discipline, celle-là même que nous étudions."
 
-"Or l'existence de Dieu - qu'il soit exalté - ne peut pas être admise dans cette science, mais elle y est recherchée"
+"Or l'existence de Dieu - qu'il soit exalté - ne peut pas être admise dans cette science, mais elle y est recherchée [...] il est clair que tous ces sujets resortissent à la science qui s'occupe de ce dont la subsistance ne dépend pas des sensibles. Le seul sujet commun entre eux, dont ils seraient tous des modes et des accidents, c'est l'existant. Certains d'entre eux sont des usbstances, d'autres des quantités, d'autres d'autres catégories. Il est impossible qu'il y ait d'autre notion vérifiée qui les englobes tous gormis l'existence, la notion d'existence."
+
+"Aussi le sujet premier de cette science est-il l'existant en tant que tel ; et le domaines de ses recherches sont les choses qui l'accompagnent nécessairement en tant qu'existant sans conditions." (à propos des accidents essentiels, ou "conditions concomitantes" que sont la quantité, la qualité, la substance)
+
+"De plus, le principe n'est pas principe de l'existant dans sa totalité. S'il était principe de l'existant dans sa totalité, il serait principe de lui-même. Or l'existant pris dans sa totalité n'a pas de principe ; le principe n'est principe que de l'existant causé. Le principe est donc principe d'un certain existant." Déduction de l'impossibilité de trouver une cause à la cause première (Dieu est absolument premier).
+
+"Dès lors, les questions de cette science seront les causes de l'existant causé en tant qu'existant causé, d'autres enfin les accidents de l'existant, d'autres concernent les principes des sciences particulières. C'est là la science qui est traitée dans cette discipline."
+
+"elle est la meilleure science, la certitude, à l'égard de l'objet connaissable le plus noble qui est Dieu, qu'Il soit exalté, et des causes qui viennent après Lui."
 
 ### Thomas d'Aquin, *Expositio super Librum Boerthii de Trinitate*, V. 5, éd. B. Decker, Leyde, 1959
 
@@ -232,13 +240,44 @@ La philosophie première a deux méthodes de recherche et donc une division des 
 
 Tout d'abord la métaphysique des philosophes concerne des chosses immatérielles et immobiles et parmi ces choses certaines qui ne sont pas transcendantales et qui ne peuvent pas (par définition) apparaître dans la matérialité: Dieu et les anges. Mais justement, la métaphysique n'est en mesure de définir la recherche théologique que comme une recherche des principes de tout et non comme un sujet. La raison en est que la théologie révélée seule pose Dieu et les immatériels purs comme son sujet, alors qu'elle n'est pas accessible au philosophe: elle est révélée par les Saintes Écritures. Il faut donc **distinguer métaphysique philosophique et métaphysique révélée**.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"Les mathématiques [...] elles s'occupent de formes qui ne sont séparables ni du mouvement ni de la matière, mais qui peuvent n"anmoins êtres considérées sans matière et sans mouvement, par une certaine opération de l'intelligence, l'abstraction."
+
+Citant d'Aquin: "Il y a ensuite d'autres objets de spéculation qui ne dépendent pas pour leur existence de la matière, et qui sont capables d'exister séparément dans la matière, soit qu'ils n'existent jamais dans la matière, comme Dieu et les anges, soit qu'ils exisent quelquefois dans la matière, et quelquefois non, comme la substance, les qualités, la puissance et l'acte, l'un et le multiple, etc."
+
+Il faut distinguer "la théologie révélée et la théologie naturelle (philosophie) et "L'être du métaphysicien, il faut donc le saisir dans ce qui le sépare radicalement de l'être matériel en tant que matériel, aussi bien que de l'être immatériel en tant qu'immatériel."
+
+"Ce qui intéresse le métaphysicien, c'est l'immatérialité des *transcendantaux*. [...] *L'être en tant qu'être n'a pas l'immatérialité des choses immatérielles ; il est l'immatérialité même des choses en tant que choses.*"
+
+Du texte:
+
+"Mais, de même que pour tout genre de l'être, il y a des principes communs à tout ce qui tombe sous ce genre, de même tous les êtres, par cela même qu'ils ont de l'être en commun, ont des principes communs qui sont les principes de tout être. Avicenne dit que les principes peuvent être dits communs en deux sens: communs par prédication, dans le sens où ce que j'appelle *forme* est commun à toute forme en se trouvant prédiqué de chacune ; et communs par causalité, dans le sens où l'on dit que le soleil est l'unique principe de tout ce qui est soumis à la génération. Or il y a des principes qui sont communs à toute être, non seulement au premier sens - celui où Aristote parle de commun à tous les êtres par proportionnalité ou analogie -, mais également dans le second sens - car les choses peuvent être ramenées [*reducuntur*: littéralement, "réduites"] à ertains principes dans un ordre défini, les principes des accidents renvoyant aux principes des substances, et les principes des substances périssables renvoyant aux principes des ubstances impérissables, et ainsi de suite en remonter l'échelle [des êtres]" Il serait intéressant ici de faire un lien à <a href="https://classiques.uqam.ca/classiques/janet_pierre/intelligence_langage/intelligence.html">Pierre Janet et son analyse philosophique de la manière dont les objets quotidiens forment une métaphysique pratique</a>, par exemple l'échelle qu'il analyse explicitement.
+
+Immatériel donc en acte: "selon Aristote l'être en acte est premier et plus parfaite que l'être en puissance"
+
+"Mais puisque les principes ultimes, quoique plus connaissables en soi, sont comme dit Aristote, *préesnts à notre esprit comme la lumière do soleil aux yeux du hibou*, la lumière naturelle de notre raison ne peut les pénétrer qu') travres leurs effets: et c'est bien là la manière dont les philosophes ont péntérés, comme ilest dit dans les *Romains*, I, 20: *Les perfections invisibles de Dieu sont visibles dans ses oeuvres pour l'intelligence*. [...] l'être en tant qu'être [*ens inquantum est ens*] [...] Mais il est une autre voie pour connaître ces choses, non pas dans la manière dont elles se manifestent par leurs effets, mais telles qu'elles se manifestent en elles-mêmes."
+
+"De sorte qu'il y a deux théologies ou sciences divines: dans l'une les choses divines ne sont pas le sujet de la science, mais seulement les principes de ce sujet, et c'est celles que les philosophes pratiques, en l'appelant aussi métaphysique ; dans l'autre les choses divines sont considérées en elles-mêmes comme le sujet de cette science, et cette théologie est celle qu'enseignent les Saintes Écritures."
+
+"les chose par définition n'existent pas nécessairement dans la matière et le mouvement, mais peuvent exister séparément d'eux, et quelques fois exister en eux, et c'est là le sens où l'être et la substance, la puissance et l'acte, existent séparément de la matière et du changement, ne dépendant ni de la matière ni du mouvement pour exister, contrairement aux objets mathématiques, lesquels ne peuvent exister que dans la matière, bien qu'ils puissent être saisis par abstractiuon de la matière sensible. La théologie philosophique considère comme son sujet propre les choses séparées au second sens, et traite des choses séparées au premier sens comme des principes de son sujet. Mais la théologie des Saintes Écritures traite dans son sujet des choses séparées au premier sens, bien qu'ils lui arrive aussi, dans la mesure où l'exige la révélation des choses divines, de traiter de certaines choses en mouvement dans la matière."
 
 ### Descartes, Lettre-Préface des *Principes de la philosophie*, GF-Flammarion, 1996, p. 71-75
 
 La métaphysique est le fondement de l'arbre de la connaissance. Elle cherche les causes premières, mais elle n'est pas révélée. Elle est trouvée rationnellement mais ne sert pas à elle-même (connaître et savoir pour connaître et savoir d'Aristote): elle reste à fonder. Le fruit de l'arbre, trouvé à son extrémité, est la morale. La métaphysique est le fondement de toute la connaissance, mais fonde rla métaphysique n'est entrepris que pour assurer (par déduction) une connaissance véritable et donc une bonne vie. La métaphysique est au service de l'épistémologie, l'épistméologie est au service de la morale. L'importance de la morale est thématique de la Renaissance (ravivan les soucis grecs), mais également d'un époque troublée par des guerres: Descartes fut soldat dans sa jeunesse.
 
-Citations:
+D'autre part, en suivant un programme pédagogique clair, l'individu lambda peut accéder à la métaphysique: elle n'est pas surhumaine d'un point de vue didactique.
+
+<u>Citations</u>
+
+1) "se former une morale qui puisse suffire pour régler les actions de sa vie"
+2) "Après cela, il doit aussi étudier la logique: non pas celle de l'École [...] mais celle qui apprend à bien conduire sa raison pour découvrir les vérités qu'on ignore  ; et parce qu'elle dépend beaucoup de l'usage, il est bon qu'il s'exerce longtemps à en pratiquer les règles en touchant des questions faciles et simples, comme sont celles des mathématiques."
+3) "Puis, lorsqu'il s'est acquis quelque habitude à trouver la vérité en ces questions, il doit commencer pour de bon à s'appliquer à la vraie philosophie, dont la première partie est la métaphysique qui conteint les principes de la connaissance, entre lesquels est l'explication des principaux attributs de Dieu, de l'immatéralité de nos âmes, et de toutes les notions claires et simples qui sont en nous. La seconde est la physiques [...] En suite de quoi [...] la nature des plantes, celles des animaux et surtout celle de l'homme ; afin qu'on soit capable de trouver par après les autres sciences qui lui sont utiles"
+4) "Ainsi toute la philosophie est comme un arbre dont les racines sont la métaphysique, le tronc est la physique, et les branches qui sortent de ce tronc sont toutes les autres sciences, qui se réduisent à trois principales, à savoir la médecine, la mécanique et la morale ; j'entends la plus haute et parfaite morale, qui, présupposant une entière connaissance des autres sciences, est le derné degré de la sagesse."
+
+"la principale utilité de la philosophie dépend de celles de ses parties qu'on ne peut apprendre que les dernières."
 
 ### Leibniz, *Nouveaux essais sur l'entendment humain*, IV, 8, "Des propositions frivoles", §9-11, GF-Flammarion, 1990, p. 339-341
 
@@ -248,7 +287,17 @@ Théophile relègue cette critique à l'ontologie seule, mais accorde qu'une vé
 
 La théologie naturelle (théorétique: métaphysique naturelle; pratique: morale parfaite) est une véritable recherche, il ne faut qu'en exclure les arguties ontologiques (encore que: l'ontologie est permise, en critiquant les concepts vides de sens, et en les ramenant à des concepts véritables)(comme des accidents universels, mais à l'exclusion des transcendantaux ?)
 
-Citations:
+<u>Citations:</u>
+
+Philalèthe: "Chacun peut voir une infinité de propositions, de raisonnements et de conclusions de cette nature dans les livres de métaphysique, de théologie scolastique, et d'une certaine espèce de physique, dont la lecture ne lui apprendra rien de plus de Dieu, des esprits et des corps, que ce qu'il en savant que d'avoir parcouru ces livres."
+
+Théophile: "il y a encore de l'or dans ces scories, mais il n'y que des personnes éclairées qui puissent en profiter ; et de cherger la jeunesse d'un fatras d'inutilités, parce qu'il y a quelque chose de bon par-ci par-là, ce serait mal ménager la plus précieuse de toutes les choses, qui est le temps."
+
+"il y a de grandes et belles vérités sur Dieu et sur l'âme, que notre habvile auteur a enseignée ou de son chef ou en partie après d'autres"
+
+"Et quant à la métaphysique réelle, nous commençons quasi à l'étalbir, et nous trouvons des vérités importantes fondées en raison et confirmées par l'expérience, qui appartiennent aux substances en général. [...] Uen telle métaphysique est ce qu'Aristote demandait, c'est la science qui s'appelle chez lui *Zètsumenè*, la désirée, ou qu'il cherchait, qui doit être à l'égard des autres sciences théorétiques ce que la science de la fécilité est aux arts dont elle a besoin et ce que l'architecte est aux ouvriers."
+
+"Aussi faut-il savoir que la vraie morale est à la métaphysique ce que la pratique est à la théorie, parce que de la doctrine des substances en commun dépend la connaissance des esprits et particulièrement de Dieu et de l'âme, qui donne une juste étendue à la justice et à la vertu. Car j'ai remarqué ailleurs, s'il n'y avait ni providence ni vie future, le sage serait plus borné dans les pratiques de la vertu [...] sans ces belles et grandes vues que l'ordre et l'harmonie de l'univers nous ouvrent jusque dans un avenir sans bornesi [...] de sorte qu'on peut dire que la théologie naturelle, comprenant deux parties, la théorétique et la pratique, contient tout à la fois la métaphysique réelle et la morale la plus parfaite." Thématiquement la métaphysique étend les bornes de la morales en considérant la vie future et la providence.
 
 ### Kant, Critique de la raison pure, architectonique dela raison pure, trad. J. Barni révisée, GF-Flammarion, 1987, p. 627-632
 
@@ -256,20 +305,68 @@ Kant éclaircit le sens de la métaphysique en tant que recherche des premiers p
 
 La critique fait partie de la métaphysique. Sa nouvelle division se présente ainsi: elle distingue clairement la hiérarchie de la connaissance *a priori* et exclut explicitement la physique et les mathématiques (les mathématiques ne sont que des concepts construits par intuition, au contraire de la métaphysique (concept *a priori*)).
 
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"la métaphysique n'est au fond rien d'autre que la science de l'unité systématique de la raison pure"
+
+"la raison n'a pas de point de vue surplombant sur elle-même, c'est elle-même encore qui fait sa propre critique. Elle est une dans chacun de ses moments, et comme totalité elle doit se retrouver aussi dans le faux et l'illusion, qui font partie intégrante du système de la science. On préférera donc dire avec Kant que la *Critique de la raison pure* est une "*métaphysique de la métaphysique*" (lettre à Herz, mai 1781).
+
+ distinction essentielle passe alors entre (1) la *philosophie transcendantale *ou *ontologie*, qui porte sur la raison en tant qu'elle se rapporte à des objets en général, et ainsi sur l'objet lui-même en général, et (2) la *physiologie* de la raison pure, qui considère la "nature", c'est-à-dire les objets donnés dans une intuition quelconque."
+
+"La physiologie rationnelle répond au projet d'une métaphysique de la nature annoncée dès la première préface, et que Kant ne jugeait plus être une tâche problématique une fois achevée la partie critique ou propédeutique. La métaphysique est "la seule de toutes les sciences qui se peut promettre en peu de temps et avec très peu d'efforts seulement". Mais Kant n'eut pas le temps que de concrétiser le projet d'une métaphysique des moeurs, elle-même préparée par la *Critique de la raison pratique*. La contrepartie doctrinale de la *Critique de la raison pure* reste encore à écrire."
+
+Du texte:
+
+"la distinction des deux éléments de notre connaissance, dont l'un est en notre pouvoir tout à fait *a priori*, tandis que l'autre ne peut être tiré qu'*a posteriori* de l'expérience, est oujours demeurée très obscure'
+
+"Quand on disait: la métaphysique est la science des premiers principes de la connaissance humaines, on ne désignait point une espèce particulière de principes, mais seulement un degré plus élevé de généralité"
+
+"le seul degré de subordination (le particulier sous la généralité) ne peut déterminer les limites d'une science"
+
+"pour ce qui est du mode de connaissance qui, dans l'une, a lieu par concept, tandis que, dans l'autre, il se fait simplement par la construction des concepts" (distinction entre la métaphysique et les mathématiques)
+
+"Toute connaissance pure *a priori* forme donc, grâce à la faculté de connaître particulière où elle a exclusivement son siège, une unité particulière et la métaphysique est la philosophie qui l'expose dans cette unité systématique. La partie spéculative de cette science, qui s'est particulièrement approprié ce nom, ou que nous appelons la *métaphysique de la nature*, et qui examine tout, suivant des concepts *a priori* en tant qu'*il est* (et non pas ce qui doit être), se divise de la manière suivante."
+
 ![Diagramme](../../carte_kant.png "Diagramme du système de la métaphysique selon l'extrait cité de Kant")
 
-Citations:
+Quid de la cosmologie contemporaine et de la cosmologie au sens kantien ? Quelle critique peut-on en donner ?
 
-### Kant, *Les progrès de la métaphysique en allemagne depuis le temps de Leibniz et de Wolff*, trad. L. Guillermit, Vrin, 1968, p. 78i - 80
+### Kant, *Les progrès de la métaphysique en allemagne depuis le temps de Leibniz et de Wolff*, trad. L. Guillermit, Vrin, 1968, p. 78 - 80
 
 On a raté la métaphysique:
 
 1) En ne proposant pas une science de l'*a priori* distincte de la physique (ce que Kant propose par la *Critique*)
-2) En ne proposant aucun concept ni même catégorie du suprasensible - aucune caractérisation claire sous une quelconque forme.
+2) En ne proposant aucun concept ni même catégorie du suprasensible: aucune caractérisation claire sous une quelconque forme.
 
 La métaphysique kantienne ne prétend qu'être le moyen d'une métaphysique véritable, qui doit transgresser plutôt que de progresser dans l'analyse du physique (dans la *Critique*, la métaphysique est une limite et ne peut qu'être connue qu'en tant que telle).
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"l'ontologie et la physiologie rationnelle - répondent-elles à la "fin essentielle" de la métaphysique ? Il semble que non."
+
+En citant Kant: "La philosophie transcendantale, c'est-à-dire la doctrine de la possibilité de toute connaissance *a priori* en général, qui est la critique de la raison pure, a pour but le fondement d'une métaphysique ; le but de cette dernière à son tour, en tant que fin ultime de la raison, c'est l'extension de cette dernière au-delà des limites du sensible au domaine du suprasensible ; ce qui représente un dépassement qui, pour ne pas être un saut périlleux, n'est pas assurément non plus un passage continu dans le même ordre des principes ; il faut donc contrôler sérieusement le progrès de la métaphysique aux confins des deux domaines" (p. 26-27)
+
+Du texte:
+
+"La métaphysique contient dans l'une de ses parties (l'ontologie) des éléments, tant concepts que principes, de la connaissance humaine *a priori*, et la fin qu'elle se propose exige qu'elle les contiennt ; mais sa partie la plus importante, et de loin, trouve son application dans les objets d'une expérience possible: ainsi le concept d'une cause et le principe du rapport de tout changement à cette cause."
+
+"On n'aurait donc jamais songé, en considération de cet usage de la raison, à une métaphysique comme science distincte, si la raison n'avait trouvé en elle-même un intérêt supérieur, au regard duquel la recherche et la liaison systématique de tous les concepts et principes élémentaires qui fondent *a priori* notre connaissance des objets de l'expérience ne se présentaient pas comme une préparation."
+
+"On veut grâce à elle s'élever au-dessous de tous les objets de l'expérience possible (*trans physicum*) pour connaître, si possible, ce qui ne peut absolument pas être objet d'expérience."
+
+"Et la définition de la métaphysique selon l'intention qui implique la raison pour laquelle on s'est mis en quête d'une science de ce genre serait donc : c'est une science qui permet d'aller au-delà de la connaissance du sensible jusqu'à celle du surprasensible [...] Or puisque c'est impossible au moyen des principes empiriques de la connaissance, la métaphysique conteidnra des principes *a priori* ;"
+
+"une science philosophique qui est l'ensemble de la connaissance rationnelle par *concepts a priori* (sans construction de ceux-ci)." Excluant les mathématiques, dont la définition reprise à Aristote les rend constructives (partiellement empiriques).
+
+"le système de toute pure connaissance rationnelle des choses par concepts"
+
+"on peut à bon droit soutenir que cette science n'a encore jusqu'à cette époque fait aucun progrès dans le sens de sa destination propre"
+
+"Nous savons donc sur quels progrès de la métaphysique on nous interroge, quels progrès il lui fallait véritablement y faire, et nous pouvons distinguer la connaissance *a priori* dont l'exament sert seulement de moyen et ne constitue pas la fin de cette science (c'est-à-dire celle qui, bien que fondée *a priori*, peut trouver pour ses concepts leurs objets dans l'expérience), de celle qui constitue sa fin (c'est-à-dire celle dont l'objet dépasse toute limite de l'expérience) ; la métaphysique partant de la première, pour atteindre la seconde prétend plutôt *progresser* que *transgresser*, tant l'abîme qui les sépare est immense. *Aristote* avec ses catégories s'en tenait presque uniquement à la première connaissance, *Platon* avec ses Idées prétendait à la seconde."
 
 ## III. Le suprasensible
 
@@ -286,7 +383,31 @@ L'idée de Dieu tirée de l'âme (et non pas tirée de l'iamgination) est absolu
 
 Descartes résout par la logique (l'âme est fiable, l'idée de Dieu s'y trouve nécessairement, celui-ci existe car il ne pourrait être humain) le problème métaphysique des causes premières, qu'il place dans l'ordre de la connaissance pure, donc effectivement après (méta) la physique (l'imagination et les sens). C'est une solution authentiquement métaphysique au fondement de la métaphysique, et donc de tout l'arbre de la connaissance.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"Celui qui nierait qu'on puisse rien concevoir de Dieu se contredirait lui-même en formant une idée de ce dont il pense qu'il n'y a pas d'idée."
+
+"Dans l'espace de la représentation où nous confine le *cogito*, l'idée de Dieu joue un rôle stratégique: seule en effet elle porte avec elle la marque d'une extériorité réelle."
+
+"Descartes ouvre ainsi le territoire d'une connaissance sans images. l'idée de Dieu y jouit du même statut que les notions formelles de quantité, totalité, vérité. Son contenu s'épuise dans ce qu'on y connoit simplement en y appliquant "l'intellection ou conception pure" (Méditation sixième). Il n'y a rien à y entendre d'autre que ce qu'on y entend lorsqu'on dit qu'on n'y comprend rien."
+
+"Mais la conception strictement métaphysique de l'âme se limite à celle d'une chose qui pense toutes les fois que nous pensons, une chose d'autant plus concevable, en fait, que nous la dépouillons mieux de toute image pour la considérer dans le sillage de chacun de nos actes de pensée"
+
+"L'idée de Dieu [...] a aussi cette propriété singulière d'envlopper pour ainsi dire l'existence de son objet. Elle fournit le pibot de la preuve ontologique, dénoncée par Hume, puis encore plus nettement par Kant, et qui consiste à passer du concept à l'être."
+
+"Enfin, l'âme se trouve au centre d'un dispositif qui conduit à sa distinction réelle d'avec le corps, puis à la preuve de l'existence des corps extérieurs et de leur relation à nous, selon une machinerie que Kant, là encore, démonte et reconstruit dans la sectiondes paralogismes de la raison pure."
+
+Du texte:
+
+"Mais s'il a conçu quelque chose par ces noms, comme il n'en faut point douter, i la su en mpeme temps ce qu'il fallait entendre par leurs idées, puisqu'il ne faut pas entendre autre chose que cela même qu'il a conçu. Car je n'apelle pas simplement du nom d'idées les images qui sont dépeintes en la fantaisie ; au contraire [...] j'apelle généralement du nom d'idée tout ce qui est dans notre esprit, lorsque nous concevons une chose, de quelque manière que nous la concevions."
+
+"Par l'idée de Dieu, je n'entends autre chose que ce que tous les hommes ont coutume d'entendre lorqu'ils en parlent" La propagation de la religion chrétienne à un niveau mondial, le succès du catholicisme poussant Descartes à ignorer le fait que la conception de Dieu en tant qu'universellement partagée n'est pas la résultante d'une existence de Dieu dont le concept aurait été placé de manière créative en chacun, mais plutôt d'une diffusion culturelle dont un ordre sociologique pourrait rendre compte en analyse: Dieu est moins réel par lui-même que par l'activité des prêtres au coeur de violentes conquêtes.
+
+"Pour ce qui est de l'âme, c'est encore une chose plus claire. Car n'étant, comme je l'ai démontré, qu'une chose qui pense, il est impossible que nous puissions jamais penser à aucune chose, que nous n'ayons en même temps l'idée de notre âme, comme d'une chose capable de penser à tout ce que nous pensons. [...] comme c'est par elle que nous concevons toutes choses, elle est aussi elle seule plus concevable que toutes les autres choses ensemble." Ce n'est peut-être pas à confondre avec de l'<a href="https://www.cnrtl.fr/definition/%C3%A9piph%C3%A9nom%C3%A9nisme">épiphénoménisme</a>, en tout cas le *cogito* cartésien se rapproche d'une notion moderne de la conscience. D'autre part, la clarté de l'idée de l'âme en fait un fond de connaissance presque aussi certain que Dieu. En fait, comme l'âme est crédible du fait de sa clarté conceptuelle, elle assure davantage l'idée de Dieu. Il n'est pas étonnant, par un tel renversement de logique métaphysique (l'âme assurant épistémologiquement l'existence de Dieu, alors que Dieu (cause première) est réduit à n'être que le principe ontologique et mais non épistémologique de l'âme humaine) que Descartes fit face à une certaine incompréhension voire indignation.
+
+"J'ai tiré la preuve de l'existence de Dieu de l'idée que je trouve en moi d'un être souverainement parfait, qui est la notion ordinaire que l'on en a. Est-il vrai que la simple considération d'un tel être nous conduit si aisément à la connaissance de son existence, que c'est presque la même chose de concevoir Dieu, et de concevoir qu'il existe ; mais cela n'empêche pas que l'idée que nous avons de Dieu, ou d'un être souverainement parfait, ne soit fort différente de cette proposition: *Dieu existe*, et que l'un ne puisse servir de moyen ou d'antécédent pour prouver l'autre." L'existence de Dieu n'est pas contenue dans l'idée de Dieu: il faut analyser l'idée de Dieu pour déduire qu'une de ses propriétés est son existence nécessaire ?
 
 ### Leibniz, *Système nouveau de la nature et de la communication de la substance*, GF-Flammarion, 1994, p. 66 - 68
 
@@ -298,7 +419,19 @@ Leibniz pense sur fond de mécanisme et d'atomisme qu'il reconnaît dans son tex
 
 Une métaphysique du comme si est-elle véritablement une métaphysique ?
 
-Citations:
+<u>Citations:</u>
+
+"Leibniz va plus loin: il pose des *êtres* métaphysiques. Le véritable passage à la métaphysique, c'est celui de la force au sujet, de la force "dérivative" à la force "primitive". 
+
+"Les objets mathématiques (point, collection, continu infiniment divisible, ordre étendu) ne sont jamais que des constructions idéales, qui ne touchent pas au réel des choses. Il faut donc encore "des *unités véritables* qui viennent d'ailleurs", car "s'il n'y avait point de véritables unités substantielles, il n'y aurait rien de ubstantiel ni de réel dans la collection" (*Système nouvea...*, p. 71)" Le sujet est l'action de la force, la force n'est pas sans l'action du sujet: en subjectivant la force, Leibniz résout le problème selon lequel la seule étendue n'explique pas les variations de forces ni leur conservation.
+
+"Quant au mouvement, "à la rigueur, [il] n'existe jamais, puisqu'il n'a jamais ses parties ensemble: ainsi, ce qui existe véritablement dans le corps à chaque instant est la cause du mouvement (*ibid*., p. 45), et c'est la force, autrement dit le sujet métpahysique."
+
+"mais la métaphysique requise par la physique se prolonge immédiatement, dans notre texte, en spéculations d'ordre théologique et pneumatologique. On passe ainsi des "premiers principes absolus de la composition des choses" à des "*points métaphysiques*" qui ont "quelque de *vital* et une espèce de *perception*" : "les *points mathématiques* sont leurs *points de vue* pour exprimer l'univers (*ibid.*, p. 71)" Cela rappelle aussi, en quelque sorte, le principe de la relativité.
+
+"la seule considération d'une *masse étendue* ne suffisait pas, et qu'il fallait employer encore la notion de la *force*, qui est très intelligible, quoiqu'elle soit du ressort de la métaphysique."
+
+"il est impossible de trouver *les principes d'une véritable unité* dans la matière seule ou dans ce qui n'est que passif, puisque tout n'y est que collection ou amasde parties jusqu'à l'infini. [...] Donc pour trouver ces unités réelles, je fus contraint de recourir à un *point réel et animé* pour ainsi dire, ou à un atome de substance qui doit envelopper quelque chose de formé ou d'actif, pour faire un être complet."
 
 ### Voltaire, *Dictionnaire philosophique*, éd. Beuchot, Garnier, 1879, t. IV, p. 76
 

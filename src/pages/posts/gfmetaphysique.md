@@ -467,7 +467,7 @@ Voltaire adopte une position très sceptique vis-à-vis de l'entreprise métaphy
 
 Aucun des objets de la métaphysique (les noumènes) n'est connaissable en lui-même, mais la métpahysique se présente à tout le moins comme une limite connaissable qui déborde un espace positif et inconnaissable (par distinction ce n'est pas une borne, marque négative de l'impossibilité). L'appétit de la raison est tel que la métaphysique est nécessaire: elle est une limite de la raison et bien que son projet transgressé ne soit jamais réalisable, elle existe à tout le moins de manière importante comme limite, signe de transgression inachevable.
 
-Rappelons que pour Kant, la détermination de la raison pure sert à distinguer le connaissance de l'inconnaissable, le vrai de l'illusion, et n'est pas dénué d'une utilité morale.
+Rappelons que pour Kant, la détermination de la raison pure sert à distinguer le connaissanble de l'inconnaissable, le vrai de l'illusion, et n'est pas dénué d'une utilité morale.
 
 Le but authentique de la métaphysique est de se reconnaître comme la limite, l'espace positif et inatteignable de la chose-en-soi, qui est différente des apparences.
 

@@ -256,7 +256,7 @@ Du texte:
 
 "Mais, de même que pour tout genre de l'être, il y a des principes communs à tout ce qui tombe sous ce genre, de même tous les êtres, par cela même qu'ils ont de l'être en commun, ont des principes communs qui sont les principes de tout être. Avicenne dit que les principes peuvent être dits communs en deux sens: communs par prédication, dans le sens où ce que j'appelle *forme* est commun à toute forme en se trouvant prédiqué de chacune ; et communs par causalité, dans le sens où l'on dit que le soleil est l'unique principe de tout ce qui est soumis à la génération. Or il y a des principes qui sont communs à toute être, non seulement au premier sens - celui où Aristote parle de commun à tous les êtres par proportionnalité ou analogie -, mais également dans le second sens - car les choses peuvent être ramenées [*reducuntur*: littéralement, "réduites"] à ertains principes dans un ordre défini, les principes des accidents renvoyant aux principes des substances, et les principes des substances périssables renvoyant aux principes des ubstances impérissables, et ainsi de suite en remonter l'échelle [des êtres]" Il serait intéressant ici de faire un lien à <a href="https://classiques.uqam.ca/classiques/janet_pierre/intelligence_langage/intelligence.html">Pierre Janet et son analyse philosophique de la manière dont les objets quotidiens forment une métaphysique pratique</a>, par exemple l'échelle qu'il analyse explicitement.
 
-Immatériel donc en acte: "selon Aristote l'être en acte est premier et plus parfaite que l'être en puissance"
+Immatériel donc en acte: "selon Aristote l'être en acte est premier et plus parfait que l'être en puissance"
 
 "Mais puisque les principes ultimes, quoique plus connaissables en soi, sont comme dit Aristote, *préesnts à notre esprit comme la lumière do soleil aux yeux du hibou*, la lumière naturelle de notre raison ne peut les pénétrer qu') travres leurs effets: et c'est bien là la manière dont les philosophes ont péntérés, comme ilest dit dans les *Romains*, I, 20: *Les perfections invisibles de Dieu sont visibles dans ses oeuvres pour l'intelligence*. [...] l'être en tant qu'être [*ens inquantum est ens*] [...] Mais il est une autre voie pour connaître ces choses, non pas dans la manière dont elles se manifestent par leurs effets, mais telles qu'elles se manifestent en elles-mêmes."
 
@@ -297,7 +297,7 @@ Théophile: "il y a encore de l'or dans ces scories, mais il n'y que des personn
 
 "Et quant à la métaphysique réelle, nous commençons quasi à l'étalbir, et nous trouvons des vérités importantes fondées en raison et confirmées par l'expérience, qui appartiennent aux substances en général. [...] Uen telle métaphysique est ce qu'Aristote demandait, c'est la science qui s'appelle chez lui *Zètsumenè*, la désirée, ou qu'il cherchait, qui doit être à l'égard des autres sciences théorétiques ce que la science de la fécilité est aux arts dont elle a besoin et ce que l'architecte est aux ouvriers."
 
-"Aussi faut-il savoir que la vraie morale est à la métaphysique ce que la pratique est à la théorie, parce que de la doctrine des substances en commun dépend la connaissance des esprits et particulièrement de Dieu et de l'âme, qui donne une juste étendue à la justice et à la vertu. Car j'ai remarqué ailleurs, s'il n'y avait ni providence ni vie future, le sage serait plus borné dans les pratiques de la vertu [...] sans ces belles et grandes vues que l'ordre et l'harmonie de l'univers nous ouvrent jusque dans un avenir sans bornesi [...] de sorte qu'on peut dire que la théologie naturelle, comprenant deux parties, la théorétique et la pratique, contient tout à la fois la métaphysique réelle et la morale la plus parfaite." Thématiquement la métaphysique étend les bornes de la morales en considérant la vie future et la providence.
+"Aussi faut-il savoir que la vraie morale est à la métaphysique ce que la pratique est à la théorie, parce que de la doctrine des substances en commun dépend la connaissance des esprits et particulièrement de Dieu et de l'âme, qui donne une juste étendue à la justice et à la vertu. Car j'ai remarqué ailleurs, s'il n'y avait ni providence ni vie future, le sage serait plus borné dans les pratiques de la vertu [...] sans ces belles et grandes vues que l'ordre et l'harmonie de l'univers nous ouvrent jusque dans un avenir sans bornes [...] de sorte qu'on peut dire que la théologie naturelle, comprenant deux parties, la théorétique et la pratique, contient tout à la fois la métaphysique réelle et la morale la plus parfaite." Thématiquement la métaphysique étend les bornes de la morales en considérant la vie future et la providence.
 
 ### Kant, Critique de la raison pure, architectonique dela raison pure, trad. J. Barni révisée, GF-Flammarion, 1987, p. 627-632
 
@@ -405,7 +405,7 @@ Du texte:
 
 "Par l'idée de Dieu, je n'entends autre chose que ce que tous les hommes ont coutume d'entendre lorqu'ils en parlent" La propagation de la religion chrétienne à un niveau mondial, le succès du catholicisme poussant Descartes à ignorer le fait que la conception de Dieu en tant qu'universellement partagée n'est pas la résultante d'une existence de Dieu dont le concept aurait été placé de manière créative en chacun, mais plutôt d'une diffusion culturelle dont un ordre sociologique pourrait rendre compte en analyse: Dieu est moins réel par lui-même que par l'activité des prêtres au coeur de violentes conquêtes.
 
-"Pour ce qui est de l'âme, c'est encore une chose plus claire. Car n'étant, comme je l'ai démontré, qu'une chose qui pense, il est impossible que nous puissions jamais penser à aucune chose, que nous n'ayons en même temps l'idée de notre âme, comme d'une chose capable de penser à tout ce que nous pensons. [...] comme c'est par elle que nous concevons toutes choses, elle est aussi elle seule plus concevable que toutes les autres choses ensemble." Ce n'est peut-être pas à confondre avec de l'<a href="https://www.cnrtl.fr/definition/%C3%A9piph%C3%A9nom%C3%A9nisme">épiphénoménisme</a>, en tout cas le *cogito* cartésien se rapproche d'une notion moderne de la conscience. D'autre part, la clarté de l'idée de l'âme en fait un fond de connaissance presque aussi certain que Dieu. En fait, comme l'âme est crédible du fait de sa clarté conceptuelle, elle assure davantage l'idée de Dieu. Il n'est pas étonnant, par un tel renversement de logique métaphysique (l'âme assurant épistémologiquement l'existence de Dieu, alors que Dieu (cause première) est réduit à n'être que le principe ontologique et mais non épistémologique de l'âme humaine) que Descartes fit face à une certaine incompréhension voire indignation.
+"Pour ce qui est de l'âme, c'est encore une chose plus claire. Car n'étant, comme je l'ai démontré, qu'une chose qui pense, il est impossible que nous puissions jamais penser à aucune chose, que nous n'ayons en même temps l'idée de notre âme, comme d'une chose capable de penser à tout ce que nous pensons. [...] comme c'est par elle que nous concevons toutes choses, elle est aussi elle seule plus concevable que toutes les autres choses ensemble." Ce n'est peut-être pas à confondre avec de l'<a href="https://www.cnrtl.fr/definition/%C3%A9piph%C3%A9nom%C3%A9nisme">épiphénoménisme</a>, en tout cas le *cogito* cartésien se rapproche d'une notion moderne de la conscience. D'autre part, la clarté de l'idée de l'âme en fait un fond de connaissance presque aussi certain que Dieu. En fait, comme l'âme est crédible du fait de sa clarté conceptuelle, elle assure davantage l'idée de Dieu. Il n'est pas étonnant, par un tel renversement de logique métaphysique (l'âme assurant épistémologiquement l'existence de Dieu, alors que Dieu (cause première) est réduit à n'être que le principe ontologique mais non épistémologique de l'âme humaine) que Descartes fit face à une certaine incompréhension voire indignation.
 
 "J'ai tiré la preuve de l'existence de Dieu de l'idée que je trouve en moi d'un être souverainement parfait, qui est la notion ordinaire que l'on en a. Est-il vrai que la simple considération d'un tel être nous conduit si aisément à la connaissance de son existence, que c'est presque la même chose de concevoir Dieu, et de concevoir qu'il existe ; mais cela n'empêche pas que l'idée que nous avons de Dieu, ou d'un être souverainement parfait, ne soit fort différente de cette proposition: *Dieu existe*, et que l'un ne puisse servir de moyen ou d'antécédent pour prouver l'autre." L'existence de Dieu n'est pas contenue dans l'idée de Dieu: il faut analyser l'idée de Dieu pour déduire qu'une de ses propriétés est son existence nécessaire ?
 
@@ -421,6 +421,8 @@ Une métaphysique du comme si est-elle véritablement une métaphysique ?
 
 <u>Citations:</u>
 
+De l'introduction par É. During:
+
 "Leibniz va plus loin: il pose des *êtres* métaphysiques. Le véritable passage à la métaphysique, c'est celui de la force au sujet, de la force "dérivative" à la force "primitive". 
 
 "Les objets mathématiques (point, collection, continu infiniment divisible, ordre étendu) ne sont jamais que des constructions idéales, qui ne touchent pas au réel des choses. Il faut donc encore "des *unités véritables* qui viennent d'ailleurs", car "s'il n'y avait point de véritables unités substantielles, il n'y aurait rien de ubstantiel ni de réel dans la collection" (*Système nouvea...*, p. 71)" Le sujet est l'action de la force, la force n'est pas sans l'action du sujet: en subjectivant la force, Leibniz résout le problème selon lequel la seule étendue n'explique pas les variations de forces ni leur conservation.
@@ -433,23 +435,75 @@ Une métaphysique du comme si est-elle véritablement une métaphysique ?
 
 "il est impossible de trouver *les principes d'une véritable unité* dans la matière seule ou dans ce qui n'est que passif, puisque tout n'y est que collection ou amasde parties jusqu'à l'infini. [...] Donc pour trouver ces unités réelles, je fus contraint de recourir à un *point réel et animé* pour ainsi dire, ou à un atome de substance qui doit envelopper quelque chose de formé ou d'actif, pour faire un être complet."
 
+"C'est tout un système du monde, appuyé sur une doctrine de l'expression (de l'univers par chaque substance, et de toutes les usbstances entre elles), qui vient relayer les prémisses métaphysiques de la dynamique des corps."
+
+Du texte:
+
+"pour rendre raison des lois de la nature que l'exprérience faisait connaître, je m'aperçus que la seule considération d'une *masse étendue* ne suffisait pas, et qu'il fallait employer encore la notion de *force*, qui est très intelligible, quoiqu'elle soit du ressort de la métaphysique."
+
+"Je trouvai donc que leur nature consiste dans la force et que de cela s'ensuit quelque chose d'analogique au sentiment et à l'appétit ; et qu'ainsi il fallait les concevoir à l'imitation de la notion que nous avons des âmes."
+
+"Aristote les appelle *entéléchies premières*, je les appelle peut-être plus intelligibilement *forces primitives*, qui ne contiennent pas seulement l'acte ou le complément de la possibilité, mais encore une *activité* originale."
+
+"Je voyais queces formes et ces âmes devaient être indivisibles, aussi bien que notre esprit, comme en effet je me souvenais que c'était le sentiment de saint Thomas à l'égard des âmes des bêtes. Mais cette vérité renouvelait les grandes difficultés de l'origine et de la durée des âmes et des formes. [...] Ainsi (excepté les âmes que Dieu veut encore créer exprès) j'étais obligé de reconnaître qu'il faut que les formes constitutives des substances aient été créés avec le monde, et qu'elles subsistent toujours."
+
+"Dieu gouverne les esprits, comme un Prince gouverne ses sujets, et même comme un père a soin de ses enfants ; au lieu qu'il dispose des autres substances, comme un ingénieur manie des machines. Ainsi les esprits ont des lois particulières, qui les mettent au-dessus des révolutions de la matière par l'ordre même que Dieu y a mis, et on peut dire que tout le reste n'est fait que pour eux, ces révolutions mêmes étant accomodées à la félicité des bons, et au châtiment des méchants." La théodicée est maintenue car ces âmes ne sont pas mesurables à l'intelligence des esprits et de l'âme raisonnable ("il n'y fallait point mêler indifféremment ou confondre avec les autres formes ou âmes les *esprits* ni l'âme raisonnable").
+
 ### Voltaire, *Dictionnaire philosophique*, éd. Beuchot, Garnier, 1879, t. IV, p. 76
 
 La métaphysique n'a pas de matière: de fait elle ressemble à un amusement ou à un doux rêve. Elle statue sur l'immatériel et ne devrait pas tenter de définir Dieu, qui est infiniment différent de l'homme. Elle est comme le "roman de l'esprit": elle tente de comprendre l'esprit mais le roman est n'est qu'une fiction divertissante.
 
 Voltaire adopte une position très sceptique vis-à-vis de l'entreprise métaphysique.
 
-Citations:
+<u>Citations:</u>
+
+"*Trans naturam*, au-delà de la nature. Mais ce qui est au-delà de la nature est-il quelque chose ?"
+
+"Votre raisonnement [...] Les esprits [...] La mnière dont ces esprits sentent [...] Enfin Dieu [...] entre lequel et nous est l'abîme de l'infini, et dont nous osons sonder la nature ; Ce sont là les obvjets de la métaphysique."
+
+"C'est pourquoi on peut être métaphysicien sans être géomètre. La métaphysique est plus amusante: c'est souvent le roman de l'esprit. En géométrie, au contraire, il faut calculer, mesurer. C'est un gêne continuelle, et plusieurs esprits ont mieux aimé rêver doucement que se fatiguer."
 
 ### Kant, *Prolégomènes à toute métaphysique future qui voudra se présente comme science*, § 57, trad. L. Guillermit, Vrin, 1986, p. 130-135
 
-Aucun des objets de la métaphysique (les noumènes) n'est connaissable en lui-même, mais la métpahysique se présente à tout le moins comme une limite connaissable qui déborde un espace positif et inconnaissable (ce n'est pas une borne, marque négative de l'impossibilité). L'appétit de la raison est tel que la métaphysique est nécessaire: elle est une limite de la raison et bien que son projet transgressé ne soit jamais réalisable, elle existe à tout le moins de manière importante comme limite, signe de transgression inachevable.
+Aucun des objets de la métaphysique (les noumènes) n'est connaissable en lui-même, mais la métpahysique se présente à tout le moins comme une limite connaissable qui déborde un espace positif et inconnaissable (par distinction ce n'est pas une borne, marque négative de l'impossibilité). L'appétit de la raison est tel que la métaphysique est nécessaire: elle est une limite de la raison et bien que son projet transgressé ne soit jamais réalisable, elle existe à tout le moins de manière importante comme limite, signe de transgression inachevable.
 
 Rappelons que pour Kant, la détermination de la raison pure sert à distinguer le connaissance de l'inconnaissable, le vrai de l'illusion, et n'est pas dénué d'une utilité morale.
 
 Le but authentique de la métaphysique est de se reconnaître comme la limite, l'espace positif et inatteignable de la chose-en-soi, qui est différente des apparences.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"Kant rappelle la destination authentique de la métaphysique : "la principale fin de cette science", c'est "la connaissance d'un Être suprême et d'un monde futur" (*Prolégomènes...*, §4).
+
+"elle prend appui sur les trois Idées transcendantales de la liberté, de Dieu comme auteur moral du monde et de 'âme immortelle pour penser "le suprasensible *en* nous, *au-dessus* de nous, *après* nous" (*Progrès de la métaphysique*, p. 55). sans doute, "nous ne pouvons absolument rien connaître de la nature d'(objets suprasensibles, de Dieu, de notre propre liberté et de notre âme (séparée du corps)" (*ibid*, p. 57)."
+
+"Nous devons étudier "non ce qu'*est* la chose suprasensible *en elle-même*, mais seulement *comment nous devons la penser* et admettre sa nature afin qu'elle soit appropriée pour nous à l'objet pratiquement dogmatique du pur principe morale, c'est-à-dire à la fin ultime qui est le souverain bien" (nous soulignons)."
+
+"au-delà de cette limite, vers l'espace des purs objets de l'entendement. Cet espace est encore *concevable* [...] : ce dont la connaissance nous est par principe refusée."
+
+"Contrairement à la borne, la *limite* ne dessine pas un dehors absolu, mais un dehors relatif, elle est une limitation *intrinsèque*, et donc d'une certaine manière une illimitation, un passage: "une limite est elle-même quelque chose de positif, qui appartient aussi bien à ce qu'elle enclôt qu'à l'espace situé à l'extérieur d'un ensemble donné" (*Prolégomènes...*, § 59, p. 141)."
+
+"Ainsi à propos de Dieu: "nous nous tenons sur cette limite si nous restreignons notre jugement au seul rapport que le monde peut avoir à un Être dont le concept même se trouve extérieur à toute connaissance que nous sommes capables d'avoir à l'intérieur du monde". Et parce que la pensée vide du déisme ne saurait satisfaire les demandes de la raison pratique, "nous nous permettons un anthropomorphisme *symbolique* qui concerne en fait uniquement le langage, et non l'objet lui-même" (*ibid.*, § 58, p. 137). L'Idée de la raison se trouve alors relayée par l'Idées esthétique qui produit un "schème pour le suprasensible" (*Critique du jugement*, § 53). C'est le lieu de l'*analogie* (*Prolégomènes...*, § 58, p. 137), qui déborde le concept et enracine le discuours métaphysique dans le sensible."
+
+Du texte:
+
+"Qui peut se contenter de la seule connaissance d'expérience dans toutes les questions cosmologiques concernant la durée et la grandeur du monde, la liberté ou la nécessité naturelle [...] toute réponse donnée par les principes de l'expérience engendre toujours une nouvelle question [...] qui appelle également une réponse et montre clairement par là que toutes les espèces physiques d'explication ne suffisent pas à satisfaire la raison"
+
+"Or notre raison voit, si l'on peut dire, autour d'elle un espace pour la connaissance des choses en elles-mêmes, bien qu'elle ne puisse jamais avoir de concepts déterminés et qu'elle soit restreinte aux phénomènes."
+
+"Tant que la connaissance de la raison est homogène, on ne peut concevoir qu'elle ait des limites déterminées. En mathématique et dans la science de la nature, la raison humaine connaît, il est vrai, des bornes, mais pas des limites, c'est-à-dire qu'elle reconnaît qu'il y a quelque chose en dehors d'elle, à quoi elle est jamais incapable d'atteindre, mais non pas qu'elle-même parvienne à son terme quelque part en son développement intérieur."
+
+"Jamais la science de la nature ne nous dévoilera l'intérieur des choses, c'est-à-dire ce qui n'est pas phénomène, tout en pouvant cependant servir de principe suprême d'explication des phénomènes ; mais elle n'en a même pas besoin pour ses explications physiques ; bien plus, si un tel principe lui était d'autre part proposé (par exemple, une influence d'êtres immatériels), elle se doit de l'exclure et de se garder de l'introduire dans la suite de ses explications, qu'elle doit toujours fonder uniquement sur ce qui peut, à titre d'objets des sens, relever de l'expérience et être mis, selon les lois de l'expérience, en connexion avec nos perceptions réelles."
+
+"Mais dans les tentatives dialectiques de la raison pure (qui ne sont pas entreprises arbitrairement ou témérairement, c'est la nature de la raison elle-même qui nous y pousse), la métaphysique nous conduit à des limites [...] Car la métaphysique, plus que toute autre science peut-être, est mise en nous selon ses principaux caractères par la nature elle-même"
+
+"Tous ses concepts et les lois de l'entendement qui suffisent à l'usage empirique, donc intérieur au monde sensible, de la raison ne parviennent cependant pas à contenter celle-ci [...] Le monde sensible n'est qu'une chaîne de phénomènes liés selon les lois universelles, il n'a pas de consistance en lui-même, il n'est pas proprement la chose en elle-même [...] Seule la connaissance de ces êtres peut doner à la raison de voir un jour satisfaite son aspiration à l'intégralité dans sa progression du conditionné à ses conditions." Du conditionné (phénomène) à ses conditions (chose en soi), mais les conditions sont limitées par la raison pure.
+
+"comment se comporte notre raison en cette liaison de ce que nous connnaissons avec ce que nous ne connaissons pas et que nous ne connaîtrons jamais ? [...] il faut toutefois que le concept de cette liaison puisse être déterminé et rendu distinct."
+
+"Car si nous ne pensons l'être intelligible que par des concepts purs de l'entendement, nous ne pensons par ce moyen réellement rien de déterminé et par conséquent notre concept est dépourvu de signification ; mais si nous le pensons au moyen de propriétés empruntées au monde sensible, alors ce n'est plus un être intelligibile, il est pensé comme un des phénomènes et il appartient au monde sensible." Il faut le penser en tant que limite de l'entendement.
 
 ### Hegel, *Phénoménologie de l'esprit*, trad. J.-P. Lefebvre, Aubier, 1991, p. 125-127 et 141-142
 
@@ -459,7 +513,37 @@ Ce suprasensible est vide et comme Kant le remarque, ne peut être rempli que de
 
 Surpasser la métaphysique: reconnaître que le suprasensible est a pour origine l'entendement, trouver la vérité de la métaphysique dans la conscience rationnelle des universels produits par l'entendement, en percevant cette production critiquement pour ce qu'elle est, ce que Kant n'a pas su faire.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"Or l'entendement cherche dans l'objet la part *suprasensible* qui rassemble la multiplicité sensible de ses aspects et fait ainsi l'universalité de son concept."
+
+"révéler le mécanisme qui pousse à "doubler" le monde, et surtout l'*image de la pensée* qui conditionne la position d'un monde suprasensible (*übersinnliche Welt*)"
+
+"la conscience ne se reconnaît pas dans l'objet tel qu'il se présente, elle place l'essence de l'objet *dans* l'objet, elle se donne un dehors absolu. La conscience n'a pas encore atteint le stade où elle est vraiment pour elle-même dans le concept"
+
+"l'arrière-fond des choses est un au-delà vide, sans contenu, une pure négation du phénomène sensible"
+
+"*l'inconnaissable fait chose*, le vide ou l'au-delà qui borde toute connaissance. Il n'y a guère que deux manières de lui donner une consistance: le peupler de produits de l'imagination (phénomènes de la rêverie) et c'est le sacré sous toutes ses formes symboliques; ou lui donner la détemrination de la loi, et c'est la science."
+
+"De sorte que le suprasensible, dans sa vérité, n'est rien d'autre que le phénomène révélé comme phénomène, le "*phénomène en tant que phénomène*." (dialectiquement la raison se reconnaît dans le vide au-delà du phénomène)
+
+Du texte:
+
+"L'*être* de cet objet pour la cosncience est intermédié par le mouvement de *l'apparition phénoménale*, dans lequel l'*être de la perception* et le sensible-objectal tout court n'ont qu'une signification négative, et où donc, de ce fait, la conscience réfléchit en elle-même comme dans le vrai, ce vrai *intérieur objectal*, et distingue cette réflexion des choses de sa réflexion en elle-même"
+
+"C'est seulement dans ce *Vrai intérieur*, en tant qu'*absolument universel* nettoyé de l'*opposition* de l'univertsel et du singulier, et devenu *pour l'entendement*, que s'ouvre alors comme monde *vrai*, par-dessus le monde *sensible* en tant que *monde qui apparaît*, un monde *suprasensible*"
+
+"mais c'est le mouvement de ce syllogisme qui fournit la détermination ultérieure de ce que l'entendement aperçoit dans l'intérieur à travers le milieu, et l'expérience qu'il fait de ce rapport de co-inclusion."
+
+"S'il n'y avait rien d'autre à tirer de l'intérieur et de la co-inclusion avec lui par l'intermédiaire du phénomène, il ne resterait plus qu'à s'en tenir à ce qui apparaît, au phénomène, c'est-à-dire à percevoir, à prendre pour de vraie une chose dont nous savons qu'elle n'est pas vraie ; ou encore, pour que dans ce vide, qui est d'abord advenu comme vacuité des choses objectives, mais qui doit être pris lui aussi, *en tant que vacuité en soi*, pour la vidité de tous les rapports et des différentes de la conscience en tant que conscience - pour que, donc, dans ce *vide intégral* qu'on appelle aussi *le sacré*, il y ait quand même quelque chose, il ne resterait plus qu'à le remplir avec des rêveries, c'est-à-dire avec des phénomènes que la *conscience* se produit à elle-même" (critique de la limite kantienne)
+
+"Nous voyons donc que dans l'intérieur du phénomène l'entendement ne découvre pas autre chose, en vérité, dans cette expérience, que le phénomène lui-même."
+
+"La conscience, élevée au-dessus de la perception, se présente comme conjointe au suprasensible par l'élément médian du phénomène, à travers lequel elle regarde cet arrière-plan."
+
+"car ce savoir de ce qu'est la vérité de la *représentation* du phénomène et de son intérieur n'est lui-même que le résultat d'un mouvement circonstancié par où passent et trépassent les modalitésde la conscience, opinion, perception et entendement ; et nous verrons tout aussi bien que la connaissance *de ce que la conscience sait en se sachant elle-même*, requiert d'autres circonstances encore, dont nous allons, dans ce qui suit, faire l'analyse détaillée." (fin de l'extrait)
 
 ### Schopenhauer, *Le monde comme volonté et comme représentation*, ch. XVII, "Le besoin métaphysique de l'humanité", trad. A. Burdeau, PUF, 1966, p. 878-882
 
@@ -467,13 +551,57 @@ En revendiquant Kant: la métaphysique est désirable, mais son contenu est impo
 
 Parangon hégélien de la conscience ne reconnaissant pas son esprit d'entendement universel.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"L'apport propre de Schopenahuer sur ce point consiste à étendre la distinciton entre l'existence phénoméname de l'homme et son activité libre "à tous les phénomènes de la nature, en leur donnant pour fondement commun la *Volonté* comme chose en soi" (p. 868). Ainsi "toute chose physique est également par un autre côté une chose métaphysique" (p. 869)."
+
+"la métaphysique ne dépasse pas l'expérience vers une quelconque connaissance de l'en-soi, elle ne fait qu'y *prétendre* ou y *aspirer*. La métaphysique demeure "immanente, non transcendante", elle cherche l'en-soi à même le phénomène, dans son rapport avec lui."
+
+"Seulement, par différence avec les autres sciences, elle est science *intégrale* de l'expérience, *science du tout de l'expérience*, considérée comme manifestation de la chose en soi."
+
+"Jeter une lumière égale sur toute chose, où se résorbent l'hétérogénéité, la diversité et les contradictions, c'est déjà poser, comme *idéal*, un monde plus parfait que le nôtre ; un monde un, identique, subsistant, sans déchirement et sans souffrance, et dont la pensée pourrait faire système une fois pour toutes."
+
+Du texte:
+
+"En ce sens donc, la métaphysique dépasse le phénomène, c'est-à-dire la nature, pour atteindre à ce qui est caché dans elle ou derrière elle (*to meta to fusikon*), mais elle ne considère cet élément caché que comme apparaissant dans la nature et non indépendamment du phénomène ; elle demeure donc immanente, non transcendante."
+
+"La métaphysique ne dépasse donc réellement pas l'expérience ; elle ne fait qu'ouvrir la véritable intelligence du monde qui s'y révèle."
+
+"mais j'y ajoute ceci que, précisément comme phénomène, ce monde est la manifestation de la chose qui y apparaît et que j'appelle avec lui la chose en soi."
+
+"La philosophie n'est donc que l'intelligence exacte et universelle de l'expérience même, l'explicatoin vraie de son sens et de son contenu. Ce contenu, c'est la chose métaphysique, dont le phénomène n'est que le vêtement et l'envloppe, et cette chose est au phénomène ce que la pensée est aux mots."
+
+"car il n'est pas possible d'admettre que l'unité établie ainsi entre tous les signes de l'écritre soit l'oeuvre du pur hasard, et qu'elle pût être réalisée en donnant aux diverses lettres une valeur tout autre. D'une manière analogue, le déchiffrement du monde doit porter sa confirmation en lui-même. Il doit répadnre une lumière égale sur tous les phénomènes du monde et accorder ensemble même les plus hétérogènes, de sorte que toute opposition disparaisse entre les plus contradictoires." Hegel critiquerait cette position comme étant celle d'une conscience qui reconnaît dans la production de sa propre vacuité un Autre, un non-conscience, ce qui est une illusion manquant la vérité de la conscience.
+
+"nous ne pouvons rendre les choses intelligibiles que par des rapports de coexistence, de succession et de causalité ; or ces rapports n'ont de sens et de valeur que dans leur application au phénomène ; les choses en soi et leurs relations possibles ne peuvent pas êtres saisies par le moyen de ces formes." 
+
+"Par conséquent, ceux qui prétendent connaître les raisons dernières, c'est-à-dire premières des choses [...] ces gens-là sont des farceurs, des fanfarons, pour ne pas dire des charlatans."
 
 ### Nietzsche, *Le Crépuscule des idoles*, trad. H. Albert, GF-Flammarion, 1985, p. 93-96
 
 La position du suprasensible est une erreur qui consiste à diminuer l'immédiat par une espèce de rancoeur: il faut au contraire célébrer la tragédie du réel comme un événement positif. Il faut célébrer la vie et dépasser les antinomies métaphysiques (apparence/vérité, unité/multiplicité, bien/mal). Il faut embrasser un nouveau monde qui célèbre la vie en faisant fi de la métaphysique, un monde au-delà: métémétaphysique, hypermétaphysique, transmétaphysique... (Nietzsche ne donne pas ces néologismes).
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"Dans tous les cas, et même s'il arrive à Nietzsche de parler de "platonisme retourné", il ne s'agit pas de "remettre Platon sur ses pieds" en posant métaphysiquement l'apparent "à la place" du vrai (vérité de l'apparence, nouvel absolu), mais d'ouvrir une perspective "par-delà" l'un et l'autre. "Désapprendre nos *antinomies*, voilà notre tâche" (*La Volonté de puissance*, 1881-1882)."
+
+Du texte:
+
+LA "RAISON" DANS LA PHILOSOPHIE
+
+"*Deuxième proposition*. Les signes distinctifs que l'on a donnés de la véritable "essence des choses" sont les signes caractéristiques du non-être, du *néant* ; de cette contradiction, on a édifié le "monde vrai" en vrai monde : et c'est en effet le monde des apparences, en tant qu'illusion d'optique morale." Illusion d'optique morale !
+
+"*Troisième proposition.* Parler d'un autre monde que celui-ci n'a aucun sens, à moins que nous n'ayons en nous un instinct dominant de calomnie, de rapetissement, de mise en supsicion de la vie: dans ce dernier cas, nous nous vengerons de la vie avec la fantasmagorie d'une vie "autre", d'une vie "meilleure"."
+
+COMMENT LE "MONDE-VÉRITÉ" DEVINT ENFIN UNE FABLE
+
+*Histoire d'une erreur*
+
+"6. Le "monde-vérité", nous l'avons aboli: quel monde nous est resté ? Le monde des apparences peut-être ?... Mais non ! *avec le monde-vérité nous avons aussi aboli le monde des apparences !*
 
 ## IV. Que peut encore la métaphysique ?
 
@@ -491,7 +619,31 @@ La métaphysique de fait n'est pas une entreprise irréaliste, elle est seulemen
 
 La métaphysique est la plus simple des sciences (la plus abstraite) et elle est si générale, qu'elle est aussi la plus observable des sciences: elle ne concerne qu'un type d'expérience dont tout un chacun est saturé. En ce sens, elle est plus observable que l'astronomie, qui dépense pourtnat des milliers de dollar pour ses buts.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"Plus d'abstraction et plus de clarté devraient la mettre enfin sur le chemin sûr d'une science."
+
+"Il faut même aller plus loin et dire que les objets de la métaphysique sont les plus ordinaires qui soient (tout ce qui est réel, tout ce qui est possible, l'espace, le temps, la conscience) [...] La métaphysique, en effet, n'est rien d'autre que "l'étude des caractères les plus généraux de la réalité". (p.6) À cet égard elle est une science comme les autres, elle ne diffère que par le degré de généralité de son domaine d'étude. Il faut donc lui appliquer en toute rigueur les mêmes méthodes que les sciences de la nature: induction et hypothèse. Il faut, surtout, que les métpahysicieisn se déprennent enfin de l'esprit "théologique", de ce désir de croire qui les a si longtemps retenus de se livrer à une véritable enquête scientifique"
+
+"la tâche de la métaphysique scientifique [...] est de formuler et de résoudre des problèmes, de construire de proche en proche et de remanier indéfiniment une table toujours ouverte des catégories de l'être. À cette ontologie réformée sont redeveables tous les grands métaphysiciens de la tradition analytique (Carnap, Goodman, Strawson, Armstrong, Plantinga, Kripke, Lewis, Wiggins, Chisholm)."
+
+Du texte:
+
+"Cela a nui, au premier au chef, au développement de la psychologie ; et cet état d'arriération de la psychologie a constitué un grand préjudice pour toutes les autres sciences de l'esprit, telles que la linguistique, l'anthropologie, les sciences sociales, etc. Il m'apparaît aussi clairement que la mauvaise et boîteuse métaphysique n'a pas été moins ruineuse pour les sciences physiques"
+
+"Pourquoi la métaphysique devrait-elle $etre si difficile ? Parce qu'elle est abstraite ? Mais plus une science est abstraite, plus elle est facile"
+
+"Or la métaphysique, même la mauvaise métaphysique, repose sur l'observation [...] sur un genre de phénomènes dont l'expérience de tout un chacun est tellement saturée qu'on n'y prête plus aucune attention particulière."
+
+"Or la tâche principale des théologiens est de rendre les gens sensisbles à l'ignonimie que représente la moindre divergence par rapport à la métaphysique qu'ils pensent être en accord avec la foi officielle."
+
+"Mais il n'y a rien de plus antiscientifique que l'état d'esprit de ceux qui essaient de se raffermir dans leurs premières croyances. Le combat de l'homme scientifique consiste [bien plutôt] à percevoir l'erreur dans ses croyances - si tant est qu'il ait des croyances."
+
+"Il faut s'attendre à ce que la métaphysique, de par sa place dans le tableau des sciences, soit d'une certaine manière plus difficile que la logique, mais à tout prendre une des sciences les plus simples, dans la mesure où ses grands principes doivent être établis avant que de réels progrès ne puissent être faits dans les sciences de la nature et de l'esprit."
+
+"Historiquement, il est frappant de remarquer qu'elle a été une arène de disputes incessantes et triviales. Mais on remarque aussi qu'elle a été pratiquée dans un esprit contraire à celui d'un authentique désir de vérité, qui est l'exigence la plus essentielle de la logique de la science ; et il serait bon d'essayer de voir modestement, en considérant la métaphysique comme une science d'observation, en lui appliquant les méthodes universelles d'une telle science, et cela sans se préoccuper le moins du monde du genre de conclusions auxquelles on serait mené, ni des tendances qui en résulteraient, si donc, en procédant en toute honnêteté, en ayant strictement recours à l'induction et à l'hypothèse, on ne pourrait pas en trouver un fondement qui permette d'espérer que les disputes et les obscurités de cette discipline disparaissent enfin."
 
 ### Bergson, "Introduction à la métaphysique" in *La Pensée et le mouvant"*, PUF, 4è éd. 1993, p. 219-227
 
@@ -499,17 +651,84 @@ Henri Bergson propose de réformer la métaphysique en outrepassant son caractè
 
 Par l'impulsion de l'intuition, la multiplication de l'expérience, toute la métaphysique se trace. Il est possible d'accéder à une expérience intégrale, qui pour autant n'est jamais fixe.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"Elle a tout à gagner de son dialogue avec l'expérience et la science. "La mathématique moderne est précisément un effort pour substituer au *tout fait* ce qui *se fait*, pour suivre la génération des grandeurs" (p. 214) ; "*un des objets de la métaphysique est dopérer des différenciations et des itnégrations qualitatives*" (p. 215)."
+
+"L'intuition n'est pas une coïncidence immédiate, une fusion muette où la réalité se donnerait sans reste: c'est une méthode, celle de la précision en philosophie. L'intuition a besoin d'être comprise, elle ne va pas sans l'analyse et le symbolisme qui cherchent à la traduire [...] l'intuiton est d'abord une puissance de négation des thèses insuffisantes, elle passe par toutes les médiations de l'analyse des mixtes, de la critique des dualismes. Rencontrant en chemin des objets de plus en plus "intraduisibles en symboles", elle marque les différences de nature, dégage les articulations du phénomène, prolonge les "lignes de faits" jusqu'en dehors de l'expérience, comme les mathématiciens reconstituent, avec les infinitésimaux prélevés sur la courbe réelle, "la forme de la courbe même qui s'étend dans l'obscurité derrière eux" (*Matière et mémoire*, p. 206). la métaphysique en acte est cette remontée au-delà du tournant de l'expérience, non pas, comme chez Kant, vers les conditions d'une expérience possible, mais vers les lignes virtuelles qui rendent compte de l'expérience effective, dans sa singularité."
+
+Du texte:
+
+"nous dirons, en dépouillant les mots de leur sens psychologique, en appelant Idée une certaine *assurance de facile intelligibilité* et Âme une certaine *inquiétude de vie* qu'un invisible courant porte la philosophie moderne à hausser l'Âme au-dessus de l'Idée."
+
+"Mais cette métaphysique, comme cette science, a déployé autour de sa vie profonde un riche tissu de symboles, oubliant parfois que, si la science a besoin de symboles dans son développement analytique, la principale raison d'être de la métaphysique est une rupture avec les symboles. Ici encore l'entendement a poursuivi son travail de fixation, de division, de reconstruction."
+
+"l'entendement, dont le rôle sera d'opérer sur des éléments stables, peut chercher la stabilité soit dans des *relations*, soit dans des *choses*. En tant qu'il travialle sur des concepts de relations, il aboutit au symbolisme *scientifique*. En tant qu'il opère sur des concepts de choses, il aboutit au symbolisme *métaphysique*."
+
+"Plutôt que de reconnaître tout de suite ce qu'il doit à l'intuition profonde de la réalité [...] les métaphysiciens et les savants [...] on pourrait croire que les premiers ont creusé au-dessous de la réalité un tunnel profond, que les autres ont lancé par-dessus un pontélégant, mais que le fleuve mouvant des choses passe entre ces deux travaux d'art sans les toucher."
+
+"Kant n'a pas de peine à montrer que notre science est toute relative et notre métaphysique toute artificielle. Comme il a exaspéré l'indépendant de l'entendement dans un cas comme dans l'autre, comme il a allégé la métaphysique et la science de l'"intuition intellectuelle" qui les lestait intérieurement, la science ne lui présente plus, avec ses relations, qu'une pellicule de forme, et la métaphysique, avec ses choses, qu'une pellicule de matière."
+
+"Et si la science est tout entière oeuvre d'analyse ou de représentation conceptuelle, si l'expérience n'y doit servir que de vérification à des "idées claires", si, au lieu de partir d'intuitions multiples, diverses, qui s'insèrent dans le mouvement propre de chaque réalité mais ne semboîtent pas toujours les unes dans les autres, elle prétend être une immense mathématique, un système unique de relations qui emprisonne la totalité du réel dans un filet monté d'avance, elle devient une connaissance purement relative à l'entendement humain. Qu'on lise de près la *Critique de la raison pure*, on verra que c'est cette espèce de *athématique universelle* qui est pour Kant la science, et ce *platonisme* à peine remanié qui est pour lui la métaphysique."
+
+"Bref, *toute la* Critique de la raison pure *aboutit à établir que le platonisme, illégitime si les Idées sont des choses, devient légitime si les idées sont des rapports, et que l'idée toute faite, une fois ramenée ainsi du ciel sur la terre, est bien, comme l'avait voulu Platon, le fond commun de la pensée et de la nature. Mais toute la* Critique de la raison pure *repose aussi sur ce postulat que notre pensée est incapable d'autre chose que de platoniser*, c'est-à-dire de couler notre expérience possible dans des moules préexistants."
+
+"Les idées profondes et fécondes sont autant de prises de contact avec des courants de réalité qui ne convergent pas nécessairement sur un même point."
+
+"Mais philosopher consiste précisément à se placer, par un effort d'intuition, à l'intérieur de cette réalité concrète sur laquelle la *Critique* vient prendre du dehors les deux vues opposées, thèse et antithèse."
+
+"Les doctrines qui ont un fond d'intuition échappent à la critique kantienne dans l'exacte mesure où elles sont intuitives ; et ces doctrines sont le tout de la métaphysique, pourvu qu'on ne prenne pas la métaphysique figée et morte dans des *thèses*, mais vivante chez des *philosophes*."
+
+"Mais l'acte simple, qui a mis l'analyse en mouvement et qui se dissimule derrière l'analyse, émaner d'une faculté tout autre que celle d'analyser. Ce sera, par définition même, l'intuition."
+
+"Et il ne s'agit pas simplement de s'assimiler des faits marquants ; il en faut accumuler et fondre ensemble une si énorme masse qu'on soit assuré, dans cette fusion, de neutraliser les unes par les autres toutes les idées préconçues et prématurées que les observateurs ont pu désposer, à leur insu, au fond de leurs observations. Ainsi seulement se dégage la matérialité brute des faits connus."
+
+"**Mais l'intuition métaphysique, quoiqu'on n'y puisse arriver qu'à force de connaissances matérielles, est tout autre chose que le résumé ou la synthèse de ces connaissances. Elle s'en distingue comme l'impulsion motrice se distingue du chemin parcouru par le mobile, comme la tension du ressort se distingue des mouvements visibles du pendule. En ce sens, la métaphysique n'a rien de commun avec une généralisation de l'expérience, et néanmoins elle pourrait se définir l'** ***expérience intégrale***."
+
 
 ### <a href="https://fr.wikipedia.org/wiki/William_James">James</a>, *Le Pragmatisme*, trad. E. Le Brun, Flammarion, 1968, p. 47-49 et 51-53
 
-Le *distinguo* de l'homme tourant autour de l'écurecil caché par un tronc: tourne-t-il vraiment autour de l'écureil, si celui-ci tourne autour du tronc en même temps ? Répondant scolastiquement pour résoudre le dilemme par deux réponses possibles mais exclusives: selon le référentiel absolu des points cardinaux, il tourne auotur de l'écureil; mais relativement à l'écureil, celui-ci fait toujours face au protagoniste, donc il ne lui tourne pas autour. Ces deux réponses sont vraies et fausses.
+Le *distinguo* de l'homme tourant autour de l'écurecil caché par un tronc: tourne-t-il vraiment autour de l'écureil, si celui-ci tourne autour du tronc en même temps ? Répondant scolastiquement pour résoudre le dilemme par deux réponses possibles mais exclusives: selon le référentiel absolu des points cardinaux, il tourne autour de l'écureil; mais relativement à l'écureil, celui-ci fait toujours face au protagoniste, donc il ne lui tourne pas autour. Ces deux réponses sont vraies et fausses.
 
 La méthode pragmatique est alors introduite: il faut décider des controverses métaphysiques en fonction des conséquences pratiques (conséquences en termes de théorie, de croyance et d'action) que les hypothèses confrontées permettent de définir. Une hypothèse sans but pratique doit être disqualifiée pour résoudre une controverse métaphysique. Par exemple: le choix du matérialisme ou du théisme est équivoque, si l'on ne considère pas ce que l'on peut espérer demain (il est par exemple équivoque pour savoir si l'on tourne autour de l'écureil). Les conséquences d'un choix métaphysique doivent être explorées pratiquement: d'ailleurs elles motivent des programmes de recherche, et pourraient ainsi mener la métaphysique à travailler main dans la main avec la science.
 
 Il faut remarquer là un impressionnant retournement de la tradition de la métaphysique, qui s'opère à partir du XIXème siècle à tout le moins: la métaphysique n'est plus la "reine de toutes les sciences" mais bien plutôt son amie potentielle, voire une ennemie à retourner. Elle est désuète et comme morte, il faut la raviver et pour se faire, il faut la transformer et la remonter aux normes de la science. La science est supérieure à la métaphysique d'un point de vue méthodologique.
 
 Citations:
+
+"Il s'agit de se demander, à propos de tout énoncé, de toute question et de tout problème, quelles cosnéquences découlent des points de vue retenus, et comment les choses fonctionnent et sn'enchaînenet à partir de là."
+
+"James reprend la maxime de Peirce, formulée dès 1878, selon laquelle on ne trouve la signification complète d'un concept que si l'on considère la somme des "effets pratiques" de son objet."
+
+" "Pratique" ne désigne pas ici un domaine qui s'opposerait au "théorique", mais plutôt un point de vue spécial sur la théorie aussi bien que sur la pratique, point de vue qui consiste à considérer tout chose *telle qu'elle se fait, en tant qu'elle se fait*."
+
+"L'important n'est pas que ce soit *vrai*, selon des critères de cohérence et de rationalité extérieurs aux montages et aux dispositifs de concepts, ni que ce soit utile, selon les normes techniques de l'homme d'action, mais *que cela fonctionne*, que le sens circule, c'est-à-dire que les idées s'enchaînent avec les autres, bifurquent et fassent réseau, et forcent ainsi à penser, à agir."
+
+"*pour quoi faire ?*" Ce qu'il fallait demander.
+
+Citant James: " "Indifférent lorsqu'on les comparait à un point de vue rétrospectif, le choix devient inévitable dès que, les considérant par rapport à l'avenir, nous les voyons offrir pour l'expérience des perspectives toutes différentes." (p. 83)"
+
+Du texte:
+
+Le fameux exemple de l'écureil: "Il y a quelques années, j'étais allé avec plusieurs personnes camper dans les montagnes. De retour d'une excursion que j'avais faite seul, un jour, je tombai au milieu d'une discussion métaphysique. Il s'agissait d'un agile écureil que l'on supposait cramponné, d'un côté, au tronc d'un arbre, tandis qu'un homme se tenait de l'autre côté, en face, et cherchait à l'apercevoir. Pour y arriver, notre spectateur humain se déplace rapidement autour de l'arbre ; mais, quelle que soit sa vitesse, l'écureil se déplace encore plus vite dans la direction opposée: toujours il maintient l'arbre entre l'homme et lui, si bien que l'homme ne réussit pas une seule fois à l'entrevoir.
+
+De là ce problème de métaphysique: *L'homme tourne-t-il autour de l'écureil, oui ou non ?* [...] les deux camps firent appel à mon intervention pour les départager [...] Moi, je me souvins de l'adage scolastique qui veut qu'en présence d'une contradiction on fasse un *distinguo*." Le distingue montre en quoi chaque proposition est vraie, mais ne permet pas de trancher.
+
+"La méthode pramgatique est avant tout une méthode permettant de résoudre des controverses métaphysiques qui pourraient autrement rester interminables. [...] la méthode pragmatique consiste à entreprendre d'interpréter chaque conception d'après ses conséquences pratiques."
+
+"Pour qu'une controverse soit sérieuse, il faut pouvoir montrer quelle conséquence pratique est nécessairement attachée à ce fait que telle possibilité est seule vraie."
+
+"Toute la fonction de la philosophie devrait être de découvrir ce qu'il y aura de différent pour vous et pour moi, à tels moments précis de notre vie, selon que telle formulede l'univers, ou telle autre, sera vraie !"
+
+"Le pragmatisme [...] se détourne de l'abstraction ; de tout ce qui rend la pensée inadéquate - solutions toutes verbales, mauvaises raisons *a priori*, systèmes clos et fermés ; - de tout ce qui est un soi-disant absolu ou une prétendue origine, pour se tourner vers la penséeconcrète et adéquate, vers les faits, vers l'action effiace."
+
+"Il se ferait entre la science et la métaphysique un rapprochement très appréciable: en fait, on les verrait même travailler main dans la main, absolument."
+
+"Il faut que vous dégagiez de chaque mot la valeur qu'il peut avoir en argent comptant: il faut lui faire remplir son office dans le champ même de votre expérience. Plutôt qu'une solution, on y voit alors un programme pour un nouveau travail à entreprendre ; et, plus spécialement, on y voit une indication sur les différentes manières dont il est possible de *modifier* les réalités existantes."
+
+"Avec le pragmatisme, donc, *une théorie devient un instrument de recherche, au lieu d'être la réponse à une énigme et la cessation de toute recherche.* Elle nous sert, non pas à nous reposer, mais à nous porter en avant, et nous permet, à l'occasion, de refaire le monde." Refaire le monde grâce au pragmatisme.
 
 ### Merleau-Ponty, "La métaphysique dans l'homme", in *Sens et non-sens*, rééd. Gallimard, 1996, p. 102 et 113-119
 
@@ -521,7 +740,55 @@ La métaphysique est un étonnement épistémologique à un premier degré, et �
 Mais: systématiser (en concepts fixes) c'est supprimer la métaphysique. 
 En un sens quasi bergsonien, la métaphysique se fait dans le mouvement des idées, elle ne cesse pas et ne se fixe pas, elle se trouve dans le fait même de la vie quotidienne, elle naît de tout bon étonnement philosophique.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"En deçà des définitions "scolastiques" que produisent les philosophes, les sciences de l'homme portent en elles toute une métpahysique sauvage - une métaphysique en acte. Ainsi "la psychologie de la forme bouleverse ce qu'on pourrait appeler l'ontologie implicite de la sciencei" (*Sens et non-sens*, p. 146). En cherchant à comrpendre les conduites animales selon leur loi d'organisation interne plutôit qu'en combinant une fois de plus des processus simples et universels (le schéma linéaire stimuls-réponse, appuyé sur l'ontologie traditionnelle), en produisant l'opposition stérile de la méthode introspective et de la méthode objective, elle ouvre sur un sens philosophique que le scientisme étouffe nécessairement: " En révélant la "structure" ou la "forme" comme un ingrédient irréductible de l'être, elle remet en question l'alternative classique de l'éexistence comme chose" et de l'"existence comme cosncience", elle établit une communication et un mélange de l'objectif et du subjectif" (p. 150-151" La "psychologie de la forme" est l'un des noms traduits du <a href="https://en.wikipedia.org/wiki/Gestalt_psychology">gestaltisme</a>, un courant de psychologie qui a eu une influence majeure en phénoménologie et qui est largement repris dans *Phénoménologie de la perception* (1945) qui précède *Sens et non-sens* (1948).
+
+"Dans tous ces exemples, les concepts de forme ou de structure (*Gestalt*), mais aussi de point de vue, d'attitude, de perspective, semblent indissociables d'une pensée où l'être et la cosncience, l'objet et le sujet, le tout et les parties entrent dans des rapports nouveaux."
+
+"mettre à jour une "dimension de l'être" qui nous est habituellement cachée. Il y a métaphysique dès qu'une pensée nous force à quitter l'attitude naturelle où nous sommes le plus souvent, celle de la "foi perceptive" où l'ouverture de la conscience au monde semble aller de soi, celle de l'illusion d'une pensée de "survol" qui étalerait le monde devant elle sous le régime de visibilité de l'ob-jet."
+
+"On distinguera alors deux sens, inséparables, de métaphysique:
+
+(1) La métaphysique comme construciton philosophique, à laquelle il revient de déployer toutes les coordonnées d'une dimension de l'être et de produire des concepts à sa mesure. Merleau-Ponty veut une ontologie qui prenne "pour modèle de l'être l'espace topologique", "milieu où se circonscrivent des rapports de voisinage, d'enveloppement, etc." (*Le Visible et l'Invisible*, Gallimard, 1979, p. 264); il met en oeuvre des concepts de "chiasme", d'"entrelacs", de "chair", de "dimensionnalité", etc.
+
+(2) La "cosncience métaphysique" supposée par l'élaboration conceptuelle, et qui dans son premier moment n'est que l'éveil au caractère radicalement perspectif de l'être. C'est le pur étonnement face au miracle de l'apparition des choses. Ramenée au premier affect philosophique, la métaphysique n'a "pas d'autres objets que l'expérience quotidienne", mais à condition d'y voir ce qui transcende toute prise "objective"."
+
+Du texte:
+
+"La métaphysique, réduite par le kantisme [...] Dans les sciences même elle réapparaît, non pas pour en limiter le champ ou pour leur opposer des barrières, mais comme l'inventaire délibéré d'un type d'être que le scientisme ignorait et que les sciences ont peu à peu appris à reconnaître. C'est cette métaphysique en acte que nous nous proposons de circonscrire au mieux, et d'abord de faire apparaître à l'horizon des sciences de l'homme."
+
+"Les sciences de l'homme, dans leur orientation présente, sont métaphysiques ou transnaturelles en ce sens qu'elles nous font redécouvrir, avec la structure et la compréhension des structures, une dimension de l'être et un type de connaissance que l'homme oublie dans l'attitude qui lui est naturelle."
+
+"Il nous est naturel de croire en présence d'un monde et d'un temps que notre pensée survole et dont elle peut considérer chaque partie sans en modifier la nature objective. La science dans ses commencements reprend et systématise cette croyance [...] un géométral de toutes les perspectives." Un géométral de toutes les perspectives: superbe formulation.
+
+"Mais les sciences de l'homme ont fait voir que toute connaissance de l'homme par l'homme est inévitablement [...] reprise par chacun, selon ce qu'il *eput*, des actes d'autrui, réactivation à partir des signes ambigus d'une expérience qui n'est pas la sienne, appropriation par lui d'une structure - *a priori* de l'espèce ,schème sublinguistique ou esprit d'une civilisation-, dont il ne forme pas un concept distinct"
+
+"Il n'y a plus ici position d'un objet, mais communicaiton avec une manière d'être."
+
+"C'est en avant de nous, dans la chose où nous plaçons notre perception, dans le dialogue où notre expérience d'autrui nous jette par un mouvement dont nous ne connaissons pas tous les ressorts, que se trouve le germe d'universalité ou la "lumière naturelle" sans lesquels il n'y aurait pas de connaissance."
+
+"Il y a métaphysique à partir du moment où, cessant de vivre dans l'évidence de l'objet - qu'il s'agisse de l'objet sensoriel ou de l'objet de science -, nous apercevons indossolublement la subjectivité radicale de toute notre expérience et sa valeur de vérité."
+
+"Le fait métaphysique fondamental est ce double sens du *cogito*: je suis sûr qu'il y a de l'être - à condition de ne pas chercher une autre sorte d'être que l'être-pour-moi."
+
+"mon expérience, justement en tant qu'elle est mienne m'ouvre à ce qui n'est pas moi [...] Ma vie m'apparaît absolument individuelle et absolument universelle."
+
+"c'est la cosncience métaphysique, à son premier degré étonnement de découvrir l'affrontement des contraires,à son deuxième degré reconnaissance de leur identité dans la simplicité du *faire*."
+
+"l'histoire de l'humanité [...] c'est la cosncience du lien secret qui fait que Platon est encore vivant parmi nous."
+
+**"La conscience métaphysique et morale meurt au contact de l'absolu parce qu'elle est elle-même, par-delà le monde plat de la cosncience habituée ou endormie, la connexion vivante de moi avec moi et de moi avec autrui. La métaphysique n'est pas une construction de concepts par lesquels nous essaierons de rendre moins sensibles nos paradoxes ; c'est l'expérience que nous en faisons dans toutes les situations de l'histoire personnelle et collective - et des actions qui, les assument, les transforment en raison."**
+
+"La contingence de tout ce qui existe et tout ce qui vaut n'est pas une petite vérité [...] c'est la condition d'une vue métaphysique du monde."
+
+"entre une métaphysique qui refuse par principe le système et une science qui mesure toujours mieux l'écart de ses formules aux faits qu'elles doivent exprimer, il y a, comme l'avait vu Bergson, bien plus qu'un concordat: une convergence spontanée."
+
+"Une science sans philosophie ne saurait pas, à la lettre, de quoi elle parle." La science est humaine, elle a un point de vue humain et métaphysique (au sens de MP).
+
+"Faire de la métaphysique, ce n'est pas entrer dans un mode de connaissance séparé, ni répéter des formules stériles telles que celles dont nous nous servons ici - c'est faire l'expérience pleine des paradoxes qu'elles indiquent, c'est vérifier toujours à nouveau le fonctionnement discordant de l'intersubjectivité humaine"
 
 ### <a href="https://fr.wikipedia.org/wiki/Peter_Frederick_Strawson">Strawson</a>, *Les Individus*, trad. A. Shalom et P. Drong, Seuil, 1973, p. 9-11
 
@@ -535,4 +802,24 @@ C'est un type spécial d'investigation. Par exemple, faire varier les expérienc
 
 La métaphysique définit les présupposés de toute analyse philosophique.
 
-Citations:
+<u>Citations:</u>
+
+De l'introduction par É. During:
+
+"La tâche du métaphysicien, explique-t-il, "consiste à expliquer quels sont les concepts et les catégories les plus généraux que nous emplyons en organisant notre expérience et notre pensée ; et [...] aussi ) expliquer quels sont les rapports que ces concepts ont entre eux, les rôles respectifs qu'ils jouent dans la structure totale de notre pensée" (*Analyse et métaphysique*, p. 48)"
+
+"Les variations sur l'expérience possible permettent de dégager les invariants, les traits structuraux qui résistent et "dont nous ne saurions imaginer être privés sans la destruction totale de toute conception de l'expérience" (*ibid*., p. 38). [...] On touche alors à une structure conceptuelle nécessaire ou "minimale" qui est l'objet propre de la métaphysique descriptive."
+
+"la métaphysique passe à un niveau supérieur en dévoilant les présupposés de toute analyse, à savoir les catégories fondamentales (individu, corps, personne, perception, espace, temps) et leurs relations aux notions formelles de sujet et prédicat, d'unité, d'identité et d'existence."
+
+"Il s'agit en effet de la défendre sur plusieurs fronts: d'une part contre les partisans de la métaphysique "révisionniste", qui entendent construire ou reconstruire notre structure conceptuelle plutôt que de dégager sa structure effective, et d'autre part contre tous ceux qui, comme Wittgenstein, ont une conception strictement thérapeutique de l'analyse conceptuelle, et, refusant de mettre à jour un quelconque "noyau dur" du langage, et plus généralement de distinguer entre le "dur" et le "mou" au sein des jeux de langages, se content de faire la cartographie den os concepts et la recension de leurs modes d'opération. Mais dans tous les cas, "observer le foncitonnement de nos concepts reste, de toute nécessité, le seul moyen de savoir ce qu'ils peuvent ou ne peuve pas faire" (colloque de Royaumont sur "La philosophie analytique", 1961)".
+
+Du texte:
+
+"La métaphysique de révision est au service de la métaphysique de description."
+
+"Car il y a un noyau massif de la pensée humaine qui n'a pas d'histoire - ou du moins dont l'histoire n'a laissé aucune trace dans les histoires de la pensée."
+
+"Il s'agit des lieux communs de la pensée moins raffinée."
+
+"Car s'il est vrai que le noyau central dont parle la métaphysique descriptive ne change pas, en revanche le langage critique et analytique de la philosophie change constamment. [...] Aucun philosophe ne comprend ses prédécesseurs avant d'avoir repensé leur pensée dans des termes contemporains qui lui soient propres; et ce qui caractérise les plus grands philosophes, tels que Kant et Aristote, c'set qu'ils nous paient en retour pour l'effort mis à les repenser." Le langage philosophique ne permet pas de juger des invariants, c'est la pensée sous le langage qu'il faut retrouver: réexprimer ce qui est décrit par la métaphysique.

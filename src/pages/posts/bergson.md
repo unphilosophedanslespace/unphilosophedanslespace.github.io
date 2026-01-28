@@ -212,7 +212,7 @@ La fonction remplace l'action et ouvre une marge indéterminée d'action. La soc
 
 Mill: morale utilitariste où l'individu est en conflit avec la société. Kant: morale idnividuelle. Durkheim: être obligé, c'est reconnaître l'instance supérieure qui dépasse les individus (la société dans son ensemble). La morale est en nous mais c'est une erreur de croire qu'elle est *de* nous. Le fondement de la morale est sociologique. La morale est en tension avec nos désirs immodérés; cependant chaque conscience individuelle exprime de son point de vue la normale sociale (il y a donc des écarts par rapport à la convention).
 
-**L'impératif moral kantien est inconditionné: motivé par soi-même, pour soi-même et en pure raison. Mais l'impératif moral bergsonien se présente de manière naturaliste comme la cosncience momentanée d'un obligation. La raison morale est la rationalisation d'une morale qui n'a pas son origine dans la raison.**
+**L'impératif moral kantien est inconditionné: motivé par soi-même, pour soi-même et en pure raison. Mais l'impératif moral bergsonien se présente de manière naturaliste comme la conscience momentanée d'une obligation. La raison morale est la rationalisation d'une morale qui n'a pas son origine dans la raison.**
 
 L'intelligence justifie l'élan vital mais elle va à l'encontre du devoir. Dans la rationalité du devoir, il y a quelque chose de plus que la raison, sinon nous n'aurions pas de morale rationnelle. 
 

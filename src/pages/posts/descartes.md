@@ -6,7 +6,7 @@ author: 'Benjamin'
 tags: ["philo","philosophie moderne"]
 ---
 
-# Fiche de note: Descartes
+# Fiche de note: cours sur René Descartes
 
 L'individu prend une place prépondérante sur Dieu, dont l'omniscience est questionnée à la Renaissance. L'on commence à penser philosophiquement dans la fin de l'individu (Descartes, Montaigne...): la morale est prise du point de vue de l'action: on cherche une éthique, ce qui est très différent de la scolastique. Définitions: la morale est l'ensemble des prescriptions admises dans une époque et une culture déterminée; l'éthique est la science des jugements du bien et du mal. L'éthique est pratique mais remet aussi en question le pouvoir divin de justice: elle tend à laïciser.
 
@@ -73,4 +73,196 @@ Notre corps est motivé par l'âme: notre corps est un principe actif recevant. 
 
 L'âme n'est pas elle-même principe de vie (car les animaux vivent mais ne pensent pas: ils n'ont pas d'âme), mais de son siège corporel, la glande pinéale,  elle transmet les esprits animaux au corps; parallèlelement comme une éponge, elle absorbe les informations du corps. Descartes incarne l'âme dans le corps par la glande pinéale, mais ne peut admettre qu'elle soit purement corporelle, sinon elle ne serait pas immortelle.
 
-La garantie divine permet d'appliquer justement les règles du *Discours de la méthode*: 
+La garantie divine permet d'appliquer justement les règles du *Discours de la méthode*:
+1) L'intuition: ne prendre pour certaines que des idées claires et distinctes (ne pa hâter le jugement, éliminier le douter, éviter l'erreur);
+2) diviser chacune difficulté d'un problème en parcelles: pour tirer des idées claires;
+3) procéder du simple au composé en supposant même del 'ordre là où il n'y en avait pas précédemment (mouvement de ma pensée et mémoire: pas une intuition, mais une sérialisation des intuitions: ce qu'on pourrait appeler un mouvement naturel ou une tendance naturelle à l'ordonnement);
+4) dénombrer ou énumérer les étapes après chaque analyse;
+
+Donc 1) intuition, 2) analyse, 3) déduction, 4) induction.
+
+Première méditation: cogito autarcique (sa vérité se confirme par la pensée même) et preuve de l'existence divine par l'idée de perfection. Ainsi l'évidence est une vérité autarcique, opposée en ce sens à la conjecture. D'autre part, l'intuition est un acte de pensée pure (pas de perception sensible impliquée, elle est infaillible (car n'implique qu'elle-même: pas de jugement) et elle s'applique au simple). On la trouve aussi en mathématiques.
+
+Règles 2 et 3: décomposition (inconnu vers connaissable) et recomposition (chaîne causale organisée; principe de non-contradiction). Le premier élément d'un déduction ne peut pas être précédé: il doit être simple. Les idées qui suivent sont dites relatives (à cet élément simple).
+
+Il faut s'exercer pour savoir déduire: prendre une habitude de pensée. Descartes donne une certain attention à la pratique de la pensée, en même temps qu'il ambitionne une méthode universelle: accessible à tout un chacun.
+
+S'il n'y a pas d'ordre naturel (science; physique; mathématiques) alors il faut créer un ordre imaginaire pour les problèmes artificiels.
+
+L'induction est le garde-fou de la volonté qui peut excéder les capacités de l'intelligence durant le raisonnement.
+
+Dans la *Correspondance*: la première lettre d'Elisabeth à Descartes (16 mai 1645): entame la question de l'âme et du corps: si elel est inextensive et immatérielle, comment l'âme peut-elle transmettre au corps laforce de la volonté ? (à ce stade, Elisabeth avait probablement lu les *Méditations* et le *Discours de la méthode*).
+
+### La première méditation
+
+Descartes attend la maturité (l'âme mûre d'une vie réfléchie) pour écrire ses *Méditations*. Son projet: construire la science sur le fondement stable d'une connaissance véritable et indubitable.
+
+Les sens sont insuffisants pour une vérité première, bien qu'on ne puisse raisonnablement en douter dans la vie pratique. Mais le problème est métaphysique, donc on peut en nier l'utilité épistémique.
+
+Le rêve ne peut être distingué de la réalité, mais Descartes tient un argument fort pour nullifier ce soucis: les données de l'imaginations (représentation d'images déjà perçues) et des sens y seraient aussi fortes que dans la réalité, donc ce n'est pas réellement détrimentaire à la recherche d'une vérité indubitable.
+
+Voir p. 59 - 61, *Méditations métaphysiques*, GF, 2011.
+
+La pensée précède et permet le rêve: c'est une vérité sûre (pas une sorte d'homologie ontologique).
+
+La mise en relation de natures simples fait l'objet des sciences. Le naturellement simple est intellectuellement indivisible mais n'est pas nécessairement isolée dans son existence: la figure n'existe pas indépendamment de la nature corporelle ou de l'extension.
+
+Natures simples des *Règles pour la direction de l'esprit*: purement intellectuelles; purement matérielles; commune aux deux ordres.
+
+Natures simples:
+
+- Spirituelles: connaissance, doute, ignorance, volition (le vouloir)
+- Corporelles: figure (forme, géométrie), étendue, mouvement
+- Communes aux deux ordres: existence, (être une) unité, durée
+
+Notions simples des *Principes de la philosophie*: substances intellectuelles; substances corporelles; substance entre l'âme et le corps.
+
+Notions simples:
+
+- Substances intellectuelles: connaître, vouloir.
+- Substances corporelles: grandeur, étendue, figure, mouvement, situation, disposition
+- Substances entre âme et corps: appétits de boire, de manger, émotions, passions, sentiments (sens)
+
+Notions primitives: âme, corps, âme et corps.
+
+Notions primitives:
+
+- Âme: pensée, perception de l'entendement, inclination de la volonté
+- Corps: extension (= étendue), figure, mouvement
+- Âme et corps ensemble: union, force (force de l'âme sur le corps, du corps sur l'âme).
+
+Les natures simples sont connaissables par l'homme; par deux sortes de disciplines: les composées (physique, astronomie et médecine) et simples (arithmétique et géométrie). On se trompe moins dans les disciplines simples, les composées sont davantages dubitables.
+
+Dans le première méditation, Dieu peut me tromper, on m'a fait tel que je puisse me tromper: je ne peux donc assurer l'existence de Dieu. Une conclusion: se défaire de ses habitudes de pensée est une lourde tâche qui nécessite du loisir. Dans la vie quotidienne, cela ne pourrait être fait.
+
+L'âme peut être connue par intuition, mais le corps nécessite davantage d'opérations, dont certaines sont faillibles (les sens). Problème de l'union de l'âme et du corps: si l'âme paraît extérieure au corps, c'est parce qu'elel a été connue dans sa forme unie, mais par la pensée pure, elle lui davantage liée ou interne.
+
+Si le corps doit être mû directement par de l'étendue et que l'âme est inétendue, alors comment l'âme agit-elle sur le corps, d'autant plus qu'en-dehors de la méditation durant laquelle ils sont distincts, ils paraissent unis ? (question qu'Elisabeth pose à Descartes).
+
+Lettre du 28 juin 1645 (trouver extrait): Descartes arrive à un point aporétique sur la question de l'union. Il y a trois notions primitives, or: l'âme est conue par l'entendement pur, le corps par l'entendement et l'imagination et l'union par les sens: mais alors on sors du domaine de la métaphysique et l'union ne peut être trouvée par l'exercice de la méditation. Il faut l'expérience de la vie courante. L'union de l'âme et cu corps est une limite de la métaphysique !
+
+Enfin le malin génie: il est moins puissant que Dieu, mais retire les sens, l'imagination, les opinions, les préjugés et les représentations: je ne peux savoir si les objets représentés existent. 
+
+Descartes produit un doute hyperbolique qui ne met cependant pas en doute la faculté de penser (une autre limite de sa méthode de métaphysique).
+
+Le contenu du rêve n'est pas le présent (méditation V ou VI ?).
+
+Après le problème du rêve: le Dieu trompeur? Mais me trompant, je ne peux recevoir l'opinion de l'existence de Dieu. Un ête inférieur m'a donc créé: le malin génie. Je n'ai pu m'autocréer, sinon je serais parfait (je ne me serais pas créé imparfait.
+
+### Seconde méditation:
+
+Le malin gnéie: mais je ne peux douter que je pense, même si je peux douter du contenu des idées de mes pensées. Le *cogito* est la première vérité de Descartes (mais pas la première dans l'ordre de la connaissance, qui est Dieu).
+
+Il pourrait presque conclure sa première vérité comme étant celle de son *inexistence* (le fait que je n'existe pas étant évident, c'est ma première certitude pour fonder la science). Mais en fait, le "je pense" n'est pas encore un "je suis": c'est simplement la vérité de son existence. Pour penser, il doit exister; mais on ne peut passer facilement de l'un (je pense) à l'autre (j'existe). Dans le *Discours de la méthode*, l'on trouve: *cogito, ergo sum* mais conclure à l'*ergo* c'est sauter les étapes de la pensée: il faut bien établir la logique de l'existence à la pensée. C'est à cela que va servir Dieu. Dans les *Méditations*, Descartes est donc plus rigoureux. D'où l'expression: je suis, j'existe, qui remplace *ergo* par une virgule, évitant ainsi de proposer une implication hâtive de l'existence au fait de penser. Voir p. 73 (*Méditations métaphysiques*, GF, 2011).
+
+L'existence et la vérité sont des intuitions (elles existent d'elles-mêmes).
+
+Dans la scolastique, l'*anima* et le corps sont opposés, ce qui transparaît dfans l'oeuvre de Descartes: *Traité de l'homme* (explication mécaniste du corps); *Méditations métaphysiques*; *Traité des passions*: union de l'âme et du corps. Mais dans la seconde méditation, Descartes distingue entre *anima* et *mens* (p. 75). Puis par *Les principes de la philosophie*, il redéfinit les termes de la scolastique pour les dépasser dans le but de fonder une véritable science. L'un des buts de Descartes, n'est donc pas seulement de proposer un programme scientifique, mais bien de réformer le vocabulaire et les règles de la science dont il a hérité.
+
+L'âme des scolastiques est opposée au corps: elle est principe des fonctions biologiques, sensorimotrices et cognitives. Descartes abandonne ce terme: les animaux vivent, mais ne pensent pas. Il transpose les fonctions vitales (en partie: car demeure le problème de la force de la volonté que fait remarquer Elisabeth) au corps seul et prend le terme de *mens*.
+
+Trois notions primitives: âme - entendement; corps - imagination + entendement (figure, extension, mouvement); union - sensation (dont les passions). Ce sont des intuitions à partir desquelles sont composées les connaissances.
+
+La glande pinéale: article 32 du *Traité des passions...*: c'est le siège de l'âme, lieu d'une double information sensorielle qui est unie en perception par l'esprit (les sens se transmettent par le choc de la lumière et du mouvement, mais ne donnent pas encore d'image formée), les pensées ne s'y forment pas: elles ont un impact sur la glande depuis l'âme, telle une éponge; elle est pensée par analogie avec l'humeur vitrée de l'oeil:
+
+![Schéma de l'humeur vitrée](../../../src/humeurvitree.png)
+
+L'âme possède les facultés de sensation et d'imagination, mais deux choses: 1) l'âme étant en perpétuelle perception de quelque sensation, elle est perturbée, donc ces sensations ne sont pas fiables; 2) l'imagination permet de contempler l'image et la figure d'une chose corporelle, elle ne sert que de façon rétrospective et ne peut donc pas permettre de connaître l'âme.
+
+Le morceau de cire (pp. 83 - 87):  il y a trois facultés de connaissance des corps: la sensation, l'imagination et l'entendement. Or seul l'entendement peut les connaître véritablement. Contre le sens commun: les qualités sensibles ne permettent pas de mieux connaître les corps. La cire change en fondant. Ni les sensation ni l'imagination ne peuvent rendre compte des possibilités de changement de la cire: il ne reste qu'une substance matérielle, étendue, une figure flexible et muable. *On ne peut imaginer un chiliogone, mais on peut le concevoir*. L'imagination ne peut fixer son attention que sur un nombre limité de figures. Sous les attributs accidentels de la cire, seul l'entendement peut trouver sa quiddité. Donc dans la seconde méditation: l'entendenement connaît mieux les corps que les sens et l'imagination; l'âme se connaît plus facilement elle-même que les corps (alors que le sens commun estime connaître plus facilement par les sens que par la raison).
+
+Les esprits animaux, par les nerfs, opèrent le va-et-vient de la glande pinéale aux sens. Le mouvement transmis par les sens change la forme de la glande: il l'impacte réellement. Le jugement moral sur le senti est ajouté par la glande. Ces traces sur la glande permettent le souvenir. Lorsqu'elle est utilisée dans le domaine approprié, la connaissance sensible permet de construire un savoir. En elle-même, elle est neutre: donc fiable.
+
+L'union âme-corps prend une plus grande ampleur de problème à partit de 1643, sur l'incitation de la correspondance entre Descartes et Elisabeth: v. par exemple la lettre du 26 juin 1643. L'union connue par expérience, ne sert pas à la métaphysique. La question de l'union apparaît dans la méditation VI.
+
+## Méditation VI
+
+L'union est une idée claire mais non distincte: une intuition et un mélange de sens.
+
+Première réponse à la quatrième objection: l'âme est unie *substantiellement* au corps. L'union n'est pas une substance mais elle est substantielle. L'union se comprend à travers ses substance mais n'est pas une troisième substance: c'est une idée innée que Dieu a mis en nous. l'union c'est se sentir être humain: en quelque sorte, se percevoir intuitivement dans sa forme unie. C'est se sentir exister en tant qu'un.
+
+L'union est une limite de la métaphysique: elle est hors de son domaine. L'union se pense par elle-même, mais reste confuse. Descartes demande à Élisabeth de retourner à l'étonnement primaire de vivre: qu'il appelle aussi admiration.
+
+*Traité des passions*, ch. 3: le souverain bien: l'individu généreux agit moralement bien grâce à la connaissance de la ratinalité; il sait s'estimer et transpose son estime à autrui: il lui confère la disposition de ses propres pensées, c'est-à-dire le libre-arbitre. Il est heureux du fait de chercher à connaître.
+
+Article 152: faire bon usgae du libre-arbitre c'est raisonner sa volonté pour ne pas se tromper. Ainsi l'agumentation de nos connaissances est morale (v. Méditation VI) et correspond à la foi que Dieu a mis en nous en nous attribuant ces facultés.
+
+Article 153: s'estimer (donc ne pas s'ignorer et bien se connaître) est essentiel pour être généreux.
+
+Il y a six passions: amour et haine; joie et tristesse; admiration et colère. L'estime et le mépris découlent de l'admiration, qui est la subite surprise de l'âme qui fait qu'elle se porte à considérer avec attention les objets qui lui semblent rares et extraordinaires. L'admiration a pour objet la connaissance des objets. Mais l'estime (grandeur) et le mépris (petitesse) ajoutent une valeur aux objets par le jugement: ce qui n'est pas purement intellectuel, au contraire de la simple admiration: l'on surajoute une opinion (bien ou mal) et une affection (favorable ou défavorable).
+
+Article 156: la générosité a la même définition que dans les *Méditations métaphysiques*, que la seconde maxime par provision et que dans l'article 32 des *Principes de la philosophie* et se retrouve également dans ses lettres. Elle correspond au mérite de bien user de sa volonté. La définition de la générosité et du libre-arbitre est quasi-identique car l'on ne peut s'estimer que par l'usage que l'on fait volontairement de nos pensées.
+
+Le libre-arbitre et la générosité sont dans une relation circulaire: être généreux c'est faire bon usage de son libre-arbitre, faire bon usage de son libre-arbitre c'est être généreux.
+
+L'estime, en produisant un effet sur le corps par une activité de jugement, permet de contrôler les passions. En s'estimant soi-même, l'on devient aussi à même de juger de l'emploi d'autrui de son libre-arbitre. On ne peut s'estimer que sur ce qui dépend de nous, ce qui permet d'excuser l'autre.
+
+Preuves de l'existende de Dieu dans les *Méditations*: Descartes ne peut être certain de la vérité de son corps. Il analyse alors les éléments de l'idée de Dieu, pour voir s'ils lui appartiennent (pp. 119-121). 
+
+Première preuve de l'existence de Dieu: l'idée innée de l'infini (preuve *a priori*).
+
+Nous sommes à l'image de Dieu: défini par la privation de l'infini de Dieu (nous sommes finis). Notre volonté est indéfinie, ce qui est différent. Descartes reprend un argument scolastique: "l'idée de Dieu est telle que rien de plus grand ne peut être pensé" (Saint-Anselme). L'infini n'est pas compréhensible: c'est une idée innée, claire et distincte mais c'est incompréhensible (on ne pourrait la parcourir, en mesurer l'ampleur).
+
+Cinquième méditation: si Dieu nous conçoit, l'on existe (car l'on aurait pu ne pas exister). Volonté et entendement sont indistincts (identiques) chez Dieu.
+
+Troisième méditation: les preuves de l'infini et de la perfection justifient l'existence de Dieu et donc le fondement de la science.
+
+*A posteriori*: l'idée d'infini nécessite une cause avec au moins autant de réalité (Dieu).
+
+Seconde réponse (p. 291-2): Descartes inverse l'ordre de cette preuve. On ne peut être cause de ce qu'il y a de plus parfait. De surcroît, j'existe, donc Dieu existe, mais je ne me conserve pas: c'est lui qui me conserve. Descartes tourne en rond. C'est une preuve par les effets, par principe de causalité.
+
+L'existence de Dieu est une évidence mais donner une preuve de l'évidence obscurcit son intuition.
+
+Puisque Dieu est tout, augmenter notre connaissance, c'est augmenter notre connaissance de Dieu. Mais l'incompréhensibilité de Dieu est l'idée la plus claire et distincte.
+
+Par l'homme généreux, Descartes laïcise la morale: il le pense en autonomie par rapport au dogme de la religion (l'homme simplement honnête, qui ne connais pas, n'évite donc pas le "péché" de l'ignorance). 
+
+Lettre à Elisabeth du 18 août 1645; comparaison avec Sénèque, Épicure, Zénon et Aristote. La connaissance de Dieu permet aussi le souverain bien car: elle permet d'accepter sa place dans l'(ordre des choses (devenir universel). Mais au contraire de l'harmonie naturelle de Sénèque, Dieu étant infini, son harmonie est insaisissable et il est donc mieux de limiter sa volonté de savoir et de se plier à la volonté divine, ce qui offre l'accès à la béatitude (= souverain bien).
+
+Double statut du libre-arbitre: dépendant de Dieu mais libre par la puissance de décision de l'homme. Ferme volotné de diriger son action en vue du souverain bien: c'est limiter la raison par la volonté. Un usage moral du libre-arbitre n'est donc pas absolument libre.
+
+## Méditation III
+
+Les idées: toutes les pensées possibles. Il y a trois inégalies des idées:
+
+1) claire et confuse (ex: l'union);
+
+2) une idée claire et formelle (ex: l'idée de Dieu). 
+
+3) non claire et confuse.i
+
+Mais il ne faut pas se hâter: une idée n'est d'abord véritable qu'en tant que contenu de proposition formelle, c'est-à-dire sans aucun lien à la réalité. Apprécier le vrai et le faux est un jugement qui engage l'entendement et la volonté. La perception intellectuelle est d'abord mise en jeu, si l'idée est claire, elle est vraie, mais si elle est confuse, je ne peux pas me hâter et je dois diviser les étapes de la preuve.
+
+Du fait de la clarté des idées dont elles sont composées, les mathématiques n'ont pas besoin de lien à la réalité extérieure.
+
+À ce stade je ne suis qu'une chose pensante qui a des idées. Mais que faire du malin génie, que j'ai pu penser ? Il faut passer en revue ses idées et y trouver celle de Dieu, qui apporte la stabilité.
+
+Les idées sont des images des choses - elels se distinguent des passions, affections et jugements. Cependant elles sont réuniens avec les passions et affections dans la catégorie des objets sans erreur: ce n'est que le jugement qui est susceptible de fausseté. l'erreur se trouve dans le rattachement à la réalité extérieure.
+
+Trois modes de réceptions des idées (p. 103-107):
+
+1) factices (libre fantaisie, sans lien à la réalité),
+
+2) adventices : survenues de nos choix, représentées par les sens,
+
+3) innées, qu'on ne peut ni perdre ni augmenter.
+
+La vérité (le concept même de vérité) serait une idée innée.
+
+Toutes les idées ont le même degré de formalité, mais pas le même degré d'objectivité (seconde réponse, p. 286):
+
+![Schéma des degrés d'objectivité](../../../src/degresdescartestrans.png)
+
+**Dieu est garant du monde extérieur du fait de sa perfection. Il y a un cercle car il aurait pu être une idée factice.**
+
+Sur la béatitude:
+
+À Élisabeth le 4 août 1645: l'heur (la bonne chance: honneur et richesse) ne dépend pas de nous mais nous avons le libre-arbitre de l'emploi de notre raison. En agissant vertueusement dans les limites de la rationalité, une béatitude, un contentement en notre pouvoir naturel, peut être trouvé.
+
+Les maximes de la morale provisoire:
+
+1) Se servir de son mieux de son esprit,
+2) Avoir la ferme et constante résolution d'exécuter ce que notre raison conseillera (même si l'on se trompe par après: il y a plus de valeur à se tromper avec une ferme résolution),
+3) Ne pas désirer ce qu iest hors de notre pouvoir (ex: l'heur).
+
+Voir aussi: lettres du 1er février 1647; 20 décembre 1647.

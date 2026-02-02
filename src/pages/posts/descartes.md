@@ -16,9 +16,11 @@ L'influence d'Épictète et des stoïciens: nous ne sommes responsables que de c
 
 Descartes s'inspire de Sénèque: une vie réglée en accord avec la nature qui est réglée: en vue de l'action morale: ce qui permet de trouver la vertu. Mais contrairement aux Anciens, Descartes met l'accent sur la subjectivité, sur l'individu(el). Deux morales: la morale idéale et la morale par provision (morale de la vie quotidienne et pratique). Il propose une critique du stoïcisme: il est rigide (oublie les passions) et met une emphase sur un détachement du sensible (alors que l'humain est sensible: il y a toujours une relation de l'âme et du corps). On ne peut être purement rationnel. La morale doit être accessible à tout un chacun (universelle pragmatiquement).
 
-Sa morale idéale est décrite dans la lettre à Élisabeth du 4 août 1645 (v. [Correspondance](https://fr.wikipedia.org/wiki/Correspondance_avec_%C3%89lisabeth)).
+Descartes compare Épicure, Sénèque et Aristote. Sa morale idéale est décrite dans la lettre à Élisabeth du 18 août 1645 (v. [Correspondance](https://fr.wikipedia.org/wiki/Correspondance_avec_%C3%89lisabeth)), qui suit celle du 4 août.
 
-"la béatitude consiste, ce me semble, en parfaitement contentement d'esprit et une satisfaction intérieure, que n'ont pas ordinairement ceux qui sont le plus favoriés de la fortune, et que les sages acquièrent sans elle. Ainsi *vivere beate*, vivre en béatitude, ce n'est autre chose qu'avoir l'esprit parfaitement content et satisfait"
+4 août 1645:
+
+"la béatitude consiste, ce me semble, en parfaitement contentement d'esprit et une satisfaction intérieure, que n'ont pas ordinairement ceux qui sont le plus favoriés de la fortune, et que les sages acquièrent sans elle. Ainsi *vivere beate*, vivre en béatitude, ce n'est autre chose qu'avoir l'esprit parfaitement content et satisfait" (4 août 1645)
 
 "Or il me semble qu'un chacun se peut rendre content de soi-même et sans rien attendre d'ailleurs, pourvu seulement qu'il observe trois choses, auxquelles se rapportent les trois règles de morale, que j'ai mises dans le *Discours de la Méthode*.
 
@@ -31,6 +33,10 @@ La troisième, qu'il considère que, pendant qu'il se conduit ainsi, autant qu'i
 "Au reste, toutes sortes de désirs ne sont pas incompatibles avec la béatitude; il n'y a que ceux qui sont accompagnés d'impatience et de tristesse. Il n'est pas nécessaire aussi que notre raison ne se trompe point; il suffit que notre conscience nous témoigne que nous n'avons jamais manqué de résolution et de vertu, pour exécuter toutes les choses que nous avons jugé être les meilleurs, et ainsi la vertu seule est suffisante pour nous rendre contents en cette vie."
 
 "lorsqu'elle n'est pas éclairée par l'entendement, elle peut être fausse, c'est-à-dire que la volonté et la résolution de bien faire nous peut porter à des choses mauvaises, quand nous les croyons bonnes [...] il faut avouer que la plus grande félicité de l'homme dépend de ce droit usage de la raison, et par conséquent de l'étude qui sert à l"acquérir est la plus utile occupation qu'on puisse avoir, comme elle est aussi sans doute la plus agréable et la plus douce."
+
+18 août 1645:
+
+"
 
 Pour Descartes, la morale commence par la connaissance de soi. Alors une cohérence dans son oeuvre: son *Traité de l'Homme, suivi d'un traité sur la formation du foetus* (rédigé c. 1630, publié posthume en 1664) permet de poser la question de la génétique et du péché originel: l'âme est-elle entâchée dès la naissance ? Pour Descartes, elle est propre mais les expériences de la mère ont une influence.
 
@@ -110,7 +116,7 @@ L'induction est le garde-fou de la volonté qui peut excéder les capacités de 
 
 Dans la *Correspondance*: la première lettre d'Elisabeth à Descartes (16 mai 1643): entame la question de l'âme et du corps: si elle est inextensive et immatérielle, comment l'âme peut-elle transmettre au corps laforce de la volonté ? (à ce stade, Elisabeth avait probablement lu les *Méditations* et le *Discours de la méthode*).
 
-""
+"en vous priant de me dire comment l'âme de l'homme peut déterminer les esprits du corps, pour faire les actions volontaires (n'étant qu'une substance pensante). Car il semble que toute détermination du mouvement se fait par la pulsion de la chose mue, à manière dont elle est poussée par celle qui la meut, ou bien de la qualification et figure de la superficie de cette dernière. L'attouchement est requis aux deux premières conditions, et l'extension à la troisième. Vous excluez entièrement celle-ci de la notion que vous avez de l'âme, et celui-là me paraît incompatible avec une chose immatérielle. Pourquoi je vous demande une définition de l'âme plus particulière qu'en votre Métaphysique, c'est-à-dire de sa substance, séparée de son action, de la pensée."
 
 ### La première méditation
 
@@ -121,6 +127,14 @@ Les sens sont insuffisants pour une vérité première, bien qu'on ne puisse rai
 Le rêve ne peut être distingué de la réalité, mais Descartes tient un argument fort pour nullifier ce soucis: les données de l'imaginations (représentation d'images déjà perçues) et des sens y seraient aussi fortes que dans la réalité, donc ce n'est pas réellement détrimentaire à la recherche d'une vérité indubitable.
 
 Voir p. 59 - 61, *Méditations métaphysiques*, GF, 2011.
+
+"Toutefois j'ai ici à considérer que je suis homme, et par conséquent que j'ai coutume de dormir et de me représenter en mes songes les mêmes choses, ou quelques fois de moins vraisemblables, que ces insensés, lorsqu'ils veillent. Combien de fois m'est-il arrivé de songer, la nuit, que j'étais en ce lieu, que j'étais habillé, que j'étais auprès du feu, quoique je fusse tout nu ddedans mon lit ?"
+
+"Toutefois il faut au moins avouer que les choses qui nous sont représentées dans le sommeil sont comme des tableaux et des peintures, qui ne peuvent être formées qu'à la ressemblance de quelque chose de réel et de véritable; et qu'ainsi, pour le moins, ces choses générales, à savoir, des yeux, une tête, des mains, et tout le reste du corps, ne sont pas choses imaginaires, mais vraies et existantes."
+
+"Et par la même raison, encore que ces choses générales, à savoir, des yeux, une tête, des mains, et autres semblables, pussent être iamginaires, il faut toutefois avouer qu'il y a des choses encore plus simples et plus universelles, qui sont vraies et existantes, du mélange desquelles, ni plus ni moins que celui de quelques véritables couleurs, toutes ces images des choses qui résident en notre pensée, soit vraies et réelles, soit feintes et fantastiques, sont formées. De ce genre de choses est la nature corporelle en général, et son étendue; ensemble la figure des choses étendues, leur quantité ou grandeur, et leur nombre; comme aussi le lieu où elles sont, le temps qui mesure leur durée, et autres semblables.
+
+C'est pourquoi peut-être que de là nous ne conclurons pas mal, si nous disons que la physique, l'astronomie, la médecine, et toutes les autres sciences qui dépendent de la considération des choses composées, sont fort douteuses et incertaines; mais ue l'arithmétique, la goémétrie, et les autres sciences de cette nature, qui ne traitent que des choses fort simples et fort générales, sans se mettre beaucoup en peine si elles sont dans la nature, ou si elles n'y sont pas, conttiennent quelque chose de certain et d'indubitable. Car, soit que je veille ou que je dorme, deux trois joints ensemble formeront toujours le nombre cinq, et le carré n'aura jamais plus de quatre côtés; et il ne semble pas possible que ces vérités si apparentes puissent être soupçonnées d'aucune fausseté ou d'incertitude."
 
 La pensée précède et permet le rêve: c'est une vérité sûre (pas une sorte d'homologie ontologique).
 
@@ -170,7 +184,7 @@ Après le problème du rêve: le Dieu trompeur? Mais me trompant, je ne peux rec
 
 ### Seconde méditation:
 
-Le malin gnéie: mais je ne peux douter que je pense, même si je peux douter du contenu des idées de mes pensées. Le *cogito* est la première vérité de Descartes (mais pas la première dans l'ordre de la connaissance, qui est Dieu).
+Le malin génie: mais je ne peux douter que je pense, même si je peux douter du contenu des idées de mes pensées. Le *cogito* est la première vérité de Descartes (mais pas la première dans l'ordre de la connaissance, qui est Dieu).
 
 Il pourrait presque conclure sa première vérité comme étant celle de son *inexistence* (le fait que je n'existe pas étant évident, c'est ma première certitude pour fonder la science). Mais en fait, le "je pense" n'est pas encore un "je suis": c'est simplement la vérité de son existence. Pour penser, il doit exister; mais on ne peut passer facilement de l'un (je pense) à l'autre (j'existe). Dans le *Discours de la méthode*, l'on trouve: *cogito, ergo sum* mais conclure à l'*ergo* c'est sauter les étapes de la pensée: il faut bien établir la logique de l'existence à la pensée. C'est à cela que va servir Dieu. Dans les *Méditations*, Descartes est donc plus rigoureux. D'où l'expression: je suis, j'existe, qui remplace *ergo* par une virgule, évitant ainsi de proposer une implication hâtive de l'existence au fait de penser. Voir p. 73 (*Méditations métaphysiques*, GF, 2011).
 
@@ -189,6 +203,10 @@ La glande pinéale: article 32 du *Traité des passions...*: c'est le siège de 
 L'âme possède les facultés de sensation et d'imagination, mais deux choses: 1) l'âme étant en perpétuelle perception de quelque sensation, elle est perturbée, donc ces sensations ne sont pas fiables; 2) l'imagination permet de contempler l'image et la figure d'une chose corporelle, elle ne sert que de façon rétrospective et ne peut donc pas permettre de connaître l'âme.
 
 Le morceau de cire (pp. 83 - 87):  il y a trois facultés de connaissance des corps: la sensation, l'imagination et l'entendement. Or seul l'entendement peut les connaître véritablement. Contre le sens commun: les qualités sensibles ne permettent pas de mieux connaître les corps. La cire change en fondant. Ni les sensation ni l'imagination ne peuvent rendre compte des possibilités de changement de la cire: il ne reste qu'une substance matérielle, étendue, une figure flexible et muable. *On ne peut imaginer un chiliogone, mais on peut le concevoir*. L'imagination ne peut fixer son attention que sur un nombre limité de figures. Sous les attributs accidentels de la cire, seul l'entendement peut trouver sa quiddité. Donc dans la seconde méditation: l'entendenement connaît mieux les corps que les sens et l'imagination; l'âme se connaît plus facilement elle-même que les corps (alors que le sens commun estime connaître plus facilement par les sens que par la raison).
+
+"Prenons pour exemple ce morceau de cire, qui vient d'être tiré de la ruche: il n'a pas encore perdu la douceur du miel qu'il contenait, il retient encore quelque chose de l'odeur des fleurs dont il a été recueilli; sa couleur, sa figure, sa grandeur, sont apparentes, il est dur, il est froid, on le touche, et si vous le frappez, il rendre quelque son. Enfin toutes les choses qui peuvent distinctement faire connaître un corps, se rencontrent en celui-ci.
+
+Mais voici que, cependant que je parle, on l'approche du feu: ce qui y restait de saveur s'exhale, l'odeur s'évanouit, sa couleur se change, sa figure se perd, sa grandeur augmente, il devient liquide, il s'échauffe, à peine le peut-on toucher, et quoiqu'on le frappe, il ne rendre plus aucun son. La même cire demure-t-elle après ce changement ?"
 
 Les esprits animaux, par les nerfs, opèrent le va-et-vient de la glande pinéale aux sens. Le mouvement transmis par les sens change la forme de la glande: il l'impacte réellement. Le jugement moral sur le senti est ajouté par la glande. Ces traces sur la glande permettent le souvenir. Lorsqu'elle est utilisée dans le domaine approprié, la connaissance sensible permet de construire un savoir. En elle-même, elle est neutre: donc fiable.
 
@@ -237,6 +255,8 @@ Puisque Dieu est tout, augmenter notre connaissance, c'est augmenter notre conna
 Par l'homme généreux, Descartes laïcise la morale: il le pense en autonomie par rapport au dogme de la religion (l'homme simplement honnête, qui ne connais pas, n'évite donc pas le "péché" de l'ignorance). 
 
 Lettre à Elisabeth du 18 août 1645; comparaison avec Sénèque, Épicure, Zénon et Aristote. La connaissance de Dieu permet aussi le souverain bien car: elle permet d'accepter sa place dans l'(ordre des choses (devenir universel). Mais au contraire de l'harmonie naturelle de Sénèque, Dieu étant infini, son harmonie est insaisissable et il est donc mieux de limiter sa volonté de savoir et de se plier à la volonté divine, ce qui offre l'accès à la béatitude (= souverain bien).
+
+""
 
 Double statut du libre-arbitre: dépendant de Dieu mais libre par la puissance de décision de l'homme. Ferme volotné de diriger son action en vue du souverain bien: c'est limiter la raison par la volonté. Un usage moral du libre-arbitre n'est donc pas absolument libre.
 

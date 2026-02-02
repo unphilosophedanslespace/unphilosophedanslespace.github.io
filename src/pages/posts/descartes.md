@@ -18,7 +18,21 @@ Descartes s'inspire de Sénèque: une vie réglée en accord avec la nature qui 
 
 Sa morale idéale est décrite dans la lettre à Élisabeth du 4 août 1645 (v. [Correspondance](https://fr.wikipedia.org/wiki/Correspondance_avec_%C3%89lisabeth)).
 
-Pour Descartes, la morale commence par la connaissance de soi. Alors une cohérence dans son oeuvre: son *Traité de l'Homme, suivi d'un traité sur le foetus* permet de poser la question de la génétique et du péché originel: l'âme est-elle entâchée dès la naissance ? Pour Descartes, elle est propre mais les expériences de la mère ont une influence.
+"la béatitude consiste, ce me semble, en parfaitement contentement d'esprit et une satisfaction intérieure, que n'ont pas ordinairement ceux qui sont le plus favoriés de la fortune, et que les sages acquièrent sans elle. Ainsi *vivere beate*, vivre en béatitude, ce n'est autre chose qu'avoir l'esprit parfaitement content et satisfait"
+
+"Or il me semble qu'un chacun se peut rendre content de soi-même et sans rien attendre d'ailleurs, pourvu seulement qu'il observe trois choses, auxquelles se rapportent les trois règles de morale, que j'ai mises dans le *Discours de la Méthode*.
+
+La première est, qu'il tâche toujours de se servir, le mieux qu'il lui est possible, de son esprit, pour connaître ce qu'il doit faire ou ne pas faire en toutes occurrences del a vie.
+
+La seconde, qu'il ait une ferme et ocnstante résolution d'exécuter tout ce que la riason lui conseillera, sans que ses passions ou ses appétits l'en détournent; et c'est la fermeté de cette résolution, que je crois devoir être prise pour la vertu, bien que je ne sache point que personne l'ait jamais ainsi expliquée; mais on l'a divisée en plusieurs espèces, auxquelles on a donné plusieurs noms, à cause des divers objets auxquels elle s'étend.
+
+La troisième, qu'il considère que, pendant qu'il se conduit ainsi, autant qu'il peut, selon la raison, tous les biens qu'il ne possède point sont aussi entièrement hors de son pouvoir les uns que les autres, et que, par ce moyen, il s'accoutume à ne les point désirer; car il n'y a rien que le désir, et le regret ou le repentir, qui nous puissent empêcher d'être contents: mais si nous faisons toujours ce que nous dicte notre raison, nous n'aurons jamais aucun sujet de nous repentir, encore que les événements nous fissent voir, par après, que nous nous sommes trompés, pour ce que ce n'est point par notre faute."
+
+"Au reste, toutes sortes de désirs ne sont pas incompatibles avec la béatitude; il n'y a que ceux qui sont accompagnés d'impatience et de tristesse. Il n'est pas nécessaire aussi que notre raison ne se trompe point; il suffit que notre conscience nous témoigne que nous n'avons jamais manqué de résolution et de vertu, pour exécuter toutes les choses que nous avons jugé être les meilleurs, et ainsi la vertu seule est suffisante pour nous rendre contents en cette vie."
+
+"lorsqu'elle n'est pas éclairée par l'entendement, elle peut être fausse, c'est-à-dire que la volonté et la résolution de bien faire nous peut porter à des choses mauvaises, quand nous les croyons bonnes [...] il faut avouer que la plus grande félicité de l'homme dépend de ce droit usage de la raison, et par conséquent de l'étude qui sert à l"acquérir est la plus utile occupation qu'on puisse avoir, comme elle est aussi sans doute la plus agréable et la plus douce."
+
+Pour Descartes, la morale commence par la connaissance de soi. Alors une cohérence dans son oeuvre: son *Traité de l'Homme, suivi d'un traité sur la formation du foetus* (rédigé c. 1630, publié posthume en 1664) permet de poser la question de la génétique et du péché originel: l'âme est-elle entâchée dès la naissance ? Pour Descartes, elle est propre mais les expériences de la mère ont une influence.
 
 La morale fait partie du système cartésien de la science. Elle s'obtient par perfectionnement, en réfléchissant l'expérience. La morale est désirable car le bonheur peut être atteint avant la mort (et c'est la même vertu qui pourvoie la félicité dans l'au-delà). Bien utiliser sa raison: bien juger rationnellement permet de faire un choix moralement bon. Le bien est une évidence, on le reconnaît nécessairement: mais le choix du mal reste ouvert car nous avons notre libre-arbitre. Ce pourquoi il faut bien raisonner et bien juger pour bien agir: "Parce que nous avons le libre-arbitre, à nous revient aussi la louange et le blâme".
 
@@ -49,15 +63,18 @@ De l'intuition peut être conclue la vérité d'une réalité extérieure.
 L'idée claire est innée: c'est parce que l'idée de Dieu est ancrée en nous et qu'elle crée nos vérités qu'il faut la prouver. Mais ce "Dieu" devient un Dieu philosophe (c'est un Dieu pensé, en un sens séparé du dogme). Il y a trois preuves de Dieu:
 
 - Méditation III: 1) Je doute, donc je suis imparfait; l'idée de perfection n'est pas à la mesure humaine, 2) J'ai une idée d'infini, alors que je suis fini.
-- Méditation V: 3) La preuve ontologique (reprise à Saint Anselme; également réinterprétée par Leibniz, et réfutée définitivement par Kant): l'existence est une perfection, or la perfection absolue (de Dieu) contient toutes les perfections.
+- Méditation V: 3) La preuve ontologique (reprise à Saint Anselme, également réinterprétée par Leibniz et réfutée définitivement par Kant): l'existence est une perfection, or la perfection absolue (de Dieu) contient toutes les perfections.
 
-La connaissance claire et distincte de l'idée de Dieu garantit le système gnoséologique de Descartes. Dieu, donc l'âme, donc le corps: donc les idées des choses sensibles, or, Dieu est bon, donc il ne pourrait ovuloir me tromper: le monde extérieur existe véritablement.
+La connaissance claire et distincte de l'idée de Dieu garantit le système gnoséologique de Descartes. Dieu, donc l'âme, donc le corps: donc les idées des choses sensibles, or, Dieu est bon, donc il ne pourrait vouloir me tromper: le monde extérieur existe véritablement.
 
 Un raisonnement qui n'est pas tout à fait dénué de scolastique, malgré la volonté de Descartes de s'extirper des dogmes philosophiques et de se diriger davantage vers un raisonnement mécaniste (inspiré des mathématiques et notamment de la géométrisation de la mécanique qui se développe à l'époque moderne, par exemple dans les écrits de Galilée).
 
 La méditation IV montre la base de la morale cartésienne. La béatitude du souverain bien est accessible à quiconque trouve sa propre voie de perfectionnement. L'on peut également voir sur ce sujet la Lettre à Christine de Suède du 20 novembre 1647 (p. 271, VRIN). L'entendement fini et la volonté ouvrant sur l'indéfini: il faut maîtriser la volonté pour accéder à la béatitude naturelle.
 
-Et la lettre à Élisabeth du 4 août 1645: il y compare Aristote, Xénon et Épicure. Selon Descartes, il faut un bien corporel (volupté) et la vertu morale et le plaisir de l'esprit, pour trouver un contentement de l'esprit. La philosophie s'occupe de la médicine, de la métaphysique et de la morale en vue de la joie. Le souverain bien se trouve par l'expérience (c'est une maîtrise) de soi, d'autrui, du corps, de l'esprit, du plaisir, des passions.
+"Il me semble que le Souverain Bien de tous les hommes ensemble est un amas ou un assemblage de tous les biens, tant de l'âme que du corps et de la fortune, qui peuvent être en quelques hommes ; mais que celui d'un chacun en particulier est tout autre chose, et qu'il ne consiste qu'en une ferme volonté de bien faire, et au contentement qu'elle produit. Dont la raison est que je ne remarque aucun autre bien qui me semble si grand, ni qui soit entièrement au pouvoir d'un chacun. Car, pour les biens du corps et de la fortune, ils ne dépendent point absolument de nous ; et ceux de l'âme se rapportent tous à deux chefs, qui sont, l'un de connaître et l'autre de vouloir ce qui est bon ; mais la connaissance est souvent au-delà de nos forces ; c'est pourquoi il ne reste que notre volonté, dont nous puissions absolument disposer. Et je ne vois point qu'il soit possible d'en disposer mieux, que si l'on a toujours une ferme et constante résolution de faire exactement toutes les choses que l'on jugera être les meilleures, et d'employer toutes les forces de son esprit à les bien connaître. C'est en cela seul que consistent toutes les vertus." (Descartes, Lettre à la Reine Christine de Suède, du 20 novembre 1647)
+
+Selon Descartes, il faut un bien corporel (volupté) et la vertu morale et le plaisir de l'esprit, pour trouver un contentement de l'esprit. La philosophie s'occupe de la médicine, de la métaphysique et de la morale en vue de la joie. Le souverain bien se trouve par l'expérience (c'est une maîtrise) de soi, d'autrui, du corps, de l'esprit, du plaisir, des passions.
+
 
 Descartes développe sa morale avec des interlocuteurs très différents (théologiens, médecins, philosophes, princesses) dans sa correspondance, mais il écrit aussi en physicien (*Traité des passions de l'âme*, ch. 1 et 2: corps et âme, ch. 3: morale). La question de l'âme et du corps est explorée principalement à la force des questionnements d'Élisabeth. Il cite peu les Anciens (mais il les a lu) et ne s'exprime pas en rhéteur: le physicien explore les causes et les effets des passions (ce qui est nouveau à cette époque).
 
@@ -71,7 +88,7 @@ Descartes a l'idée d'un espace plein, sans vide, composé uniquement de mouveme
 
 Notre corps est motivé par l'âme: notre corps est un principe actif recevant. L'âme est libre (de détermination, de choix) et immortelle, alors que le corps est mortel.
 
-L'âme n'est pas elle-même principe de vie (car les animaux vivent mais ne pensent pas: ils n'ont pas d'âme), mais de son siège corporel, la glande pinéale,  elle transmet les esprits animaux au corps; parallèlelement comme une éponge, elle absorbe les informations du corps. Descartes incarne l'âme dans le corps par la glande pinéale, mais ne peut admettre qu'elle soit purement corporelle, sinon elle ne serait pas immortelle.
+L'âme n'est pas elle-même principe de vie (car les animaux vivent mais ne pensent pas: ils n'ont pas d'âme), mais de son siège corporel, la glande pinéale, elle transmet les esprits animaux au corps; parallèlement comme une éponge, elle absorbe les informations du corps. Descartes incarne l'âme dans le corps par la glande pinéale, mais ne peut admettre qu'elle soit purement corporelle, sinon elle ne serait pas immortelle.
 
 La garantie divine permet d'appliquer justement les règles du *Discours de la méthode*:
 1) L'intuition: ne prendre pour certaines que des idées claires et distinctes (ne pa hâter le jugement, éliminier le douter, éviter l'erreur);
@@ -91,7 +108,9 @@ S'il n'y a pas d'ordre naturel (science; physique; mathématiques) alors il faut
 
 L'induction est le garde-fou de la volonté qui peut excéder les capacités de l'intelligence durant le raisonnement.
 
-Dans la *Correspondance*: la première lettre d'Elisabeth à Descartes (16 mai 1645): entame la question de l'âme et du corps: si elel est inextensive et immatérielle, comment l'âme peut-elle transmettre au corps laforce de la volonté ? (à ce stade, Elisabeth avait probablement lu les *Méditations* et le *Discours de la méthode*).
+Dans la *Correspondance*: la première lettre d'Elisabeth à Descartes (16 mai 1643): entame la question de l'âme et du corps: si elle est inextensive et immatérielle, comment l'âme peut-elle transmettre au corps laforce de la volonté ? (à ce stade, Elisabeth avait probablement lu les *Méditations* et le *Discours de la méthode*).
+
+""
 
 ### La première méditation
 

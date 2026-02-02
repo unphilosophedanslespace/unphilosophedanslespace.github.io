@@ -16,7 +16,7 @@ L'influence d'Épictète et des stoïciens: nous ne sommes responsables que de c
 
 Descartes s'inspire de Sénèque: une vie réglée en accord avec la nature qui est réglée: en vue de l'action morale: ce qui permet de trouver la vertu. Mais contrairement aux Anciens, Descartes met l'accent sur la subjectivité, sur l'individu(el). Deux morales: la morale idéale et la morale par provision (morale de la vie quotidienne et pratique). Il propose une critique du stoïcisme: il est rigide (oublie les passions) et met une emphase sur un détachement du sensible (alors que l'humain est sensible: il y a toujours une relation de l'âme et du corps). On ne peut être purement rationnel. La morale doit être accessible à tout un chacun (universelle pragmatiquement).
 
-Sa morale idéale est décrite dans la lettre à Élisabeth du 4 juin 1645 (v. [Correspondance](https://fr.wikipedia.org/wiki/Correspondance_avec_%C3%89lisabeth)).
+Sa morale idéale est décrite dans la lettre à Élisabeth du 4 août 1645 (v. [Correspondance](https://fr.wikipedia.org/wiki/Correspondance_avec_%C3%89lisabeth)).
 
 Pour Descartes, la morale commence par la connaissance de soi. Alors une cohérence dans son oeuvre: son *Traité de l'Homme, suivi d'un traité sur le foetus* permet de poser la question de la génétique et du péché originel: l'âme est-elle entâchée dès la naissance ? Pour Descartes, elle est propre mais les expériences de la mère ont une influence.
 

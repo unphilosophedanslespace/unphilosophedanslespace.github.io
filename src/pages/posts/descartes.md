@@ -16,9 +16,9 @@ L'influence d'Épictète et des stoïciens: nous ne sommes responsables que de c
 
 Descartes s'inspire de Sénèque: une vie réglée en accord avec la nature qui est réglée: en vue de l'action morale: ce qui permet de trouver la vertu. Mais contrairement aux Anciens, Descartes met l'accent sur la subjectivité, sur l'individu(el). Deux morales: la morale idéale et la morale par provision (morale de la vie quotidienne et pratique). Il propose une critique du stoïcisme: il est rigide (oublie les passions) et met une emphase sur un détachement du sensible (alors que l'humain est sensible: il y a toujours une relation de l'âme et du corps). On ne peut être purement rationnel. La morale doit être accessible à tout un chacun (universelle pragmatiquement).
 
-Descartes compare Épicure, Sénèque et Aristote. Sa morale idéale est décrite dans la lettre à Élisabeth du 18 août 1645 (v. [Correspondance](https://fr.wikipedia.org/wiki/Correspondance_avec_%C3%89lisabeth)), qui suit celle du 4 août.
+Descartes compare Épicure, Sénèque, Zénon et Aristote. Sa morale idéale est décrite dans la lettre à Élisabeth du 18 août 1645 (v. [Correspondance](https://fr.wikipedia.org/wiki/Correspondance_avec_%C3%89lisabeth)), qui suit celle du 4 août.
 
-4 août 1645:
+### 4 août 1645:
 
 "la béatitude consiste, ce me semble, en parfaitement contentement d'esprit et une satisfaction intérieure, que n'ont pas ordinairement ceux qui sont le plus favoriés de la fortune, et que les sages acquièrent sans elle. Ainsi *vivere beate*, vivre en béatitude, ce n'est autre chose qu'avoir l'esprit parfaitement content et satisfait" (4 août 1645)
 
@@ -34,9 +34,21 @@ La troisième, qu'il considère que, pendant qu'il se conduit ainsi, autant qu'i
 
 "lorsqu'elle n'est pas éclairée par l'entendement, elle peut être fausse, c'est-à-dire que la volonté et la résolution de bien faire nous peut porter à des choses mauvaises, quand nous les croyons bonnes [...] il faut avouer que la plus grande félicité de l'homme dépend de ce droit usage de la raison, et par conséquent de l'étude qui sert à l"acquérir est la plus utile occupation qu'on puisse avoir, comme elle est aussi sans doute la plus agréable et la plus douce."
 
-18 août 1645:
+### 18 août 1645:
 
-"
+"Je remarque, premièrement, qu'il y a de la différence entre la béatitude, le souverain bien et la dernière fin ou le but auquel doivent tendre nos actions: car la béatitude n'est pas le souverain bien; mais elle le présuppose, et elle est le contentement ou la satisfaction d'esprit qui vient de ce qu'on le possède. Mais, par la fin de nos actions, on peut entendre l'un et l'autre; car le souverain bien est sans doute la chose que nous nous devons proposer pour but en toutes nos actions, et le contentement de l'esprit qui en revient, étant l'attrait qui fait que nous le recherchons, est aussi à bon droit nommé notre fin."
+
+"Je remarque, outre, cela, que le mot volupté  a été pris en autre sens par Épicure que apr ceux qui ont disputé avec lui. Car tous ses adversaires ont restreint la signification de ce mot aux plaisirs des sens; et lui, au contraire, l'a étendue à tous les contentements de l'esprit"
+
+"Or il y a eu trois principales opinions, entre les philosophes païens, touchant le souverain bien et la fin de nos actions, à savoir: celle d'Épicure, qui a dit que c'était la volupté; celle de Zénon, qu ia voulu que ce fût la vertu; et celle d'Aristote, qui l'a composé de toutes les perfections, tant du corps que de l'esprit. Lesquelles trois opinions peuvent, ce me semble, être reçues pour vraies et accordées entre elles, pourvu qu'on les interprète favorablement.
+
+Car Aristote ayant considéré le souverain bien de toute la nature humaine en général, c'est-à-dire celui que peut avoir le plus accompli de tous les hommes, i la eu raison de le composer de toutesl es perfections dont la nature humaine est capable; mais cela ne sert point à notre usage.
+
+Zénon, au contraire, a considéré celui que chaque homme en son particulier peut posséder; c'est pourquoi il a eu assi très bonne raison de dire qu'il ne cosniste qu'en la vertu, pour ce qu'iln 'y a qu'elle seule, entre les biens que nous pouvons avoir, qui dépende entièrement de notre libre arbitre. Mais il a représenté cette vertu si sévère et si ennemie de la volupté, en faisant tous les vices égaux, qu'il n'y a eu, ce me semble, que des mélancoliques, ou des esprits entièrement détachés du corps, qui aient pu être de ses sectateurs.
+
+Enfin Épicure n'a pas eu tort, en considérant en quoi consiste la béatitude, et quel est le motif, ou la fin à laquelle tendent nos actions, de dire que c'est la volupté en général, c'est-à-dire le cotnentement de l'esprit; car, encore que la seule connaissance de notre devoir pourrait obliger à faire de bonnes actions, cela ne nous ferait toutefois jouir d'aucune béatitude, s'il ne nous en revenait aucun plaisir. Mais pour ce qu'on attribue souvent le nom de volupté à de faux plaisirs, qui sont accompagnés ou suivis d'inquiétude, d'ennuis et de repentirs, plusieurs ont cru que cette opinion d'Épicure enseignait le vice; et, en effet, elle n'enseigne pas la vertu."
+
+"C'est pourquoi je crois pouvoir ici conclure que la béatitude ne consiste qu'au contentemnt de l'esprit, c'est-à-dire au cotnentement en général; car bien qu'il y ait des contentements qui dépendent du corps, et les autres qui n'en dépendent point, il n'y en a toutefois aucun que dans l'esprit: mais que, **pour avoir un contentement solide, il est besoin de suivre la vertu, c'est-à-dire d'avoir une volonté ferme et constante d'exécute tout ce que nous jugerons être le meilleur, et d'employer toute la force de notre entendement à en bien juger**." (nous soulignons)
 
 Pour Descartes, la morale commence par la connaissance de soi. Alors une cohérence dans son oeuvre: son *Traité de l'Homme, suivi d'un traité sur la formation du foetus* (rédigé c. 1630, publié posthume en 1664) permet de poser la question de la génétique et du péché originel: l'âme est-elle entâchée dès la naissance ? Pour Descartes, elle est propre mais les expériences de la mère ont une influence.
 
@@ -254,9 +266,7 @@ Puisque Dieu est tout, augmenter notre connaissance, c'est augmenter notre conna
 
 Par l'homme généreux, Descartes laïcise la morale: il le pense en autonomie par rapport au dogme de la religion (l'homme simplement honnête, qui ne connais pas, n'évite donc pas le "péché" de l'ignorance). 
 
-Lettre à Elisabeth du 18 août 1645; comparaison avec Sénèque, Épicure, Zénon et Aristote. La connaissance de Dieu permet aussi le souverain bien car: elle permet d'accepter sa place dans l'(ordre des choses (devenir universel). Mais au contraire de l'harmonie naturelle de Sénèque, Dieu étant infini, son harmonie est insaisissable et il est donc mieux de limiter sa volonté de savoir et de se plier à la volonté divine, ce qui offre l'accès à la béatitude (= souverain bien).
-
-""
+Lettre à Elisabeth du 18 août 1645; comparaison avec Sénèque, Épicure, Zénon et Aristote. La connaissance de Dieu permet aussi le souverain bien car: elle permet d'accepter sa place dans l'ordre des choses (devenir universel). Mais au contraire de l'harmonie naturelle de Sénèque, Dieu étant infini, son harmonie est insaisissable et il est donc mieux de limiter sa volonté de savoir et de se plier à la volonté divine, ce qui offre l'accès à la béatitude (= souverain bien).
 
 Double statut du libre-arbitre: dépendant de Dieu mais libre par la puissance de décision de l'homme. Ferme volotné de diriger son action en vue du souverain bien: c'est limiter la raison par la volonté. Un usage moral du libre-arbitre n'est donc pas absolument libre.
 

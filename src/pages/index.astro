@@ -4,6 +4,8 @@ import Navigation from '../components/Navigation.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import '../styles/global.css';
+import { Image } from 'astro:assets';
+import descartes from '../descartes.png';
 ---
 
 <html lang="en">
@@ -19,6 +21,7 @@ import '../styles/global.css';
 		<h1>{pageTitle}</h1>
 		<h2>C'est l'histoire d'un gars qui pense en pleine relativité...</h2>
 		<h3>Site en construction !</h3>
+		<Image src={descartes} alt="Ouais" />
 		
 	</body>
 </html>

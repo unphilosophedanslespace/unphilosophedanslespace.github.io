@@ -8,9 +8,9 @@ tags: ["philosophie","philosophie du droit"]
 
 Ces notes ont été prises lors du cours "**Justification et contestation du droit de propriété au XVIè et XVIIè siècle**" donné par Yann Robert, en 2021.
 
-Pour être sujet de droit, il faut être capable de porter des jugements prescriptifs ou normatifs, donc être capable de penser du "virtuel": penser de l'en droit (opposé à de l'en fait). La culpabilité n'existe que pour des sujets de droit (opposée à la responsabilité : être cause d'un crime n'est pasp ossible pour un sujet incapable de penser en droit). Un sujet qui n'aurait pas de pensée *de jure* mais uniquement *de facto* serait tenu responsable mais ne pourrait tenu coupable: il est cause mais il n'est pas criminel.
+Pour être sujet de droit, il faut être capable de porter des jugements prescriptifs ou normatifs, donc être capable de penser du “virtuel”: penser de l’en droit (opposé à de l’en fait). La culpabilité n’existe que pour des sujets de droit (opposée à la responsabilité : être cause d’un crime n’est pas possible pour un sujet incapable de penser en droit). Un sujet qui n’aurait pas de pensée de jure mais uniquement de facto serait tenu responsable mais ne pourrait tenu coupable: il est cause mais il n’est pas criminel.
 
-Le droit trouve son effecitvité dans le fait, mais en niant le fait, comme en niant le virtuel, il se perd: le fait du droit n'est plus en droit, car tout est déjà comme cela devrait être, l'obligation est alors inutile. Inférer une norme de l'état de fait est logiquement impossible mais apparemment nécessaire. Comment concilier le droit et le fait ?
+Le droit trouve son effectivité dans le fait, mais en niant le fait, comme en niant le virtuel, il se perd: le fait du droit n'est plus en droit, car tout est déjà comme cela devrait être, l'obligation est alors inutile. Inférer une norme de l'état de fait est logiquement impossible mais apparemment nécessaire. Comment concilier le droit et le fait ?
 
 # *Justification et contestation du droit de propriété au XVIè et XVIIè siècle*.
 

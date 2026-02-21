@@ -6,6 +6,8 @@ author: 'Benjamin'
 tags: ["philo"]
 ---
 
+# Fiche de notes: cours de philosophie des sciences sur les Éléments d'épistémologie de Carl Hempel
+
 ## Introduction
 
 Qu'est-ce que la science ? Méthode, consensus et historicité du progrès sont autant de problèmes de la science. D'après Aristote: "il n'y a de science que du général". Alors quid des sciences humaines ? Par exemple, l'histoire est une science de l'individuel: elle ne cherche pas à reproduire des faits.
@@ -216,4 +218,4 @@ Selon Kuhn, les théories (paradigmes) de la science ne sont pas comparables, il
 
 Un changement de paradigme est un pari sur l'avenir: ce n'est pas rationnel comme opération. En effet, il est choisi pour des raisons irrationnelles, tel que le caractère prometteur ou des critères esthétiques, il est également choisi pour la capacité à résoudre des anomalies persistantes. Le consensus se ferait tout de même pour de bonnes raisons: le nouveau paradigme sera plus performant. Mais simplement la décision ne pas prendre une forme logique. La supériorité d'un paradigme ne peut être démontrée. Par exemple: la relativité générale résoute des problèmes persistantes du paradigme newtonien (par exemple la périhélie de Mercure), mais elle a ses propres anomlies; de même entre la physique quanntique au niveau macro et la physique relativiste au niveau micro: les deux paradigmes ont leurs propres avantages et désavantages. Un pari assure en général le développement d'une nouvelle science normale, mais ne libère pas du tout le nouveau paradigme d'autres anomalies.
 
-La valeur des théories est relative àdes normes variables, mais l'incommensurabilité n'empêche pas l'explication.
+La valeur des théories est relative à des normes variables, mais l'incommensurabilité n'empêche pas l'explication.

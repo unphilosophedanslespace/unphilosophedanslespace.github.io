@@ -188,7 +188,7 @@ Hempel incorpore dans ce chapitre des vues de Kuhn et Popper mais en manuel, ne 
 
 ### Thomas Kuhn, *La structure des révolutions scientifiques*, 1962
 
-Physicien, il se forme aux sciences humaines et écrit en histoire d'abord *La révolution copernicienne* (1957) puis en philosophe la *Structure...* (1962).
+Physicien, il se forme aux sciences humaines et écrit en histoirien d'abord *La révolution copernicienne* (1957) puis en philosophe la *Structure...* (1962).
 
 Kuhn conteste les théories du Cercle de Vienne. Il écrit à partir de son étude d'histoire (*La révolution copernicienne*): les sciences n'ont pas pour tâche principale de mettre à l'épreuve les théories. Elles font de la science normale: une forme de dogmatisme, la foi dans un paradigme.
 

@@ -1,0 +1,200 @@
+---
+title: "Fiche de notes: Histoire des sciences, l'époque moderne"
+pubDate: 2022-07-01
+description: 'voir titre'
+author: 'Benjamin'
+tags: ["histoire","histoire des sciences","époque moderne","moderne"]
+---
+
+## Fiche de notes: Histoire des sciences, l'époque moderne
+
+Notes tirées du cours commun de [Fanny Kieffer](https://arche.unistra.fr/equipe/membres-titulaires/fanny-kieffer/) et [Isabelle Laboulais](https://sage.unistra.fr/isabelle-laboulais/) ([cairn](https://shs.cairn.info/publications-de-isabelle-laboulais--48499?lang=fr)).
+
+Un panorama de la modernité (Kieffer) à l'ère industrielle (Laboulais) en restituant la venue de la modernité à partir de l'antiqutié grecque, éhyptienne, mésopotamienne et chinoise. Et quelques tours de la méthode historique pour déterminer les raisons des découvertes par le contexte (culturel, économique, politique, philosophique, historique...)
+
+La méthode historique se fonde sur:
+
+- la recherchede l'information et sa vérification par les sources originales
+
+- la neutralité : parce que la situation de l'historien(ne) est différente de son sujet, il/elle essaie d'effacer so opinion
+
+# Introduction sur l'antiquité (Fanny Kieffer):
+
+Toutes les découvertes sont des assemblages de connaissances précédentes. Il faut voir le langage scientifique de ce lui qui invente pour voir la genèse de ses inventions.
+
+Les sciences apparaissent en même temps que la philosophie, c'est-à-dire dans la pratique publique du savoir à Athènes. Les mathématiques (sciences) et la philosophie se rejoignent par une approche abstraite et logique: l'on raisonne, démontre et cherche des preuves.
+
+Thalèes (c. -625 / -547) et Pythagore (c. -565 / -500) n'ont pas de source directe mais leurs théories ont l'influence d'Égypte, Asie mineur et Mésopotamie (voyages). Pythagore, *mathema*: ce qui est appris; philosophie: amour de la sagesse). Le but des mathématiques est de résoudre des problèmes par des outils simples (raisonnement, compas, règle et stylet). Ils laissent ainsi trois grands problèmes: la quadrature du cercle, la duplication du cube et la trisection de l'angle.
+
+Platon (fonde l'académie, en -IVè siècle) et Aristote sont autant philosophes que mathématiciens (voir par exemple le *Timée* de Platon, dont sont tirées les solides platoniciens et la perfection de la sphère, reprise dans la cosmologie aristotélicienne). En se contentant de la théorie, chaque élément sensible peut s'expliquer à partir d'une bonne forme mathématique. De Platon à la révolution scientifique moderne, on s'occupe donc de *sozein tai phenomena*, de sauver les apparences. Les apparences doivent coller à un schéma idéal divin. Les sciences modernes inversent cette relation, logiquement (observation, déduction et enfin abstraction) et techniquement (lunette de Galilée, *Le messager céleste*, 1610). 
+
+Aristote (Lycée) conserve une méthode abstraite mais l'applique à la physique: il s'intéresse à la corruptibilité des choses naturelles, en devenir. Il fonde la métaphysique et introduit le syllogisme (bien que tous deux déjà présents chez Platon).
+
+Ptolémée rédige l'*Almageste*, une somme d'astronomie et de mathématiques, et réalise des observations de 127 à 151 après J.C. Il propose la théorie des [épicycles](https://fr.wikipedia.org/wiki/%C3%89picycle): théories logiquement (mathématiquement) différentes mais phénoménologiquement égales.
+
+La médecine apparaît vers le -Vè siècle. Hippocrate crée une pratique clinique (suivi individuel des patients). On se détache des causes divines. Cette clinique est fondée sur la théorie des humeurs (liquides et caractères) et le éléments naturels (âge, temps de la journée) qui entourent le sujet. Ces humeurs sont liées à une cause première: le créateur des cinq solides platoniciens. 
+
+Galien (129-216 ap. J.C.) reprend les théories d'Hippocrate tout en développant une anatomie (dissection, notamment animale).
+
+Entre l'antiquité et la Renaissance, la circulation des savoirs est difficile en occident: le savoir est contenu dans les monastères (qui en font la réinteprétation chrétienne) et les invasions barbares répétées endommages les archives. Elle se développement principalement en Orient, d'abord à Alexandrie puis à Bagdad ([Maison de la sagesse](https://fr.wikipedia.org/wiki/Maison_de_la_sagesse)). Ces savants arabes et de toute l'Asie traduisent les textes anciens et vérifient leurs connaissances, agrandissant ainsi le savoir scientifique. Ils prennent à la Chine la technique du papier (par la force de la torture).
+
+La Sorbonne est fondée en 1215. Les savoirs enseignés, par le moyen de l'école de Bagdad, ont des influences grecques, arabes, chinoises, hindoues et chrétiennes.
+
+La Renaissance (XIV-XVè siècle) apparaît à partir de l'humaniste (1350) en Italie dans les classes ecclésiastiques et nobiliaires. L'humaniste a d'abord eu pour but de christianiser des textes anciens. Ces textes (latins et arabes, puis grecs) sont redécouvertes à cause de Cicéron: celui-ci enseigne que les études améliorent l'humain. L'invention de l'imprimerie permet de diffuser la redécouverte de ces textes. La chute de Constantinople apporte un flux migratoire qui repopularise le grec. À cette époque les sciences prennent une première forme de classification: le trivium (grammaire, rhétorique, poésie) et le quadrivium (géométrie, mathématique, musique et astronomie). Les mathématiques ont un caractère divin: elles permettraient de révéler les mystères de Dieu car c'est la science la plus abstraite.
+
+L'expérimentation appraît à partir de deux choses: un développement expérimental de la chimie afin de découverir la quintessence des éléments naturels (traces de Dieu qui sont reprises à Platon: penser au *Phèdre*) et à la découverte du Nouveau Monde: cela laisse un vide d'autorité des Anciens. C'est nouveau, donc il faut observer, car aucun texte n'en dit rien. 
+
+À partir du mouvement stellaire et terrestre, qui s'inscrit dans une harmonie mathématique chez Platon, toutes les sciences sont liées: il y a une musique de l'univers, qui permet d'ailleurs de soigner chez Orphée (l'harmonie des Sphères). Par la théorie des sympathies, l'on recherche une analogie du corps et de l'âme, des ressemblances dans toute la nature. C'est ce qu'on appelle la Signature de Dieu (*Traité des signatures*, Oswald Croll, XVIè siècle).
+
+Cette union des sciences et le syncrétisme du monde ancien et des monothéismes sous l'égide d'un christianisme platonisé se retrouve dans *De hominus dignitate* de Giovanni Pico della Mirandola et dans l'oeuvre de Marsil Fissin (*Théologie première*) quit ont eu une influence énorme. Pico della Mirandola enseigne que l'individu qui étudie le monde, la nature peut accéder à une magie: l'inspiration divine, donc à un contrôle, un pouvoir sur la nature (en grec, magique signifie puissance). Dieu domine l'homme commun, mais l'individu a la liberté de s'instruire et donc d'accroître son pouvoir sur la nature (une idée que l'on retrouve chez Descartes !).
+    Le néoplatonisme du monde ecclésiastique se retrouve dans l'architecture, par exemple la façace de l'église de Mantoue (cercles et carrés). La perspective se développe de cet itnérêt pour la géoémtrie (la perspective était déjà connue au moyen-âge, mais on lui préférait le symbolisme) et le peintre commence à prendre le statut d'artiste car il doit se faire savant pour représenter adéquatemment la nature (ce n'est plus un simple artisan ou ouvrier).
+
+Le papyrus de Leyde (IIIè siècle ap. J.C.) fonde la pratique alchimiste tout comme l'idée de lunité du monde et la théorie des sympathies (signatures analogiques). Ainsi les procédés de l'orfèvrerie (fonde, deshydrater, diluer) et le rôle des éléments (feu, air, eau) sont repris par les alchimistes. 
+
+La tradition hermétique: crypter le texte car un pouvoir un pouvoir à utiliser à bon escient s'y trouve.
+
+## Médecine:
+
+François Rabelais, médecin, considère que le rire participe à la guérison du patient et de son bien-être (car le bien-être moral, dans la *République*, fait partie du bien-être de l'individu). Paracelse a une expérience de terrain qui le mène à rejeter Gallien (anatomie fausse fondée sur la dissection d'animaux) et Aristote (tous les hommes sont égaux de fait) car il est médecin de guerre itinérant. Ses observations le mène à rejter l'autorité des anciens. Ambroise Paré conteste aussi les anciens par son expérience de terrain (hôpital, champ de bataille). Vésale contredit aussi les anciens à partir de ses dissections humaines. Gaetano Zumbo, *La Peste*, v. 1680: c'est l'inventeur de la céroplastie.
+
+Cette croyance en une théorie des correspondances se concrétise symboliquement en des studiolos: des pièces uniques où des échantillons (naturalia et artificialia) représentent l'unviers. Cespièces sont finies et fermées. Au XVIIè siècel, les sciences se désunifient et son séparées en disciplines, ainsi que le proposait déjà Francis Bacon dans on *Novum Organum* (1646). Il y avait une préférence pour des éléments mixtes (à la croisée du végétal, animal et minéral, par exemple le corail) car l'on pensait en pouvoir tirer des réponses. L'authenticité de l'élément est bien moins important que le symbole.
+
+# L'époque moderne (Isabelle Laboulais)
+
+La science se définit comme: un art libéral (trivium et quadrivium) opposé aux arts mécaniques (la technique étant considérée comme dégradante); et comme une histoire naturelle davantage qu'une mathématique (au moyen-âge, pas de place pour l'histoire naturelle): les mathématiques sont l'idéal de la science, mais le gros de l'activité est naturel.
+
+Ici l'on va adopter un point de vue plus large que l'histoire des sciences: l'histoire des savoirs, pour rendre compte de l'évolution du rapport entre sciences et techniques. Par exemple, Bacon voyait dans le progrès technique un moyen d'accroître la science. Mais l'époque moderne ne reproduit pas ce point de vue.
+
+L'histoire des sciences a d'abord été une entreprise de légitimation d'un courant ou d'un auteur. Mais elle est aujourd'hui concentrée sur le contexte historique et social, selon des notions de discontinuité, de fragilité et réversibilité.
+
+Robert Merton (1901-2003) joue un rôle central dans cette redirection: il fonde la spécialité de la sociologie des sciences par son ouvrage *Aspect sociologique du développement scientifique dans l'Angleterre* (1935). Par la démographie (dénombrement de figures et d'auteurs) et la contextualisation sociale du progrès, Merton produit une sociologie historique de l'institution scientifique. La science et les techniques au XVIIè seraient devenues des activités sociales au règles et valeurs propres par la légitimation d'un groupe de gentlemen de la société anglaise puritaine.
+
+Alexandre Koyré (1892-1964) met en avant une histoire des sciences discontinuiste à partir de Galilée (rupture conceptuelle) mais ne valorise pas la sociologie puisqu'il demeure à un niveai biographique. 1961, *La Révolution scientifique*.
+
+Thomas Kuhn réintroduit la sociologie: un paradigme est propre à une communauté faisant autorité, ils sont mêmes indistincts: un paradigme est fait de ses membres. Il propose une forme de progrès discontinuiste à partir de l'incommensurabilité des paradigmes.
+
+David Bloor, *Social Studies of Knowledge*, 4 principes: 
+
+- la causalité (à la base du raisonnement scientifique)
+
+- la symétrie des vainqueurs et des vaincus
+
+- l'impartialité (ne pas juger à partir de ses connaissances de la qualité des savoirs produits)
+
+- la réflexivité (s'appliquer à soi-même, l'historien, les principes que l'on énonce aux sciences).
+
+Bloor met en garde contre la téléologie: il faut contextualiser et examiner les sciences avec précision (groupes sociaux à l'origine des savoirs, solidification des gestes de savoir...).
+
+Années 1980: concentration de la communauté historienne sur la notion de controverse. Elle permet d'illuminer une dynamique de contestation et de stratégies individuelles et politiques pour atteindre le consensus. Ce qui est scientifique a changé au cour du temps: c'est ce qui est acceptable. (Le travail de Bachelard, *Le rationalisme appliqué*, précède cette approche en quelque sorte).
+
+L'historien ne sépare pas le conceptuel, le matériel, le politique et le social.
+
+Par les déplacements de la sociologie et de la philosophie (*Ways of Knowing*, 2000; *Social history of knowledge*, 2000) l'histoire des sciences devient une histoire des pratiques de production des savoirs. À partir de Bruno Latour, l'on observe même la science en train de se faire: sociologiquemente et anthropologiquement.
+
+## La figure du savant à la Renaissance
+
+Il faut donner attention à la construction des savoirs comme à la sociologie de l'activité scientifique. À la Renaissance, les savoirs scientifiques ne sont pas cosntituées dans un corps de doctrine homogène.
+
+La figure du savant est d'abord celle de l'humaniste: c'est celui qui redécouvre des textes anciens et les traduits en latin. Par exemple Agricola, qui traduit Gallien puis écrit *De re metallica*: 1) il a eu un poste d'apothicaire après la publication de Gallien; il a rédigé *De re metallica* car il avait un poste dans une région minière. Le mécénat italien joue un rôle majeur à l'humanisme. C'est-à-dire que devenir savant, c'est aussi acquérir un statut: ce n'est pas désintéressé.
+
+Ce n'est qu'à la fin du XVIè siècle que le mot "scientifique" s'autonomise et désigne une fragmentation des sciences en opposition au reste de la culture humaniste rassemblant les mathématiques, la physique et la médecine (opposition aussi à la théologie).
+
+La langue des savants est le latin, ce qui confine le savoir à la communauté de l'unviersité. Cela crée également un marché du livre.
+
+### Les savants et la science nouvelle
+
+La science nouvelle se fonde sur l'expérience et l'observation, en opposition à la tradition humaniste, vers 1620-1630. Le parcours de Galilée est un bon modèle en ce sens.
+
+Galilée détourne la lunette pour observer le ciel. Avec un grossissement de 30x, il observe des phénomènes en contradiction avec Aristote. Il organise une observation devant le Sénat de Venise, ce qui lui assure la protection des Médicis. *De Revolutionibus* (Copernic, 1543) était à l'index. Il publie en 1610, *Siderius Nuncius* et en 1632, *Dialogue sur les deux grands sytèmes du monde*, ce qui le voit condamné (défense de l'héliocentrisme). C'est un choc pour la communauté savante, qui fait naître la division entre les sciences et la théologie. Pour expliquer ses observations, le paradigme galiléen: l'idée que la nature est écrite en langage mathématique. C'est une séparation d'avec la théorie qualitative des signatures: on se concentre, en physique, sur la loi mathématique. Les observations et mesures commencent à être publiées et justifiées. S'établit alors le clivage: dogme-discours religieux / preuve-discours savant. Une communauté scientifique se met en place, qui se reconnaît dans le voeux de Bacon d'une science inductive et empiriste.
+
+Descartes propose aussi une nouvelle science opposée à l'humanisme à partir du *Discours sur la méthode* (1637).
+
+Les *Principia* de Newton (1687) marquent l'essort de la philosophie naturelle. À la fin du XVIIè siècle, ses attributs principaux sont les mathématiques et l'expérience: elles caractérisent aussi le vrai savant. À partir d'un monde vide et de l'action à distance, Newton s'oppose fortement à la mécanique pleine de Descartes.
+
+À partir du XVIIIè siècle, les termes de "savant" ou de "philosophe naturel" sont moins bien vus; on leur préfère des -istes du fait d'une spécialisation disciplinaire m(algré une méthode encore unie). Le pluralisme scientifique est en défaveur.
+
+La figure du savant s'oppose aussi à celle des philosophes mécaniques, car il ne sépare plus les mathématiques des arts libéraux (technique). Par la pratique, la science acquiert un caractère spectaculaire qui permet de gagner en notoriété sociale. La science s'introduit aussi à l'élite nobiliaire (elle sort de l'université par se démonstrativité). En plus d'occuper l'espace public, le savant gagne aussi l'espace universitaire (ex: Académie Royale des Sciences). Un bon autre exemple est celui de l'abbé Nollet: en dispute avec B. Franklin, il fait des recherches spectaculaires sur l'électricité.
+
+L'Acaémie prononce des Éloges annuels de membres disparus qui créent une persona (Marcel Mauss), une figure à l'itnersection de l'individuel et du collectif, en conformant l'éloge aux normes de la science: spécialité, éthos, disposition morale (économie morale de la science).
+
+### La figurede l'ingénieur de la Renaissance aux Lumières
+
+le mot d'ingénieur est présent dans toutes les langues vernaculaires de la Renaissance. Il indique la maîtrise de techniques mécaniques et d'une certaine pensée modélisatrice: même sans statut, nombreuses relations de l'ingénieur contribuent à la construction des états. Son statut s'instiutionnalise en fin de siècle. L'artiste-ingénieur se forme théoriquement (anciens, architecture, artillerie) et pratiquement: zones d'échanges (Peter Galison) telles que les chantiers. La rencontre des techniques et des savoirs est opposée à Aristote: la science et la technique de l'ouvrier sont exclus mutuellement dans les strates de la société. Le mécénat et la rédaction de traités contribuent à la notoriété de l'ingénieur. L'ingénieur s'oppose à l'alchimiste en mettant en valeur sa connaissance de première main de la nature (à partir du chantier).
+
+### La formation du corps d'ingénieurs militaires: le cas de la France au XVIIè siècle
+
+Un groupe qui a toujours existé mais qui a crû largement: 20 en 1604, à 400 en 1762. Une formation pour des tâches spécifiques apparaît: l'héritage n'est plus une justification suffisante. L'on distingue alors deux formations différentes: les bâtisseurs, et ceux des camapgnes et armées. Les bâtisseurs suivent une formation de 15 ans, alors que ceux des armées sont formés en mathématiques au collège des Jésuites.
+
+1747: l'école des ponts et chaussées fédère les corps des ponts et chaussées (1716) afin de rationaliser le déplacement dans le territoire de l'État. Les ingénieurs ont des missions et métiers propres à but social ou productif (économique). 
+
+1748: École de Génie de Mézières (fonctionne à partir de 1750). Très haut niveau: prestige.
+
+1783: école des Mines. Pour l'administration et exploitation des ressources minières.
+
+L'État est devenu le mécène des corps d'ingénieurs pour les garder à son service (avant: des individus servant des princes).
+
+La "république des sciences" est un concept d'histoire qui analyse spatialement la diffusion des savoirs et les pratiques de diffusion (critique, édition...). C'est un concept récent, qui a environ vingt ans. Elle émerge *de facto* en 1620-1630. Cette république n'est ni égalitariste, ni démocratique, ni universaliste: elle est dominée par l'Europe de L'ouest (Hollande, France, Italie, Allemagne), il y a une hiérarchie implicite dans le communauté savante. Ces institutions sont des lieux d'accumulation et de diffusion des savoirs.
+
+Première Académie: 1603, Italie, Académie des Lyncéens, sous l'autorité du prince Cési: dans le but de développer la philosophie naturelle, supporte les théories galiléennes (Galilée assiste à la première réunion).
+
+1660:Boyle, Petty, Witkins... fondent une société pour l'amélioration des connaissances de la nature. En 1662, elle devient la Royal Society. Elle publie son premier périodique en 1665 (6 mars). Les membres sont égaux en droit peu importe leur statut.
+
+1666: Académie Royale des Sciences. Restreinte par une mission royale (surveiller le développement des sciences) et par son nombre (70 membres maximum). Elle possède deux sous-ensembles techniques: les sciences mathématiques (géométrie, astronomie, mécanique) et les sciences physiques (anatomie, chimie, botanique). Elle sert aussi de prestige au Roi: l'académicien est choisi (pour les 20 pensionnaires) sur la raison d'un ouvrage "considérable" dans son domaine. Par le moyen de l'ARS, la figure du savant change: il mérite un éloge académique (alors que l'université censurait le savant auparavant).
+
+D'après Christophe Charle, l'on peut trouver des "capitales culturelles" à cette époque: des structures économiques et politiques qui forment un cadre de contextualisation pour l'innovation et la diffusion culturelle, avec un pouvoir d'attraction et de consécration qui tient à l'interaction sociale et à l'extrême proximité d'individus de différents champs de savoir. Au XVIIè siècle, ces villes apparaissent: Paris et Londres, avec l'Italie en retrait.
+
+Ces capitales comportent de nombreux lieux de capitalisation sociale et symbolique: lycées, académies, sociétés de science... Ces capitales créent des réseaux de mobilité et de diffusion à l'échelle européenne. Les controverses et le prestige induisent des programmes à grande échelle (mesure de l'échelle de la Terre, recherches géodésiques...) et des disputes (dynamiques de pouvoir) par exemple sur l'origine du calcul infinitésimal à laquelle Leibniz et Newton prétendent chacun. Aujourd'hui, l'on parlerait de découvert simultanée.
+
+Un réseau international de circulation des savoirs se constitue: cabinets, voyages de terrain, correspondance, périodiques. L'usage des langues vernaculaires multiplie aussi les traductions.
+
+### Les cultures expérimentales du XViè et XVIIè siècles
+
+L'historien ne doit pas seulement s'attacher aux publications mais aussi explorer les lieux de savoir, dont le laboratoire: Bruno Latour, Steven Shapin, Peter Dear.
+
+À l'origine de l'expérience: la controverse Boyle/Hobbes sur l'existence du vide (1660-70). Hobbes ne reconnaît pas la valeur des expériences de Boyle sur la pompe à air pour défendre le vacuisme, car: question de la fiabilité de l'instrument (récuse les faits), rejète la causalité de Boyle et propose une explication différente. Boyle se défend par un plaidoyer justifiant la fiabilité de don expérience, notamment par se reproductibilité.
+
+Steven Shapin & Schaeffer, *Léviathan et la pompre à air, Hobbes et boyle entre science et politique* (1993).
+
+Il y a des enjeux: épistémiques, épistémologiques (validation par la Royal Society, choix des témoins de l'expérience) et médiatiques (diffusion des compte-rendus). Le programme de David Bloor est appliqué dans cette étude.
+
+Le laboratoire passe du secret herméneutique de l'alchimiste à un lieu public aux témoins choisis, soutenu par une forme d'empirisme. Mais la scienec reste esclave de l'institution (ex: Royal Society).
+
+Dans les élites civiles, une culture de curiosité se développe, ce qui permet par le moyen des salons d'inclure les femmes. Cependant, les expériences civiles restent récréatives ou spectaculaires (XVIIIè siècle).
+
+La controverse Nollet et Franklin sur les espèces d'électricité (selon Franklin: l'électricité atmosphérique est la même que les autres éléctricités) finit par condamner la valeur des argumentative du spectacle, au profit d'une explication, surtout après la mort de Nollet, dans les années 1770.
+
+Les compte-rendus d'expérienec poussent également à préférer la persuasion par l'exactitude de la mesure que par le choix des témoins. Sur le terrain aussi, on préfère l'instrument à l'oeil.
+
+À la fin du XVIIIè siècle, la science expérimentale et la science curieuse sont largement séparées par la communauté scientifique: la théatralité est abandonnée.
+
+### La fabrique de l'oeil savant
+
+Buffon, 1749, *Manières d'étudier la nature*.
+
+Au XVIè siècle, un oeil qui embrasse tout (synthétique), au XIXè siècle, un oeuil qui accumule des détails pour obtenir une vision globale, sur un sujet très précis et sélectif: un rapport d'observation quotidien.
+
+Le regarde s'éduque. Au XVII-XVIIIè siècles: cherche l'immédiateté avec la nature, spécimen naturels, fait des collections et descriptions dans ce but. On multiplie les supports du regard; cela divise aussi les sciences.
+
+Entre le XVIè siècle et le XVIIIè siècle, l'oeil s'éduque aussi à l'usage de la lentille: elle est d'abord vue comme ne produisant que des illusions, mais finit par surpasser l'oeil. L'éducation de l'oeil à l'instrument magnificateur est une marque de distinction de l'expert.
+
+L'observateur doit aussi être capable d'observer ce qu'il voit: passer du détail aux rapports généraux. L'observation et l'explication sont complémentaires.
+
+Bacon est le premier à proposer une sciene fondée sur le voyage. Les voyages deviennent communs par l'essor de l'observation, par exemple pour résoudre des problèmes de géodésie ou d'astronomie.
+
+Les natures acommpagneront systématiquement les expéditions militaires (coloniales): Bougainville, Lapérouse, Cooke.
+
+Les baconiens introduisent les premiers le bocabulaire de l'observation, de l'expérience et de l'expérimentation au XVIIème siècle à la Royal Society. Par suite, il sera conservé (l'observation est même décrite comme "autopsie": voir de soi-même). L'on distingue entre l'observation et l'expériemntation par le fait que l'expérimentation cherche des causes cachées. Ce qui ne peut etre observé suscite des expériences: un tandem popularisé à partir des années 1770.
+
+le voyage est subordonné au cbinet par le moyen de questionnaires d'observation et d'instructions. Les techniques d'inscription sont aussi développées: le produt du cabinet est une succession de chiffres dont il faut comprendre les codes.
+
+Entre le XVIè siècle et le XVIIIè siècle, l'observation devient un outil de conjecture. Ce développement caractérise la science moderne (par contraste du raisonnement scolastique.
+
+### L'expérise territoriale
+
+Cette expertise fait partie des fonctions de l'ARS. Elle tourne l'Académie vers l'action publique.
+
+L'expert: une situation précise de sollicitation en vertu d'un savoir autonome et spécifique ou d'une expérience particulière.
+
+Il y a des experts profanes et des experts scientifiques. L'expertise de l'École des Mines permet m''exploitation du territoire français.
+
+[etc]

@@ -10,13 +10,13 @@ tags: ["histoire","histoire des sciences","époque moderne","moderne"]
 
 Notes tirées du cours commun de [Fanny Kieffer](https://arche.unistra.fr/equipe/membres-titulaires/fanny-kieffer/) et [Isabelle Laboulais](https://sage.unistra.fr/isabelle-laboulais/) ([cairn](https://shs.cairn.info/publications-de-isabelle-laboulais--48499?lang=fr)).
 
-Un panorama de la modernité (Kieffer) à l'ère industrielle (Laboulais) en restituant la venue de la modernité à partir de l'antiqutié grecque, éhyptienne, mésopotamienne et chinoise. Et quelques tours de la méthode historique pour déterminer les raisons des découvertes par le contexte (culturel, économique, politique, philosophique, historique...)
+Un panorama de la modernité (Kieffer) à l'ère industrielle (Laboulais) en restituant la venue de la modernité à partir de l'antiqutié grecque, égyptienne, mésopotamienne et chinoise. Et quelques tours de la méthode historique pour déterminer les raisons des découvertes par le contexte (culturel, économique, politique, philosophique, historique...)
 
 La méthode historique se fonde sur:
 
-- la recherchede l'information et sa vérification par les sources originales
+- la recherchede de l'information et sa vérification par les sources originales
 
-- la neutralité : parce que la situation de l'historien(ne) est différente de son sujet, il/elle essaie d'effacer so opinion
+- la neutralité : parce que la situation de l'historien(ne) est différente de son sujet, elle/il essaie d'effacer so opinion
 
 # Introduction sur l'antiquité (Fanny Kieffer):
 

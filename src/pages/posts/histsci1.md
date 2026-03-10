@@ -24,7 +24,7 @@ Toutes les découvertes sont des assemblages de connaissances précédentes. Il 
 
 Les sciences apparaissent en même temps que la philosophie, c'est-à-dire dans la pratique publique du savoir à Athènes. Les mathématiques (sciences) et la philosophie se rejoignent par une approche abstraite et logique: l'on raisonne, démontre et cherche des preuves.
 
-Thalèes (c. -625 / -547) et Pythagore (c. -565 / -500) n'ont pas de source directe mais leurs théories ont l'influence d'Égypte, Asie mineur et Mésopotamie (voyages). Pythagore, *mathema*: ce qui est appris; philosophie: amour de la sagesse). Le but des mathématiques est de résoudre des problèmes par des outils simples (raisonnement, compas, règle et stylet). Ils laissent ainsi trois grands problèmes: la quadrature du cercle, la duplication du cube et la trisection de l'angle.
+Thalès (c. -625 / -547) et Pythagore (c. -565 / -500) n'ont pas de source directe mais leurs théories ont l'influence d'Égypte, Asie mineur et Mésopotamie (voyages). Pythagore, *mathema*: ce qui est appris; philosophie: amour de la sagesse). Le but des mathématiques est de résoudre des problèmes par des outils simples (raisonnement, compas, règle et stylet). Ils laissent ainsi trois grands problèmes: la quadrature du cercle, la duplication du cube et la trisection de l'angle.
 
 Platon (fonde l'académie, en -IVè siècle) et Aristote sont autant philosophes que mathématiciens (voir par exemple le *Timée* de Platon, dont sont tirées les solides platoniciens et la perfection de la sphère, reprise dans la cosmologie aristotélicienne). En se contentant de la théorie, chaque élément sensible peut s'expliquer à partir d'une bonne forme mathématique. De Platon à la révolution scientifique moderne, on s'occupe donc de *sozein tai phenomena*, de sauver les apparences. Les apparences doivent coller à un schéma idéal divin. Les sciences modernes inversent cette relation, logiquement (observation, déduction et enfin abstraction) et techniquement (lunette de Galilée, *Le messager céleste*, 1610). 
 
@@ -49,9 +49,9 @@ L'expérimentation appraît à partir de deux choses: un développement expérim
 Cette union des sciences et le syncrétisme du monde ancien et des monothéismes sous l'égide d'un christianisme platonisé se retrouve dans *De hominus dignitate* de Giovanni Pico della Mirandola et dans l'oeuvre de Marsil Fissin (*Théologie première*) quit ont eu une influence énorme. Pico della Mirandola enseigne que l'individu qui étudie le monde, la nature peut accéder à une magie: l'inspiration divine, donc à un contrôle, un pouvoir sur la nature (en grec, magique signifie puissance). Dieu domine l'homme commun, mais l'individu a la liberté de s'instruire et donc d'accroître son pouvoir sur la nature (une idée que l'on retrouve chez Descartes !).
     Le néoplatonisme du monde ecclésiastique se retrouve dans l'architecture, par exemple la façace de l'église de Mantoue (cercles et carrés). La perspective se développe de cet itnérêt pour la géoémtrie (la perspective était déjà connue au moyen-âge, mais on lui préférait le symbolisme) et le peintre commence à prendre le statut d'artiste car il doit se faire savant pour représenter adéquatemment la nature (ce n'est plus un simple artisan ou ouvrier).
 
-Le papyrus de Leyde (IIIè siècle ap. J.C.) fonde la pratique alchimiste tout comme l'idée de lunité du monde et la théorie des sympathies (signatures analogiques). Ainsi les procédés de l'orfèvrerie (fonde, deshydrater, diluer) et le rôle des éléments (feu, air, eau) sont repris par les alchimistes. 
+Le papyrus de Leyde (IIIè siècle ap. J.C.) fonde la pratique alchimiste tout comme l'idée de l'unité du monde et la théorie des sympathies (signatures analogiques). Ainsi les procédés de l'orfèvrerie (fonde, deshydrater, diluer) et le rôle des éléments (feu, air, eau) sont repris par les alchimistes. 
 
-La tradition hermétique: crypter le texte car un pouvoir un pouvoir à utiliser à bon escient s'y trouve.
+La tradition hermétique: crypter le texte car un pouvoir à utiliser à bon escient s'y trouve.
 
 ## Médecine:
 

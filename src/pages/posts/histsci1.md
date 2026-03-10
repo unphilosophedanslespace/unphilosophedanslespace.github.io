@@ -14,7 +14,7 @@ Un panorama de la modernité (Kieffer) à l'ère industrielle (Laboulais) en res
 
 La méthode historique se fonde sur:
 
-- la recherchede de l'information et sa vérification par les sources originales
+- la recherche de l'information et sa vérification par les sources originales
 
 - la neutralité : parce que la situation de l'historien(ne) est différente de son sujet, elle/il essaie d'effacer so opinion
 
